@@ -1,0 +1,2691 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LocalizationWrapper xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entries>
+	<Entry>
+      <Name>Linguistic</Name>
+      <Data>
+        <string> and </string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>TimeFlags</Name>
+      <Data>
+		<string>#s second</string>
+		<string>#s seconds</string>
+		<string>#m minute</string>
+		<string>#m minutes</string>
+		<string>#h hour</string>
+		<string>#h hours</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>Tools</Name>
+      <Data>
+        <string>Hands</string>
+		<string>Shovel</string>
+		<string>Hammer-Axe</string>
+		<string>Seed Pouch</string>
+		<string>Reaping Hook</string>
+		<string>Dung Bag</string>
+		<string>Fishing Rod</string>
+		<string>Water Bucket</string>
+		<string>Basket</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>TileProperties</Name>
+      <Data>
+        <string>Wetness</string>
+		<string>Eutrophy</string>
+		<string>Windbreaking</string>
+		<string>Plant Density</string>
+      </Data>
+    </Entry>
+    <Entry>
+      <Name>ItemTypes</Name>
+      <Data>
+        <string>Unknown</string>
+		<string>Crop</string>
+		<string>Fish</string>
+		<string>Bread</string>
+		<string>Malt</string>
+		<string>Wort</string>
+		<string>Yeast</string>
+		<string>Beer</string>
+		<string>Junk</string>
+		<string>Treasure Chest</string>
+		<string>Recipe</string>
+		<string>Wood</string>
+		<string>Wool</string>
+		<string>Stone</string>
+		<string>Iron Ore</string>
+		<string>Iron</string>
+		<string>Dynamite</string>
+		<string>Medicine</string>
+		<string>Pigeon Meat</string>
+		<string>Pigeon Egg</string>
+		<string>Fried Egg</string>
+		<string>Winter Care Package</string>
+		<string>Mysterious Seed Bag</string>
+		<string>Valentine's Day Card</string>
+		<string>Message in a Bottle</string>
+		<string>Celestial Mirror</string>
+		<string>Astrolabe</string>
+		<string>Celestial Joy</string>
+		<string>Celestial Seed Bag</string>
+      </Data>
+    </Entry>
+    <Entry>
+      <Name>SpecialItemTypes</Name>
+      <Data>
+        <string>Water</string>
+		<string>Dung</string>
+		<string>Crops</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>PlantTypes</Name>
+      <Data>
+		<string>Hop</string>
+		<string>Corn</string>
+		<string>Wheat</string>
+		<string>Barley</string>
+		<string>Rye</string>
+		<string>Spelt</string>
+		<string>Blueleaves</string>
+		<string>Belladonna</string>
+		<string>Dryroot</string>
+		<string>Lotus</string>
+		<string>Sunflowers</string>
+		<string></string>
+		<string>Scholar's Fire</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>SeedTypes</Name>
+      <Data>
+		<string>Hop Seeds</string>
+		<string>Corn Seeds</string>
+		<string>Wheat Seeds</string>
+		<string>Barley Seeds</string>
+		<string>Rye Seeds</string>
+		<string>Spelt Seeds</string>
+		<string>Blueleaves Seeds</string>
+		<string>Belladonna Seeds</string>
+		<string>Dryroot Seeds</string>
+		<string>Lotus Seeds</string>
+		<string>Sunflowers Seeds</string>
+		<string>Cotton Plant Seeds</string>
+		<string>Scholar's Fire Seeds</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>Empty</Name>
+      <Data>
+        <string>EMPTY!</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>CompostOnlyCrops</Name>
+      <Data>
+        <string>Only Crops Allowed!</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>Quality</Name>
+      <Data>
+        <string>Quality</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>MinQuality</Name>
+      <Data>
+        <string>Minimal Quality</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>BeerProperties</Name>
+      <Data>
+        <string>Taste</string>
+		<string>Tint Darkness</string>
+		<string>Full Body</string>
+		<string>Acerbity</string>
+		<string>Alcoholic Strength</string>
+		<string>Flavor</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>BeerPropertiesShort</Name>
+      <Data>
+        <string>Taste</string>
+		<string>Tint Darkn.</string>
+		<string>Full Body</string>
+		<string>Acerbity</string>
+		<string>Alc. Strength</string>
+		<string>Flavor</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>Comfort</Name>
+      <Data>
+        <string>Comfort</string>
+		<string>Comfort Points</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>Qualities</Name>
+      <Data>
+        <string>Disgusting</string>
+		<string>Bad</string>
+		<string>Mediocre</string>
+		<string>Good</string>
+		<string>Very Good</string>
+		<string>Fantastic</string>
+		<string>Perfect</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>Tints</Name>
+      <Data>
+		<string>Crazy</string>
+        <string>Extremely Pale</string>
+		<string>Very Pale</string>
+		<string>Pale</string>
+		<string>Brown</string>
+		<string>Very Brown</string>
+		<string>Extremely Brown</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>FullBodies</Name>
+      <Data>
+		<string>Crazy</string>
+        <string>Extremely Weak</string>
+		<string>Very Weak</string>
+		<string>Weak</string>
+		<string>Strong</string>
+		<string>Very Strong</string>
+		<string>Extremely Strong</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>Acerbities</Name>
+      <Data>
+		<string>Crazy</string>
+        <string>Extremely Smooth</string>
+		<string>Very Smooth</string>
+		<string>Smooth</string>
+		<string>Acerbic</string>
+		<string>Very Acerbic</string>
+		<string>Extremely Acerbic</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>Tastes</Name>
+      <Data>
+        <string>Corn</string>
+		<string>Wheat</string>
+		<string>Barley</string>
+		<string>Rye</string>
+		<string>Spelt</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>Flavors</Name>
+      <Data>
+		<string>None</string>
+        <string>Blueleaves</string>
+		<string>Belladonna</string>
+		<string>Dryroot</string>
+		<string>Lotus</string>
+		<string>Sunflower</string>
+		<string></string>
+		<string>Scholar's Fire</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>AlcoholicStrengths</Name>
+      <Data>
+		<string>Crazy</string>
+        <string>Extremely Weak</string>
+		<string>Very Weak</string>
+		<string>Weak</string>
+		<string>Strong</string>
+		<string>Very Strong</string>
+		<string>Extremely Strong</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>BreadTypes</Name>
+      <Data>
+        <string>Corn Bread</string>
+		<string>Wheat Bread</string>
+		<string>Barley Bread</string>
+		<string>Rye Bread</string>
+		<string>Spelt Bread</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>MaltTypes</Name>
+      <Data>
+        <string>Corn Malt</string>
+		<string>Wheat Malt</string>
+		<string>Barley Malt</string>
+		<string>Rye Malt</string>
+		<string>Spelt Malt</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>WortTypes</Name>
+      <Data>
+        <string>Corn Wort</string>
+		<string>Wheat Wort</string>
+		<string>Barley Wort</string>
+		<string>Rye Wort</string>
+		<string>Spelt Wort</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>BeerTypes</Name>
+      <Data>
+        <string>Corn Beer</string>
+		<string>Wheat Beer</string>
+		<string>Barley Beer</string>
+		<string>Rye Beer</string>
+		<string>Spelt Beer</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>UnspecificProductionNames</Name>
+      <Data>
+        <string>Wood</string>
+		<string>Crop for Taste (e.g. Barley)</string>
+		<string>Water for Tint Darkness (via Bucket)</string>
+		<string>Malt</string>
+		<string>Wort</string>
+		<string>Hop for Acerbity</string>
+		<string>Yeast for Alcoholic Strength (from Hawker)</string>
+		<string>Optional Crop for Flavor (e.g. Belladonna)</string>
+		<string>Beer</string>
+		<string>Crop (e.g. Barley)</string>
+		<string>Dung (via Dung Bag)</string>
+		<string>Raw Material (e.g. Barley, Fish or Iron Ore)</string>
+		<string>Cooked/Molten Product</string>
+		<string>Water for Full Body (via Bucket)</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>Malt</Name>
+      <Data>
+        <string>Malt</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>Wort</Name>
+      <Data>
+        <string>Wort</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>Beer</Name>
+      <Data>
+        <string>Beer</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>Yeast</Name>
+      <Data>
+        <string>Yeast</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>Filled</Name>
+      <Data>
+        <string>Filled</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>CannotPlacedHere</Name>
+      <Data>
+        <string>Not Here!</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>NotEnoughMoney</Name>
+      <Data>
+        <string>Not Enough Resources!</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>TooTired</Name>
+      <Data>
+        <string>Too Tired! Sleep!</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>TooHungry</Name>
+      <Data>
+        <string>Too Hungry! Eat!</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>IsEmpty</Name>
+      <Data>
+        <string>Empty</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>IsFull</Name>
+      <Data>
+        <string>Full</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>IsNotPossible</Name>
+      <Data>
+        <string>Not Possible</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>FishTypes</Name>
+      <Data>
+        <string>Small Fish</string>
+		<string>Midsized Fish</string>
+		<string>Big Fish</string>
+		<string>Baked Small Fish</string>
+		<string>Baked Midsized Fish</string>
+		<string>Baked Big Fish</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>PigeonMeatTypes</Name>
+      <Data>
+        <string>Raw Pigeon Meat</string>
+		<string>Baked Pigeon Meat</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>JunkTypes</Name>
+      <Data>
+        <string>Broken Mug</string>
+		<string>Rotten Boots</string>
+		<string>Orcish Skull</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>BedWarning</Name>
+      <Data>
+        <string>There has to be 1 bed!</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>UnlockedRecipe</Name>
+      <Data>
+        <string># unlocked</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>FurnitureCategories</Name>
+      <Data>
+        <string>Miscellaneous</string>
+		<string>Land</string>
+		<string>Outdoor Floors</string>
+		<string>Outdoor Walls</string>
+		<string>Outdoor Utility</string>
+		<string>Indoor Floors</string>
+		<string>Indoor Walls</string>
+		<string>Indoor Production</string>
+		<string>Indoor Utility</string>
+		<string>Furniture Inn</string>
+		<string>Colors</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>Doodads</Name>
+      <Data>
+        <string>Hop Plant</string>
+		<string>Corn Plant</string>
+		<string>Wheat Plant</string>
+		<string>Barley Plant</string>
+		<string>Rye Plant</string>
+		<string>Spelt Plant</string>
+		<string>Blueleaves Plant</string>
+		<string>Belladonna Plant</string>
+		<string>Dryroot Plant</string>
+		<string>Lotus Plant</string>
+		<string>Sunflower Plant</string>
+		<string>Big Tree</string>
+		<string>Small Tree</string>
+		<string>Juncus (0)</string>
+		<string>Juncus (1)</string>
+		<string>Juncus (2)</string>
+		<string>Juncus (3)</string>
+		<string>Juncus (4)</string>
+		<string>Juncus (5)</string>
+		<string>Bush</string>
+		<string>Tree Stump</string>
+		<string>Rotten Tree</string>
+		<string>Wooden Fence</string>
+		<string>Stony Fence</string>
+		<string>Compost Box</string>
+		<string>Bed</string>
+		<string>Chest</string>
+		<string>Beer Barrel</string>
+		<string>Malt Box</string>
+		<string>Wort Boiler</string>
+		<string>Beer Brewing Kettle</string>
+		<string>Furnace</string>
+		<string>Rain Barrel</string>
+		<string>Wooden Wall 'Simple'</string>
+		<string>Wooden Door 'Simple'</string>
+		<string>Blue Stone Boulder</string>
+		<string>Green Stone Boulder</string>
+		<string>Red Stone Boulder</string>
+		<string>Black Stone Boulder</string>
+		<string>Visitor Spawn</string>
+		<string>Wooden Bar 'Simple'</string>
+		<string>Wooden Chair 'Simple'</string>
+		<string>Faucet 'Treant'</string>
+		<string>Hawker's Post</string>
+		<string>Tavern Sign</string>
+		<string>Wooden Pillar</string>
+		<string>Straw</string>
+		<string>Gully</string>
+		<string>Vase</string>
+		<string>Vase with Skulls</string>
+		<string>Vase with Ivy</string>
+		<string>Vase with Foliage Plant</string>
+		<string>Vase with Weapons</string>
+		<string>Skull Pile</string>
+		<string>Wooden Chair 'Forest'</string>
+		<string>Wooden Table 'Simple'</string>
+		<string>Wooden Table 'Barrel'</string>
+		<string>Wooden Table 'Forest'</string>
+		<string>Fireplace</string>
+		<string>Sunk-in Fireplace</string>
+		<string>Front Banner</string>
+		<string>Back Banner</string>
+		<string>Shaman</string>
+		<string>Pipe (Input)</string>
+		<string>Pipe (Output)</string>
+		<string>Small Tree Sprout</string>
+		<string>Woodpile</string>
+		<string>Cotton Plant</string>
+		<string>Stone Pit</string>
+		<string>Pipe (Combined)</string>
+		<string>Pigeon Feeding Box</string>
+		<string>Pigeon Sleeping Box</string>
+		<string>Celestial Mirror</string>
+		<string>Scholar's Fire Plant</string>
+		<string>Sign</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>DoodadsExtended</Name>
+      <Data>
+        <string>The Hop Plant</string>
+		<string>The Corn Plant</string>
+		<string>The Wheat Plant</string>
+		<string>The Barley Plant</string>
+		<string>The Rye Plant</string>
+		<string>The Spelt Plant</string>
+		<string>The Blueleaves Plant</string>
+		<string>The Belladonna Plant</string>
+		<string>The Dryroot Plant</string>
+		<string>The Lotus Plant</string>
+		<string>The Sunflower Plant</string>
+		<string>The Big Tree</string>
+		<string>The Small Tree</string>
+		<string>The Juncus (0)</string>
+		<string>The Juncus (1)</string>
+		<string>The Juncus (2)</string>
+		<string>The Juncus (3)</string>
+		<string>The Juncus (4)</string>
+		<string>The Juncus (5)</string>
+		<string>The Bush</string>
+		<string>The Tree Stump</string>
+		<string>The Rotten Tree</string>
+		<string>The Wooden Fence</string>
+		<string>The Stony Fence</string>
+		<string>The Compost Box</string>
+		<string>The Bed</string>
+		<string>The Chest</string>
+		<string>The Beer Barrel</string>
+		<string>The Malt Box</string>
+		<string>The Wort Boiler</string>
+		<string>The Beer Brewing Kettle</string>
+		<string>The Furnace</string>
+		<string>The Rain Barrel</string>
+		<string>The Wooden Wall 'Simple'</string>
+		<string>The Wooden Door 'Simple'</string>
+		<string>The Blue Stone Boulder</string>
+		<string>The Green Stone Boulder</string>
+		<string>The Red Stone Boulder</string>
+		<string>The Black Stone Boulder</string>
+		<string>The Visitor Spawn</string>
+		<string>The Wooden Bar 'Simple'</string>
+		<string>The Wooden Chair 'Simple'</string>
+		<string>The Faucet 'Treant'</string>
+		<string>The Hawker's Post</string>
+		<string>The Tavern Sign</string>
+		<string>The Wooden Pillar</string>
+		<string>The Straw</string>
+		<string>The Gully</string>
+		<string>The Vase</string>
+		<string>The Vase with Skulls</string>
+		<string>The Vase with Ivy</string>
+		<string>The Vase with Foliage Plant</string>
+		<string>The Vase with Weapons</string>
+		<string>The Skull Pile</string>
+		<string>The Wooden Chair 'Forest'</string>
+		<string>The Wooden Table 'Simple'</string>
+		<string>The Wooden Table 'Barrel'</string>
+		<string>The Wooden Table 'Forest'</string>
+		<string>The Fireplace</string>
+		<string>The Sunk-in Fireplace</string>
+		<string>The Front Banner</string>
+		<string>The Back Banner</string>
+		<string>The Shaman</string>
+		<string>The Pipe (Input)</string>
+		<string>The Pipe (Output)</string>
+		<string>The Small Tree Sprout</string>
+		<string>The Woodpile</string>
+		<string>The Cotton Plant</string>
+		<string>The Stone Pit</string>
+		<string>The Pipe (Combined)</string>
+		<string>The Pigeon Feeding Box</string>
+		<string>The Pigeon Sleeping Box</string>
+		<string>The Celestial Mirror</string>
+		<string>The Scholar's Fire Plant</string>
+		<string>The Sign</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>Tiles</Name>
+      <Data>
+		<string>High Grass</string>
+		<string>Midsized Grass</string>
+		<string>Low Grass</string>
+		<string>Land</string>
+		<string>Water</string>
+		<string>Dirt</string>
+		<string>Bridge</string>
+		<string>Cliff</string>
+		<string>Waterfall</string>
+		<string>Wooden Floor</string>
+		<string>Wooden Panel Floor</string>
+		<string>Stone Floor</string>
+		<string>Grate Floor</string>
+		<string>Carpet Floor</string>
+		<string>Ornate Carpet Floor</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>SpecialFurnitures</Name>
+      <Data>
+        <string>Decorator</string>
+		<string>Delete</string>
+		<string>Red</string>
+		<string>Orange</string>
+		<string>Purple</string>
+		<string>Blue</string>
+		<string>Turquois</string>
+		<string>Green</string>
+		<string>Black</string>
+		<string>Underground Pipe (Input)</string>
+		<string>Underground Pipe (Output)</string>
+		<string>Underground Pipe (Combined)</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>SpecialFurnituresExtended</Name>
+      <Data>
+        <string>Decorator</string>
+		<string>Delete</string>
+		<string>Red</string>
+		<string>Orange</string>
+		<string>Purple</string>
+		<string>Blue</string>
+		<string>Turquois</string>
+		<string>Green</string>
+		<string>Black</string>
+		<string>The Underground Pipe (Input)</string>
+		<string>The Underground Pipe (Output)</string>
+		<string>The Underground Pipe (Combined)</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>UpgradeNames</Name>
+      <Data>
+        <string>Shovel</string>
+		<string>Hammer</string>
+		<string>Pouch</string>
+		<string>Bucket</string>
+		<string>Dung Bag</string>
+		<string>Fish. Rod</string>
+		<string>Scythe</string>
+		<string>Baking</string>
+		<string>Brewing</string>
+		<string>Storage</string>
+		<string>Haggler</string>
+		<string>Prospector</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>UpgradeDescriptions</Name>
+      <Data>
+        <string>Decreases costs for buying structures.</string>
+		<string>Increases revenues for selling structures, allows to destroy solider stones and stone pits eject rarer stones.</string>
+		<string>Increases growth speed of plants. Up to level 4, the hawker will sell new plant seeds.</string>
+		<string>Increases maximal water stored in buckets and rain barrels and increases the time tiles stay wet.</string>
+		<string>Improves maximal dung stored in the dung bag, the time tiles stay dunged and the production time and storage capacities of composts.</string>
+		<string>Increases the chance to find better fish and loot.</string>
+		<string>Increases the chance that plants drop more seeds if let alone and more crops during the plant's main season.</string>
+		<string>Decreases production time of furnaces.</string>
+		<string>Increases capacity and descreases production time of malt boxes, wort boilers and beer brewing kettles.</string>
+		<string>Increases storage capacity of chests and barrels.</string>
+		<string>Decreases costs and increases revenues for trading with the hawker.</string>
+		<string>Trees grow faster, their wood increases faster in quality and stone pits eject more stones</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>Clan</Name>
+      <Data>
+        <string>Clan</string>
+		<string>The</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>ClanNames</Name>
+      <Data>
+        <string>Ghouls</string>
+		<string>Coopers</string>
+		<string>Blacksmiths</string>
+		<string>Spearheads</string>
+		<string>Twisted Dragon</string>
+		<string>War Chant</string>
+		<string>Miners</string>
+		<string>Berserkers</string>
+		<string>Eye of Mind</string>
+		<string>Historians</string>
+		<string>Raven Covenant</string>
+		<string>Fishermen</string>
+		<string>Hawkers</string>
+		<string>Spirit Brew</string>
+		<string>First Scouts</string>
+		<string>Backbone</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>ClanDescriptions</Name>
+      <Data>
+        <string>Long ago, the members of the Ghouls were part of respected clans, forming the rearguard in the vast orcish wars. As success and glory grew within the orcish army, the once respected latecomers degenerated to ghouls, searching the enemies' corpses for valuable loot. Now, the Ghouls are a disgusting pack of vermin.</string>
+		<string>The Coopers craft barrels and chests of all kind. They are one of the first craftsmen forming a guild. Their financial power ensured wealth and influence in the orcish politics. Anyway, they are often underestimated by the other craft guilds.</string>
+		<string>Beyond the other crafts, the guild of blacksmiths is one of the most known and respected craftsmen guilds in the lands. Especially, because smithery plays a major role in the orcish culture which is a synonym for war. Across the major clans, every smith has to be part of this guild.</string>
+		<string>Like the name let one assume, the Spearhead is a clan which provides foolhardy warriors for the front line. They could have something like family related tradition, but because of the low expectancy of life, they recruit foreign orcs in tremendous dimensions.</string>
+		<string>This clan spread fear and trepidation during the civil war. They performed a bloody inquisition against the defeated, and after they were smoked out, against themselves. They call themselves the twisted dragon who clasps his enemies. The people just call them the hydra who bites off her own heads.</string>
+		<string>The War Chant clan's purpose is to shape and exercise the orcish musical side. Their war songs are famous and played a lot, whether it is a calm social gathering or on the bloody battlegrounds.</string>
+		<string>The Miners are from a despised caste of workers. They dig for valuable resources and unearth the minerals the whole orcish crafting culture relies on. In the recent years, the big community of miners has been getting more and more restive and aggressive.</string>
+		<string>The Berserker clan provides the manpower for the orcish forces. They are under the control of the current ruling warlord. Orcs, who strive for a simple life with an assured income normally overrun to this clan, if they were not already born in it.</string>
+		<string>Eye of Mind is a coalition of shamans across the country. Their main purpose is to call old ghosts and to bind them to objects, mainly artifacts. Some of the shamans partake in dubious practices and if a descendant didn't liked his parents that much, the deceased father or mother could end as a living faucet on the black market.</string>
+		<string>Like no other clan, the Historian clan forms the building staff of the orcish society, tutoring young orcs to scholars. Beyond that, they write down the orcish history. These chronicles are stored and are public available in the capital's library.</string>
+		<string>The Raven Covenant is a discreet and secretive organizations which main purpose is kept in the dark, too. Battle-scarred and political motivated, they may be the puppet masters behind the curtain.</string>
+		<string>As an old and stable clan, the Fishermen can look back on a long and flourish tradition. The fishers' handcraft is pursued with a lot of proud and tight regulations. Devotees of this lifestyle have to come along with a lot of courage: the orcish swamps can be scarier and more dangerous then every battleground out there.</string>
+		<string>Yes, the hawkers are organized in a kind of Hawker clan, while still partially belonging to their original clans. The clan regulates prices, trading zones and tolls. Part of their income is taxed and in return, they enjoy a certain degree of neutrality among the clans.</string>
+		<string>The Spirit Brew clan is a shaman circle which specialized on brewing and cooking. While they work wonders in their kettles from time to time, they are often mistrusted and excluded from the overall social life. As a result, they often live isolated in the woods and visit nearby towns only for trading.</string>
+		<string>The First Scouts clan shakes the boundaries of the orcish world over and over again. Expedition ships and a rich and extensive library of maps are their fundamentals and their lines are filled with enthusiastic orcs.</string>
+		<string>The Backbone clan is a colloquial label of the orcish lumberjacks out there, because they are metaphorical the backbone of the orcish empire. Without their strength and knowledge of building wood chopping machines, the orcs would still live in thin tents instead of huge orcish cities.</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>OverallSatisfaction</Name>
+      <Data>
+        <string>Overall Satisfaction</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>Reputation</Name>
+      <Data>
+        <string>Reputation</string>
+		<string> +# reputation per second.</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>SocialState</Name>
+      <Data>
+        <string>Social Rank</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>Warnings</Name>
+      <Data>
+        <string>FULL</string>
+		<string>NOT AVAILABLE</string>
+		<string>OUT OF REACH</string>
+		<string>CLANS WITH PERMISSION WILL VISIT YOUR INN</string>
+		<string>NO CLAN WILL VISIT YOUR INN</string>
+		<string>HERE IS ALREADY AN OVERGROUND PIPE</string>
+		<string>HERE IS ALREADY AN UNDERGROUND PIPE</string>
+		<string>NOT POSSIBLE IN PIPE DISPLAY MODE</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>ScreenAnnotations</Name>
+      <Data>
+        <string>what the seed wants</string>
+		<string>how important it is</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>MessageBoxTitles</Name>
+      <Data>
+        <string>Rename Pigeon #</string>
+		<string>Edit Sign</string>
+		<string>Edit Cooking Recipe Name</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>MessageBoxTexts</Name>
+      <Data>
+		<string></string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>InterfaceTooltips</Name>
+      <Data>
+		<string>[color=178,153,164]Wood[/] is required for building all kind of stuff and fueling production. Chop down grown trees and stumps with your hammer-axe to get wood.</string>
+		<string>[color=132,167,189]Stone[/] is used for building and obtained through smashing stones. If you run out of stones to smash, buy dynamite from the hawker and throw it into the stone pit. If a stone can be smashed depends on the level of your hammer-axe.</string>
+		<string>[color=167,176,154]Iron[/] is used for building and made out of iron ores obtained from smashed stones and melted in a furnace.</string>
+		<string>[color=167,205,203]Wool[/] is used for decorating your inn and gathered by planting and harvesting cotton wool.</string>
+		<string>[color=240,176,84]Money[/] is used to buy all sorts of things, from interior up to seeds. Your main income is selling beer to your guests. But be aware: if you collapse due to starvation or exhaustion, you lose further money!</string>
+		<string>[color=84,240,98]Reputation[/] is gained by satisfying the incoming guests with beer which met their tastes. You can spend the reputation on upgrades.</string>
+		<string>[color=240,84,84]Social Rank[/] is increased by one for every clan if they reach a certain amount of satisfaction</string>
+		<string>Open the [color=167,95,255]Hub Book[/] by clicking here or pressing [scale=0.5,true,false][icon=31,98,395,48,45][/] . It shows the clans visiting your inn and their tastes as well as the upgrades you can perform.</string>
+		<string>Click or press [scale=0.5,true,false][icon=31,245,441,48,45][/] to toggle the [color=76,180,246]Wetness[/] map on or off. Wetness is high near water and can be modified by the weather and increased by using the water bucket.</string>
+		<string>Click or press [scale=0.5,true,false][icon=31,294,441,48,45][/] to toggle the [color=236,226,112]Eutrophy[/] map on or off. Eutrophy is modified by the weather and increased by using the dung bag after producing dung with a compost.</string>
+		<string>Click or press [scale=0.5,true,false][icon=31,343,441,48,45][/] to toggle the [color=234,123,244]Windbreak[/] map on or off. Windbreak is high near objects and modified by weather. Place fences or stone walls to modify the windbreak of a certain area.</string>
+		<string>Click or press [scale=0.5,true,false][icon=31,441,441,48,45][/] to toggle the [color=76,246,104]Plant Density[/] map on or off. Plant Density is high near plants. If seeds like a high plant density, put them together!</string>
+		<string>Click or press [scale=0.5,true,false][icon=31,490,441,48,45][/] to toggle the [color=170,170,170]Optimality[/] map on or off. Having the seed pouch equipped and a seed selected, this map shows the optimal places for this plant.</string>
+		<string>Click or hold [scale=0.5,true,false][icon=31,686,395,48,45][/] to toggle the [color=170,170,170]Additional Interface[/] map on or off, like the current filling level of storages or the visitors' clan emblems.</string>
+		<string>[color=75,245,211]Dawn[/] of day #! Sleeping during dawn refills your stamina only slowly.</string>
+		<string>[color=75,255,126]Midday[/] of day #! Sleeping during midday refills your stamina extremely slowly.</string>
+		<string>[color=255,150,93]Dusk[/] of day #! You are getting a bit exhausted over time, but sleeping during dusk refills your stamina.</string>
+		<string>[color=75,168,255]Night[/] of day #! You are getting exhausted over time, but sleeping during night refills your stamina extremely fast.</string>
+		<string>[color=93,196,255]Satiation[/] drops with every use of your tools but can be refilled by eating. If you starve, you wake up in your bed with some of your money stolen.</string>
+		<string>[color=116,255,145]Stamina[/] drops over time during dusk and night as well as with every use of your tools. Sleeping in a bed refills it as well as participating in amusing activities like fishing. If you are totally exhausted, you wake up in your bed with some of your money stolen.</string>
+		<string>[color=255,222,108]Drunkenness[/] is refilled by drinking beer and drops over time, often granting a bonus dependent on the beer's flavor. If you drink multiple beers of the same type, the duration is combined and the strongest effect applied.</string>
+		<string>The pigeon gains experience over time if not hungry, not tired and not locked in the sleeping box. With enough experience, it increases in level. For each level up, you can improve the pigeon's skills.</string>
+		<string>Currently this clan (with # visitors) is [color=55,244,126]allowed[/] to visit the inn (if the tavern is opened). Click to recall the permission.</string>
+		<string>Currently this clan (with # visitors) [color=255,66,66]isn't allowed[/] to visit your inn. Click to grant them the permission.</string>
+		<string>Click or press [scale=0.5,true,false][icon=31,98,441,48,45][/] to switch through the different pipe system visualizations, including "hidden, "pipes only" and "pipes and production". Legend:|[padding=0,0,0,3][scale=0.75,true,false][icon=8,280,813,18,18][/][/] Input Pipe|[padding=0,0,0,3][scale=0.75,true,false][icon=8,299,813,18,18][/][/] Output Pipe|[padding=0,0,0,3][scale=0.75,true,false][icon=8,318,813,18,18][/][/] Combined Pipe|[padding=0,0,0,1][scale=0.75,true,false][icon=8,337,813,24,24][/][/] Production Origin|[scale=0.75,true,false][icon=8,307,832,26,26][/] Production Target|[color=66,255,208]Colored symbols stand for underground pipes.[/]</string>
+		<string>Hold [scale=0.5,true,false][icon=31,931,395,48,45][/] to transfer #1x or [scale=0.5,true,false][icon=31,0,533,48,45][/] to transfer #2x.</string>
+		<string>This production doesn't have a cooking recipe for which it trys to produce for. Click with the left mouse button [scale=0.5,true,false][icon=31,30,359,29,35][/] to set a recipe.</string>
+		<string>This production currently trys to create products for the selected cooking recipe called [color=167,95,255]#[/]. Click with the left mouse button [scale=0.5,true,false][icon=31,30,359,29,35][/] to open the cooking recipe book and select another recipe or close it immediately to remove the recipe.</string>
+		<string>The production is currently active and will produce, if the materials are available. Click with the left mouse button [scale=0.5,true,false][icon=31,30,359,29,35][/] to pause.</string>
+		<string>The production is currently paused. Click with the left mouse button [scale=0.5,true,false][icon=31,30,359,29,35][/] to unpause.</string>
+		<string>This object hasn't a beer recipe attached. If you attach a beer recipe, this storage does get only filled automatically with beer specified by the recipe. Click with the left mouse button [scale=0.5,true,false][icon=31,30,359,29,35][/] to set a recipe.</string>
+		<string>This object does get only filled automatically with beer specified by the [color=167,95,255]#[/] recipe. Click with the left mouse button [scale=0.5,true,false][icon=31,30,359,29,35][/] to open the cooking recipe book and select another recipe or close it immediately to remove the recipe</string>
+		<string>The object is open for input and output from productions and pipes. Click with the left mouse button [scale=0.5,true,false][icon=31,30,359,29,35][/] to disable automatic inputs.</string>
+		<string>The object is closed for input and output via productions and pipes. Click with the left mouse button [scale=0.5,true,false][icon=31,30,359,29,35][/] to enable automatic inputs.</string>
+	  </Data>
+    </Entry>
+	<Entry>
+      <Name>HubPageTooltips</Name>
+      <Data>
+        <string>Close the hub book.</string>
+		<string>Manage cooking recipes.</string>
+		<string>Temporary interface for the clan overview.</string>
+		<string>Temporary interface for upgrades.</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>HubHeadings</Name>
+      <Data>
+        <string>Manage Cooking Recipes</string>
+		<string>Edit #</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>HubTexts</Name>
+      <Data>
+        <string>Unnamed Recipe</string>
+		<string>Product</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>HubTooltips</Name>
+      <Data>
+        <string>Edit the cooking recipe's name.</string>
+		<string>The recipe's product is a beer with the properties listed below.</string>
+		<string>The beer's [color=236,235,120]taste[/]. Available are cereal crops like barley. Click to change the [color=236,235,120]taste[/].</string>
+		<string>The beer's [color=236,213,120]tint darkness[/], controlled by the amount of water in the malt box. [color=236,213,120]Perform a left click[/] [scale=0.5,true,false][icon=31,30,359,29,35][/] [color=236,213,120]to increase and a right click[/] [scale=0.5,true,false][icon=31,60,359,29,35][/] [color=236,213,120]to decrease tint darkness.[/]</string>
+		<string>The beer's [color=236,120,120]full body[/], controlled by the amount of water in the wort boiler. [color=236,120,120]Perform a left click[/] [scale=0.5,true,false][icon=31,30,359,29,35][/] [color=236,120,120]to increase and a right click[/] [scale=0.5,true,false][icon=31,60,359,29,35][/] [color=236,120,120]to decrease full body.[/.</string>
+		<string>The beer's [color=120,236,128]acerbity[/], controlled by the amount of hop in the beer brewing kettle. [color=120,236,128]Perform a left click[/] [scale=0.5,true,false][icon=31,30,359,29,35][/] [color=120,236,128]to increase and a right click[/] [scale=0.5,true,false][icon=31,60,359,29,35][/] [color=120,236,128]to decrease acerbity.[/.</string>
+		<string>The beer's [color=120,169,236]alcoholic strength[/], controlled by the amount of yeast in the beer brewing kettle. [color=120,169,236]Perform a left click[/] [scale=0.5,true,false][icon=31,30,359,29,35][/] [color=120,169,236]to increase and a right click[/] [scale=0.5,true,false][icon=31,60,359,29,35][/] [color=120,169,236]to decrease tint darkness.[/</string>
+		<string>The beer's optional [color=194,120,236]flavor[/]. Available are special flavor crops like Belladonna. Click to change the [color=194,120,236]flavor[/].</string>
+		<string>Hold the left mouse button [scale=0.5,true,false][icon=31,30,359,29,35][/] some seconds to delete this recipe.</string>
+		<string>Create a new recipe for this category.</string>
+		<string>Move the recipe up in the list.</string>
+		<string>Move the recipe down in the list.</string>
+		<string>This is the recipe's product.</string>
+		<string>Select a fitting recipe and click on the [icon=39,311,503,19,19] button to attach it to the object. Select the attached recipe and click the [icon=39,331,503,19,19] button to remove it.</string>
+		<string>Attach this recipe to the object.</string>
+		<string>Remove this recipe from the object.</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>CookingRecipeCategories</Name>
+      <Data>
+        <string>Beer Brewing</string>
+		<string>Cooking (Furnace)</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>PigeonSkills</Name>
+      <Data>
+        <string>[color=59,243,237]You haven't any skill points left.[/]</string>
+		<string>[color=59,243,237]Click here to increase this skill with one of your # skill point(s).[/]</string>
+		<string>[color=59,243,237]Frugality:[/] Decreases the time until the pigeon has to eat something.</string>
+		<string>[color=59,243,237]Perseverance:[/] Decreases the time until the pigeon has to go to sleep.</string>
+		<string>[color=59,243,237]Curiosity:[/] Decreases the time until the pigeon starts another exploration tour.</string>
+		<string>[color=59,243,237]Libido:[/] Decreases the time until the pigeon is ready for breeding.</string>
+		<string>[color=59,243,237]Happiness:[/] Increases the happiness the pigeon gains over time.</string>
+		<string>[color=59,243,237]Fountain of Youth:[/] Increases the time the pigeon lives.</string>
+		<string>[color=59,243,237]Cognitive Capacities:[/] Increases the amount of experience the pigeon gains over time.</string>
+		<string>[color=59,243,237]Gatherer:[/] Increases the chance that the pigeon finds rare loot on exploration tours.</string>
+		<string>[color=59,243,237]Super Genotype:[/] Increases the chance that the pigeon's offsprings get high skill values at their birth.</string>
+		<string>[color=59,243,237]High Quality:[/] Increases the chance that the pigeon leaves high quality eggs and meat.</string>
+		<string>[color=59,243,237]Resistance:[/] Increases the chance of the pigeon to survive bad weather.</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>PigeonActions</Name>
+      <Data>
+        <string>[color=251,162,84]Open Sleeping Box:[/] The bound pigeon can leave the sleeping box.</string>
+		<string>[color=251,162,84]Close Sleeping Box:[/] If the bound pigeon is inside the box, it can't leave it, but the bound pigeon and other pigeons can still enter.</string>
+		<string>[color=251,162,84]Ringing the Bell:[/] The bound pigeon will fly back to this sleeping box.</string>
+		<string>[color=251,162,84]Bound Pigeon:[/] Bounds a pigeon to this sleeping box so it can be controlled and investigated here.</string>
+		<string>[color=251,162,84]Unbound Pigeon:[/] Unbound a pigeon so it follows you. It can be bound to another sleeping box then.</string>
+		<string>[color=251,162,84]Explore![/] If the curiosity is high enough, you can let the pigeon start an exploration tour.</string>
+		<string>[color=251,162,84]Breed![/] If the libido is high enough, you can let the pigeon start to search for a breeding partner.</string>
+		<string>[color=251,162,84]Die! Now![/] Hold the left mouse button for some seconds to kill the pigeon and let it drop some meat.</string>
+		<string>[color=251,162,84]Activate Automatic Search for Food:[/] The pigeon will then search for feeding boxes on its own, if hungry and not locked in this sleeping box. Eating from the sleeping box is not influenced by this.</string>
+		<string>[color=251,162,84]Deactivate Automatic Search for Food:[/] The pigeon won't search for feeding boxes on its own then and will search for food in this sleeping box instead.</string>
+		<string>[color=251,162,84]Activate Automatic Search for Love:[/] The pigeon will then search for breeding partners on its own, if ready.</string>
+		<string>[color=251,162,84]Deactivate Automatic Search for Love:[/] The pigeon won't search for breeding partners on its own then.</string>
+		<string>[color=251,162,84]Activate Automatic Search for Loot:[/] The pigeon will then start exploration tours on its own, if ready.</string>
+		<string>[color=251,162,84]Deactivate Automatic Search for Loot:[/] The pigeon won't start exploration tours on its own then.</string>
+		<string>Click to rename the pigeon.</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>PigeonStates</Name>
+      <Data>
+        <string>[color=58,174,255]Satiation:[/] Drops over time and is refilled by eating crops (like barley) from the sleeping box or a feeding box. If the satiation is too low, the pigeon can't fly out for exploration tours, breed or gain experience. Furthermore, curiosity, libido and happiness don't increase until the pigeon is fed.</string>
+		<string>[color=58,255,148]Stamina:[/] Drops over time and is refilled by staying in the sleeping box. If the stamina is too low, the pigeon can't fly out for exploration tours, breed or gain experience. Furthermore, curiosity, libido and happiness don't increase until the pigeon is rested.</string>
+		<string>[color=255,197,58]Curiosity:[/] Increases over time if not locked in the sleeping box, hungry or tired. If full, the pigeon makes an exploration tour and will bring back a random item. The Gatherer skill and the current happiness decide the rarity of the found loot and the type of the recent food the loot's quality (higher crop tiers like wheat result in a higher quality than something like barley).</string>
+		<string>[color=255,108,108]Libido:[/] Increases over time if not locked in the sleeping box, hungry or tired. If full, the pigeon searchs for a breeding partner. Both pigeons have to be ready and of different gender. The Super Genotype skill and the current happiness of both pigeons decide how many skills the child will get at birth and the High Quality skill decides the egg's quality (if you want to eat it...).</string>
+		<string>[color=255,108,255]Happiness:[/] Increases over time if satiated and rested. It also depends on the quality of the recently eaten crops and the Happiness skill. The happiness affects exploration tours, breeding and many more.</string>
+		<string>[color=150,150,150]Age:[/] Drops over time and if empty, the pigeon will die. Pigeons can also die during bad weather.</string>
+		<string>[color=255,109,109]The pigeon strikes until you feed it![/]</string>
+		<string>[color=255,109,109]The pigeon strikes until it gets some sleep![/]</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>PigeonInterface</Name>
+      <Data>
+        <string>No Pigeon Bound</string>
+		<string>Storage full!</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>PigeonLogicalStates</Name>
+      <Data>
+        <string>The pigeon does nothing special right now.</string>
+		<string>The pigeon follows you.</string>
+		<string>The pigeon is flying around.</string>
+		<string>The pigeon sits in the sleeping box.</string>
+		<string>The pigeon searchs for food in a feeding box.</string>
+		<string>The pigeon is dying.</string>
+		<string>The pigeon makes an exploration tour.</string>
+		<string>The pigeon is breeding.</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>BuffTooltips</Name>
+      <Data>
+        <string></string>
+		<string></string>
+		<string></string>
+		<string>Working consumes less satiation (level #l).|[color=229,157,53]#d left.[/]</string>
+		<string>Working consumes less stamina (level #l).|[color=229,157,53]#d left.[/]</string>
+		<string>Satiation is restored over time (level #l).|[color=229,157,53]#d left.[/]</string>
+		<string>Stamina is restored over time (level #l).|[color=229,157,53]#d left.[/]</string>
+		<string>Movement speed increased (level #l).|[color=229,157,53]#d left.[/]</string>
+		<string>You are over-worked. Working consumes more satiation and stamina. Put up with it or buy medicine from the hawker.|[color=229,157,53]#d left[/]</string>
+		<string>You are drunk. Add flavor (like Belladonna) to the beer to gain further bonuses!|[color=229,157,53]#d left[/]</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>InterfaceHints</Name>
+      <Data>
+        <string>#</string>
+		<string>SELECT QUALITY</string>
+		<string></string>
+		<string>PUT IN</string>
+		<string>PICK UP</string>
+		<string>USE</string>
+		<string>EAT</string>
+		<string>DRINK</string>
+		<string>READ</string>
+		<string>OPEN</string>
+		<string>SELL</string>
+		<string>BUY</string>
+		<string>STORAGE</string>
+		<string>FULL STORAGE</string>
+		<string># SELECT</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>ControlHintsMouse</Name>
+      <Data>
+        <string>hold # to sleep</string>
+		<string>press # to request follow</string>
+		<string>press # to request unfollow</string>
+		<string>press # for hub</string>
+		<string>press # to switch</string>
+		<string>Complete</string>
+		<string>Accept</string>
+		<string>Hide</string>
+		<string>press # to repair</string>
+		<string>press # to edit</string>
+		<string></string>
+		<string></string>
+		<string></string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>ControlHintsGamepad</Name>
+      <Data>
+        <string>hold # to sleep</string>
+		<string>press # to request follow</string>
+		<string>press # to request unfollow</string>
+		<string>press # for hub</string>
+		<string>press # to switch</string>
+		<string>press # to complete</string>
+		<string>press # to accept</string>
+		<string>press # to hide</string>
+		<string>press left # to switch back to the game</string>
+		<string>press right # to switch back to the game</string>
+		<string>press # to fill</string>
+		<string>press # to fill in</string>
+		<string>press # to select</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>TimeInfo</Name>
+      <Data>
+        <string>per second</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>QuestTooltipLabels</Name>
+      <Data>
+		<string>second left</string>
+        <string>seconds left</string>
+		<string>Reward</string>
+		<string>Rewards</string>
+		<string>of exact quality</string>
+		<string>of min. quality</string>
+		<string>of max. quality</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>ExhaustionPenalty</Name>
+      <Data>
+        <string>10% of your money was stolen!</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>Calendar</Name>
+      <Data>
+        <string>Calendar</string>
+		<string>Day</string>
+		<string>Season</string>
+		<string>Year</string>
+		<string>in Year</string>
+		<string>. Day of </string>
+		<string> Days until Winter</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>Seasons</Name>
+      <Data>
+        <string>Spring</string>
+		<string>Summer</string>
+		<string>Autumn</string>
+		<string>Winter</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>Days</Name>
+      <Data>
+        <string>1st</string>
+		<string>2nd</string>
+		<string>3rd</string>
+		<string>4th</string>
+		<string>5th</string>
+		<string>6th</string>
+		<string>7th</string>
+		<string>8th</string>
+		<string>9th</string>
+		<string>10th</string>
+		<string>11th</string>
+		<string>12th</string>
+		<string>13th</string>
+		<string>14th</string>
+		<string>15th</string>
+		<string>16th</string>
+		<string>17th</string>
+		<string>18th</string>
+		<string>19th</string>
+		<string>20th</string>
+		<string>21th</string>
+		<string>22th</string>
+		<string>23th</string>
+		<string>24th</string>
+		<string>25th</string>
+		<string>26th</string>
+		<string>27th</string>
+		<string>28th</string>
+		<string>29th</string>
+		<string>30th</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>PigeonNamesMale</Name>
+      <Data>
+        <string>Walter</string>
+		<string>Herbert</string>
+		<string>Bernhardt</string>
+		<string>Konrad</string>
+		<string>Joachim</string>
+		<string>Willi</string>
+		<string>Franz</string>
+		<string>Alfred</string>
+		<string>Rudi</string>
+		<string>Eberhard</string>
+		<string>Harald</string>
+		<string>Hermann</string>
+		<string>Konrad</string>
+		<string>Alfons</string>
+		<string>Alwin</string>
+		<string>Diethard</string>
+		<string>Dirk</string>
+		<string>Edgar</string>
+		<string>Edmund</string>
+		<string>Edwin</string>
+		<string>Egon</string>
+		<string>Uwe</string>
+		<string>Erhard</string>
+		<string>Ferdinand</string>
+		<string>Gunther</string>
+		<string>Gustav</string>
+		<string>Hartmann</string>
+		<string>Helmut</string>
+		<string>Horst</string>
+		<string>Knut</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>PigeonNamesFemale</Name>
+      <Data>
+        <string>Gertrud</string>
+		<string>Hannelore</string>
+		<string>Giesela</string>
+		<string>Else</string>
+		<string>Barbara</string>
+		<string>Traudl</string>
+		<string>Magda</string>
+		<string>Frauke</string>
+		<string>Heike</string>
+		<string>Brunhild</string>
+		<string>Astrid</string>
+		<string>Bernadette</string>
+		<string>Brigitte</string>
+		<string>Ingrid</string>
+		<string>Ursula</string>
+		<string>Charlotte</string>
+		<string>Dagmar</string>
+		<string>Edeltraud</string>
+		<string>Elfriede</string>
+		<string>Elke</string>
+		<string>Franziska</string>
+		<string>Gudrun</string>
+		<string>Gudula</string>
+		<string>Heidrun</string>
+		<string>Helga</string>
+		<string>Herta</string>
+		<string>Hildegard</string>
+		<string>Ida</string>
+		<string>Irmgard</string>
+		<string>Isolde</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>ChatterHawkerRandom</Name>
+      <Data>
+        <string>A fresh breeze and the warmth of the fire...</string>
+		<string>The weather got better, didn't it?</string>
+		<string>How are you doing?</string>
+		<string>This place looks nice.</string>
+		<string>... and then I started trading seeds and useful stuff.</string>
+		<string>I added this place to my daily route.</string>
+		<string>I sell seeds. Do you need any?</string>
+		<string>I give you seeds, you give me the grown outcome and we both win.</string>
+		<string>The yeast I have is necessary for brewing beer.</string>
+		<string>Only good quality yeast will lead to good quality beer.</string>
+		<string>If you ran out of food, I can sell you some bread.</string>
+		<string>If you have anything left, you can sell it to me.</string>
+		<string>A fresh breeze.</string>
+		<string>I crashed into a tree. Multiple times. I think that's just normal.</string>
+		<string>You do your best.</string>
+		<string>I see a flourish tavern in my mind's eye.</string>
+		<string>I'm a hawker, dashing through the sky.</string>
+		<string>Only the sky is the limit. That should be everyone's philosophy.</string>
+		<string>You should look around. The nature has its own secrets, worth to be discovered.</string>
+		<string>... and then... wait, I already said something like this.</string>
+		<string>Thank you #1 for trading with me!</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>ChatterHawkerComing</Name>
+      <Data>
+        <string>Out of my way trees, here I come!</string>
+		<string>Tasty seeds, delicious yeast, every shit from west to east!</string>
+		<string>It's midday! It's hawker time!</string>
+		<string>GO AWAY BIRD! LET ME FLY!</string>
+		<string>Where are you? I have seeds and yeast to sell!</string>
+		<string>Here I come!</string>
+		<string>A hawker on his way!</string>
+		<string>Someone here!?</string>
+		<string>Fresh goods!</string>
+		<string>Does someone needs a trader?</string>
+		<string>I normally don't yell, but: HERE I COME!</string>
+		<string>Hawker anyone?</string>
+		<string>Dashing through the sky!</string>
+		<string>Here comes your opportunity to buy and sell stuff!</string>
+		<string>As every midday, here I am!</string>
+		<string>Here I come and here I will stay. Until dusk.</string>
+		<string>A new day, a new chance to buy seeds, yeast and food!</string>
+		<string>Your best trading opportunity comes!</string>
+		<string>The flying hawker on his way!</string>
+		<string>DASHING THROUGH THE TREES! DASHING THROUGH THE SKY!</string>
+		<string>Hey #1, where are you?</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>ChatterHawkerLeaving</Name>
+      <Data>
+        <string>I will end my tour and tomorrow, I'm back. The only thing which is guaranteed!</string>
+		<string>Keep your chin up! I'm back tomorrow!</string>
+		<string>See you next midday!</string>
+		<string>It's dusk and time to go. See you next midday!</string>
+		<string>I will go for now and next midday, I will come back.</string>
+		<string>Trading opportunities are over until next midday.</string>
+		<string>It's dusk and time to say goodbye!</string>
+		<string>It was nice hanging around with you, but I have to go before it gets fully dark.</string>
+		<string>Enjoy the sundown. See you!</string>
+		<string>Tomorrow I'm back!</string>
+		<string>Next midday I'm back!</string>
+		<string>What time is it? I think I have to go.</string>
+		<string>It's a nice place here, but I will sleep at home. See you!</string>
+		<string>See you!</string>
+		<string>Good night!</string>
+		<string>We will see us next midday!</string>
+		<string>I don't like the darkness. See you next midday!</string>
+		<string>A wish you a good night.</string>
+		<string>See you, #1!</string>
+		<string>Next midday, I'm back, #1!</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>ChatterHawkerBuying</Name>
+      <Data>
+		<string>Cash, cash, ba-ching!</string>
+		<string>I think you miscounted. Not? Oh, yes, sorry.</string>
+		<string>Ba-ching!</string>
+		<string>Thank you for buying, #1!</string>
+		<string>A good trade.</string>
+		<string>You made a good choice.</string>
+		<string>There is no better way to buy quality stuff.</string>
+		<string>I hope you have fun with it.</string>
+		<string>Use it wisely.</string>
+		<string>No return.</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>ChatterHawkerBuyingInvalid</Name>
+      <Data>
+        <string>I could give my goods away for free. Could be a nice orc. Could.</string>
+		<string>No. You have to pay!</string>
+		<string>Are you serious?</string>
+		<string>Perhaps you should have money, if you try, let me say, if you try to, buy things.</string>
+		<string>You haven't enough money, sorry.</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>ChatterHawkerSelling</Name>
+      <Data>
+        <string>A good trade. Thank you.</string>
+		<string>You know how it works!</string>
+		<string>Thank you very much, #1.</string>
+		<string>Here is the money. Have fun with it.</string>
+		<string>I paid a good price.</string>
+		<string>If you have more, just sell it to me.</string>
+		<string>Everything has a price.</string>
+		<string>I buy nearly everything.</string>
+		<string>If you have something to sell, just ask.</string>
+		<string>What price? It's okay.</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>ChatterHawkerFollowing</Name>
+      <Data>
+        <string>You could built a hawker post instead.</string>
+		<string>Nanana, nanana, I'm following.</string>
+		<string>I hope this is not a trap.</string>
+		<string>Build hawker posts and I will fly to one nearest to you.</string>
+		<string>Where do we go, #1?</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>ChatterHawkerUnfollowing</Name>
+      <Data>
+        <string>Like a guided rocket, I hit the requested place.</string>
+		<string>Can we trade a bit now?</string>
+		<string>So, here I stay for now.</string>
+		<string>If you want that I come back to this specific place, build a hawker post.</string>
+		<string>Enough flying around!</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>ChatterHawkerQuestAvailable</Name>
+      <Data>
+        <string>Do you looking for work?</string>
+		<string>I have a job for you.</string>
+		<string>I have work with occasional payment.</string>
+		<string>Do you looking for a little adventure?</string>
+		<string>You could do something for me, #1.</string>
+		<string>A task to complete and mostly a reward to gather. How does this sound?</string>
+		<string>Hey #1! Do you have a moment?</string>
+		<string>Let's work together, what do you think?</string>
+		<string>Anything against a collaboration?</string>
+		<string>We should extend our relationship, or not?</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>ChatterHawkerQuestAccepted</Name>
+      <Data>
+        <string>I know you are the right one!</string>
+		<string>Thank you, #1!</string>
+		<string>Let's do this!</string>
+		<string>Big thanks!</string>
+		<string>You will do this, I'm absolute sure!</string>
+		<string>I'm glad you have the time for it.</string>
+		<string>You can do it!</string>
+		<string>Thanks for helping me out.</string>
+		<string>I'm happy for your support, #1.</string>
+		<string>Just come back if you completed the job.</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>ChatterHawkerQuestCompletable</Name>
+      <Data>
+        <string>What's your progress with the job I gave you?</string>
+		<string>Did you completed your task?</string>
+		<string>What's the progress on the job?</string>
+		<string>Hey, #1! How far do you got with the task?</string>
+		<string>Were you able to manage it?</string>
+		<string>Job completed?</string>
+		<string>Everything fine with the task?</string>
+		<string>I hope you were able to complete the job.</string>
+		<string>Welcome back, #1!</string>
+		<string>Is the task completed, #1?</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>ChatterHawkerQuestCompleted</Name>
+      <Data>
+        <string>Thank you!</string>
+		<string>One hand washes the other.</string>
+		<string>That's perfect.</string>
+		<string>Good job.</string>
+		<string>Well done, #1!</string>
+		<string>We should extend our collaboration.</string>
+		<string>You are a dependable orc, #1</string>
+		<string>Superb!</string>
+		<string>Thank you, #1!</string>
+		<string>Good work!</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>ChatterVisitorUnhappyNoFaucet</Name>
+      <Data>
+        <string>No faucet here...</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>ChatterVisitorUnhappyNoBeer</Name>
+      <Data>
+        <string>No beer? Are you kidding me?</string>
+		<string>What? Where's the beer?</string>
+		<string>A tavern without beer...</string>
+		<string>Okay #1. Funny joke. Where is the beer?</string>
+		<string>I never saw a tavern without any beer.</string>
+		<string>At least the tavern has... wait... it hasn't.</string>
+		<string>Just close the tavern instead letting us walk all the way.</string>
+		<string>Please organize some beer.</string>
+		<string>We will not tolerate such a tavern keeper who can't guarantee beer.</string>
+		<string>Brew some beer, please!</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>ChatterVisitorUnhappyNoChair</Name>
+      <Data>
+        <string>It would be nice if there is something like a... how it is called? Yeah. A chair. A damn chair.</string>
+		<string>I don't like to sit on the ground.</string>
+		<string>Place chairs near tables. It isn't that hard, I think.</string>
+		<string>Buy some chairs, please.</string>
+		<string>A room with a chair and a table...</string>
+		<string>I don't like to stand or walk while drinking beer.</string>
+		<string>You should buy some chairs...</string>
+		<string>Where are the chairs?</string>
+		<string>No chairs here!?</string>
+		<string>I think you forgot some chairs.</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>ChatterVisitorUnhappyNoTable</Name>
+      <Data>
+        <string>A chair without a table is like an orc without a beer or an orc with a beer without a chair.</string>
+		<string>Can we please have a table? Thank you.</string>
+		<string>Chairs, okay. But hwere are the tables?</string>
+		<string>I think you forgot the tables.</string>
+		<string>Tables anyone?</string>
+		<string>Please build some tables.</string>
+		<string>Buy tables, they aren't that expensive.</string>
+		<string>Taverns should have tables all around.</string>
+		<string>Add tables!</string>
+		<string>Where are the tables!?</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>ChatterVisitorComingMoodLow</Name>
+      <Data>
+        <string>Let's see if the inn got better.</string>
+		<string>I really hope the tavern doesn't stay that bad.</string>
+		<string>If only the beer would be good.</string>
+		<string>Not a good tavern, but let's see if it got better.</string>
+		<string>What a bad tavern.</string>
+		<string>The tavern is... how should I say... capable of development.</string>
+		<string>If the beer gets better, the tavern could get a higher stance.</string>
+		<string>No good beer. Not a good tavern.</string>
+		<string>The last time I was here, the beer wasn't that good.</string>
+		<string>Hopefully the tavern got better...</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>ChatterVisitorComingMoodMiddle</Name>
+      <Data>
+        <string>I'm somehow curious how the tavern improved.</string>
+		<string>Beer, here I come!</string>
+		<string>Not the best inn, but surely not the worst.</string>
+		<string>The tavern is okay, but it could be better.</string>
+		<string>Let's see how the tavern evolved.</string>
+		<string>I think #1 does his best to improve the tavern. I hope.</string>
+		<string>The tavern gets better and better, I think.</string>
+		<string>The inn is just okay.</string>
+		<string>Better interior or better beer could help.</string>
+		<string>The tavern is indeed good, but improvable.</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>ChatterVisitorComingMoodHigh</Name>
+      <Data>
+        <string>I love this inn.</string>
+		<string>The only thing I hate is, that I have to go some time.</string>
+		<string>Beer-time!</string>
+		<string>The tavern is top-notch.</string>
+		<string>Best tavern around here.</string>
+		<string>There is no better place to relax.</string>
+		<string>Let's see if the tavern gots even better.</string>
+		<string>A good place here.</string>
+		<string>One of the best taverns I know.</string>
+		<string>The best place to have a good time.</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>ChatterVisitorLeavingMoodLow</Name>
+      <Data>
+        <string>That wasn't that good, sorry.</string>
+		<string>I'm not sure if I just hate the beer or the tavern. It could be both.</string>
+		<string>Not fully convinced.</string>
+		<string>I somehow don't like this tavern.</string>
+		<string>Perhaps I should look for a better inn.</string>
+		<string>This inn isn't that good.</string>
+		<string>I leave. Nothing to like here.</string>
+		<string>I wish you the best, but your tavern is just bad.</string>
+		<string>Bad inn.</string>
+		<string>Improvable.</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>ChatterVisitorLeavingMoodMiddle</Name>
+      <Data>
+        <string>It was a nice evening, thank you!</string>
+		<string>I wish you all a good night!</string>
+		<string>I hope I find my way home.</string>
+		<string>What a night...</string>
+		<string>Good beer, good night.</string>
+		<string>You make a good job, #1!</string>
+		<string>Good night, #1!</string>
+		<string>The tavern has a moderate quality. And good beer, too.</string>
+		<string>I come back next evening. For sure!</string>
+		<string>See you next time, #1!</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>ChatterVisitorLeavingMoodHigh</Name>
+      <Data>
+        <string>What an evening! What a night!</string>
+		<string>I'm so drunken.</string>
+		<string>I come back, soon. Sure!</string>
+		<string>This place is wonderful.</string>
+		<string>I have to go, but I will come back!</string>
+		<string>Good tavern, #1. See you tomorrow!</string>
+		<string>I really love this tavern.</string>
+		<string>Best beer so far.</string>
+		<string>I'm suprised by the quality of this inn.</string>
+		<string>You should get awarded from the orcish army for this tavern!</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>ChatterVisitorSearchingChair</Name>
+      <Data>
+        <string>Now let's look for a place.</string>
+		<string>All these known faces.</string>
+		<string>I hope my favorite chair isn't taken.</string>
+		<string>Let's get to a chair.</string>
+		<string>Where to sit?</string>
+		<string>I'm looking for a proper place...</string>
+		<string>Beer. Check. Chair. In progress.</string>
+		<string>Hm...</string>
+		<string>Hey!</string>
+		<string>Attention, please.</string>
+		<string>After all the hard work, let's have a nice evening.</string>
+		<string>So many choices to sit.</string>
+		<string>I'm looking for a chair.</string>
+		<string>I got my beer.</string>
+		<string>Walking and drinking could be problematic. But I don't care.</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>ChatterVisitorDrinking</Name>
+      <Data>
+		<string>I smell a war. Perhaps this will be one of the last nights with beer in our hands.</string>
+		<string>A wonderful night.</string>
+		<string>The beer isn't that bad.</string>
+		<string>I somehow like the atmosphere.</string>
+		<string>#1 is the keeper here, did you know?</string>
+		<string>... and then I split him in a half. What a picture!</string>
+		<string>What's your brigade?</string>
+		<string>Three cheers for #1!</string>
+		<string>All power to the #3!</string>
+		<string>Agree.</string>
+		<string>Yes.</string>
+		<string>For sure.</string>
+		<string>I'm not sure.</string>
+		<string>No, not really.</string>
+		<string>No.</string>
+		<string>We should all prepare for the next war, after we lost the last one.</string>
+		<string>How far are the war preparations?</string>
+		<string>How are you?</string>
+		<string>Like a pack of wolves we attacked them from the left.</string>
+		<string>Are you fine?</string>
+		<string>Let's drink together.</string>
+		<string>To your health!</string>
+		<string>For the orcs!</string>
+		<string>For the orcish army!</string>
+		<string>I gave my best.</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>ChatterVisitorFaucetInteraction</Name>
+      <Data>
+        <string>One beer please.</string>
+		<string>Do you know that I eat wood sometimes? Especially when I'm bored, so hurry up.</string>
+		<string>I want a beer.</string>
+		<string>Please give me a beer.</string>
+		<string>A beer please.</string>
+		<string>Here is the money.</string>
+		<string>One beer.</string>
+		<string>Can I have a beer?</string>
+		<string>A beer.</string>
+		<string>One, please.</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>ChatterVisitorNearPlayer</Name>
+      <Data>
+        <string>Hello #1!</string>
+		<string>#2 wants a fresh beer</string>
+		<string>The clan of #3 will visit this tavern!</string>
+		<string>Hey #1, #2 here!</string>
+		<string>A good evening, sir!</string>
+		<string>A good evening, #1!</string>
+		<string>You do your best!</string>
+		<string>Good evening!</string>
+		<string>My name is #2.</string>
+		<string>I'm from the #3 clan.</string>
+		<string>I keep visiting this tavern. Keep up, #1!</string>
+		<string>I am #2. Nice to meet you, #1.</string>
+		<string>I like this place, #1.</string>
+		<string>I am #2, from the #3 clan.</string>
+		<string>Hey, good work!</string>
+		<string>What's up, #1?</string>
+		<string>Just keep the beer running.</string>
+		<string>To your health, #1!</string>
+		<string>The orcish army needs people like you, #1!</string>
+		<string>Good evening!</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>ChatterVisitorQuestAvailable</Name>
+      <Data>
+        <string>Do you have a moment?</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>ChatterVisitorQuestAccepted</Name>
+      <Data>
+        <string>I know you do your best.</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>ChatterVisitorQuestCompletable</Name>
+      <Data>
+        <string>Any further progress?</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>ChatterVisitorQuestCompleted</Name>
+      <Data>
+        <string>Thank you!</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>ChatterVisitorSpecial</Name>
+      <Data>
+        <string>I used to work in a place like this!</string>
+		<string>I could never make a brew this good.</string>
+		<string>You looking for a hire? Probably not.</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>ChatterFaucetTreantRandom</Name>
+      <Data>
+        <string>A shaman bound me once ago into this barrel.</string>
+		<string>Who wants a beer?</string>
+		<string>I'm leaving barrel. Do you have a problem with that?</string>
+		<string>Someone told me I behave creepy.</string>
+		<string>Don't be scared. I'm a talking barrel which sells beer.</string>
+		<string>If I tip over, I could roll through the tavern.</string>
+		<string>I serve beer because I can.</string>
+		<string>I'm ready for serving beer.</string>
+		<string>It's getting hot in here. I hate fire.</string>
+		<string>I'm a wooden barkeeper.</string>
+		<string>As I died years ago, I couldn't imagine that I get resurrected in a... barrel.</string>
+		<string>I'm like a genie in a bottle. Just not that smart.</string>
+		<string>Alcohol?</string>
+		<string>A good and fresh beer.</string>
+		<string>I just keep talking. Sadly, nobody listens.</string>
+		<string>I'm bound to this barrel forever.</string>
+		<string>I sell beer. A beer, anyone?</string>
+		<string>I give my best in selling beer.</string>
+		<string>Beer. Beer. Beer.</string>
+		<string>Fill me with beer and I will sell it.</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>ChatterFaucetTreantNoBeer</Name>
+      <Data>
+        <string>No beer here, I feel so murderous. I mean sorry.</string>
+		<string>My barrel is empty and I'm mostly abstinent.</string>
+		<string>No. I didn't drink the beer by myself.</string>
+		<string>#1 has to organize some beer.</string>
+		<string>I can't kill you. I mean, I can't help you. Sorry.</string>
+		<string>I'm empty. Really.</string>
+		<string>Sorry, no beer left.</string>
+		<string>Your mates already caned in.</string>
+		<string>No beer.</string>
+		<string>Sorry, I have no beer left.</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>ChatterFaucetTreantBeer</Name>
+      <Data>
+		<string>My twines are ready to draw a beer.</string>
+		<string>Good evening, sir!</string>
+		<string>What a creepy evening. Do you want a beer?</string>
+		<string>Here!</string>
+		<string>Here a beer for you.</string>
+		<string>I always asked myself, how blood tastes. I don't know why.</string>
+		<string>Here is your order.</string>
+		<string>Let me check if you paid enough.</string>
+		<string>Do you have money?</string>
+		<string>A beer for you.</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>ChatterFaucetQuestAvailable</Name>
+      <Data>
+        <string>Some piece of wood has a task for you.</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>ChatterFaucetQuestAccepted</Name>
+      <Data>
+        <string>Nice to hear. Thank you for helping.</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>ChatterFaucetQuestCompletable</Name>
+      <Data>
+        <string>Were you able to help me?</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>ChatterFaucetQuestCompleted</Name>
+      <Data>
+        <string>I feel subliminal happy.</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>ChatterSennQuestAvailable</Name>
+      <Data>
+        <string>I am the pink guardian of this forest.</string>
+		<string>My name is Senn. Are you here to help me protecting the forest?</string>
+		<string>I am the forest's eyes.</string>
+		<string>Kneel down. I am the ruler of this place.... at least I tried it.</string>
+		<string>I am Senn. The forest called you to help me. I hope.</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>ChatterSennQuestAccepted</Name>
+      <Data>
+        <string>Your help is welcome.</string>
+		<string>You are the right one.</string>
+		<string>You can do it.</string>
+		<string>You will give your best.</string>
+		<string>You will come back. I know.</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>ChatterSennQuestCompletable</Name>
+      <Data>
+		<string>I am the pink guardian of this forest.</string>
+		<string>My name is Senn. Are you here to help me protecting the forest?</string>
+		<string>I am the forest's eyes.</string>
+		<string>Kneel down. I am the ruler of this place.... at least I tried it.</string>
+		<string>I am Senn. The forest called you to help me. I hope.</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>ChatterSennQuestCompleted</Name>
+      <Data>
+        <string>May the forest bless you.</string>
+		<string>Thank you for your help.</string>
+		<string>Thank you.</string>
+		<string>The forest thanks you.</string>
+		<string>You helped the forest.</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>ChatterDefaultQuestAvailable</Name>
+      <Data>
+        <string>Can you help me?</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>ChatterDefaultQuestAccepted</Name>
+      <Data>
+        <string>Thank you for helping me out.</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>ChatterDefaultQuestCompletable</Name>
+      <Data>
+        <string>Any progress?</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>ChatterDefaultQuestCompleted</Name>
+      <Data>
+        <string>Good work!</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>OrcNameMale</Name>
+      <Data>
+		<string>Zaluk</string>
+		<string>Marek</string>
+		<string>Marock</string>
+		<string>Jeremias</string>
+		<string>Mok'har</string>
+		<string>Apprentice Byork</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>OrcNameFemale</Name>
+      <Data>
+		<string>Zenza</string>
+		<string>Hazzi</string>
+		<string>V'ah</string>
+		<string>Mina</string>
+		<string>Kian</string>
+		<string>Jan'ha</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>QuestCompletionFlags</Name>
+      <Data>
+		<string></string>
+		<string>Completed</string>
+	  </Data>
+    </Entry>
+	<Entry>
+      <Name>QuestCompletionUnitReferenceFlags</Name>
+      <Data>
+		<string>Player</string>
+		<string>Quest Giver</string>
+		<string>Quest Completer</string>
+		<string>Specified Visitor</string>
+		<string>Specified Visitor</string>
+		<string>Specified Visitor</string>
+		<string>Hawker</string>
+		<string>Specified Object</string>
+	  </Data>
+    </Entry>
+	<Entry>
+      <Name>QuestCompletionPositionReferenceFlags</Name>
+      <Data>
+		<string>Near You</string>
+		<string>Near Specified Target</string>
+		<string>Executed Specified Action</string>
+		<string>Enters Map</string>
+		<string>Leaves Map</string>
+		<string>On Map</string>
+	  </Data>
+    </Entry>
+	<Entry>
+      <Name>QuestCompletionStatisticsFlags</Name>
+      <Data>
+		<string>Seconds</string>
+		<string>Days</string>
+		<string>Seconds Played</string>
+		<string>Seconds Played</string>
+		<string>Money</string>
+		<string>Reputation</string>
+		<string>Reputation Gain Per Second</string>
+		<string>Social State</string>
+		<string>Maximal Upgrade Level</string>
+		<string>Performed Upgrades</string>
+		<string>Satiated</string>
+		<string>Drunken</string>
+		<string>Well-Rested</string>
+		<string>Quests Completed</string>
+		<string># Placed</string>
+		<string># Placed</string>
+		<string>Maximal Comfort</string>
+		<string>Total Comfort</string>
+		<string>Satisfaction of the Clan</string>
+		<string>#</string>
+		<string>#</string>
+		<string># Produced</string>
+		<string>Items Produced</string>
+		<string># Eaten</string>
+		<string>Meals Eaten</string>
+		<string>Beer Drunk</string>
+		<string># Uses</string>
+		<string>Stones Smashed</string>
+		<string>Stones Smashed</string>
+		<string># Sold</string>
+		<string># Sold</string>
+		<string>Items Sold</string>
+		<string>Money Through Selling</string>
+		<string># Bought</string>
+		<string># Bought</string>
+		<string>Items Bought</string>
+		<string>Money Through Buying</string>
+		<string># Planted</string>
+		<string>Plants Planted</string>
+		<string># Harvested</string>
+		<string>Plants Harvested</string>
+		<string>General Visiting</string>
+		<string>Currently Visiting</string>
+		<string>Stone Pit Used</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>InfoTexts</Name>
+      <Data>
+		<string>[color=240,176,84]SUNNY![/] The sun shines and everything is fine!</string>
+		<string>[color=84,240,187]LIGHT RAIN![/] The ground's wetness is increased and rain barrels get filled if outdoor. There are less visitors but the ones who come probably stay longer.</string>
+		<string>[color=84,240,187]MEDIUM RAIN![/] The ground's wetness is increased and rain barrels get filled if outdoor. There are less visitors but the ones who come probably stay longer.</string>
+		<string>[color=84,240,187]HEAVY RAIN![/] The ground's wetness is increased and rain barrels get filled if outdoor. There are less visitors but the ones who come probably stay longer.</string>
+		<string>[color=188,191,191]CLOUDY![/] It's getting a bit cloudy and therefore, bad weather could occur!</string>
+		<string>[color=84,172,240]LIGHT HAIL![/] It's exhausting to walk outside and the hailstones can damage objects, buildings but primarily plants. There are less visitors but the ones who come probably stay longer. The hawker will discontinue his visits.</string>
+		<string>[color=84,172,240]MEDIUM HAIL![/] It's exhausting to walk outside and the hailstones can damage objects, buildings but primarily plants. There are less visitors but the ones who come probably stay longer. The hawker will discontinue his visits.</string>
+		<string>[color=84,172,240]HEAVY HAIL![/] It's exhausting to walk outside and the hailstones can damage objects, buildings but primarily plants. Visitors will stay at home. The hawker will discontinue his visits.</string>
+		<string>[color=178,231,240]LIGHT SNOWFALL![/] The ground's wetness is increased. There are less visitors but the ones who come probably stay longer.</string>
+		<string>[color=178,231,240]MEDIUM SNOWFALL![/] The ground's wetness is increased. There are less visitors but the ones who come probably stay longer.</string>
+		<string>[color=178,231,240]HEAVY SNOWFALL![/] The ground's wetness is increased. There are less visitors but the ones who come probably stay longer.</string>
+		<string>[color=188,191,191]LIGHT STORM![/] The ground's wetness is increased and the windbreak is lowered. It's exhausting to walk outside and the storm can damage plants but primarily objects and buildings. There are less visitors but the ones who come probably stay longer. The hawker will discontinue his visits.</string>
+		<string>[color=188,191,191]MEDIUM STORM![/] The ground's wetness is increased and the windbreak is lowered. It's exhausting to walk outside and the storm can damage plants but primarily objects and buildings. Visitors will stay at home. The hawker will discontinue his visits.</string>
+		<string>[color=188,191,191]HEAVY STORM![/] The ground's wetness is increased and the windbreak is lowered. It's exhausting to walk outside and the storm can damage plants but primarily objects and buildings. Visitors will stay at home. The hawker will discontinue his visits.</string>
+		<string>[color=178,200,240]LIGHT FOG![/] The ground is getting wet. There are less visitors but the ones who come probably stay longer.</string>
+		<string>[color=178,200,240]MEDIUM FOG![/] The ground is getting wet. There are less visitors but the ones who come probably stay longer.</string>
+		<string>[color=178,200,240]HEAVY FOG![/] The ground is getting wet. There are less visitors but the ones who come probably stay longer.</string>
+		<string>[color=240,161,84]LIGHT HEAT![/] The ground's wetness and eutrophy is lowered and visitors will stay longer.</string>
+		<string>[color=240,161,84]MEDIUM HEAT![/] The ground's wetness and eutrophy is lowered and it's exhausting to walk outside. Visitors will stay longer.</string>
+		<string>[color=240,161,84]HEAVY HEAT![/] The ground's wetness and eutrophy is lowered and it's exhausting to walk outside. Visitors will stay longer.</string>
+		<string>[color=188,191,191]THUNDERSTORM![/] Oh shit! The ground's wetness is increased and the windbreak is lowered. It's exhausting to walk outside and visitors will stay at home. If a lightning strikes, it can damage plants, objects and buildings! The hawker will discontinue his visits, because hot-air balloons and lightning strikes are mostly a bad combination.</string>
+		<string>[color=84,172,240]LIGHT BLIZZARD![/] The windbreak is lowered. It's exhausting to walk outside and the storm can damage plants but primarily objects and buildings. There are less visitors but the ones who come probably stay longer. The hawker will discontinue his visits.</string>
+		<string>[color=84,172,240]MEDIUM BLIZZARD![/] The windbreak is lowered. It's exhausting to walk outside and the storm can damage plants but primarily objects and buildings. Visitors will stay at home. The hawker will discontinue his visits.</string>
+		<string>[color=84,172,240]HEAVY BLIZZARD![/] The windbreak is lowered. It's exhausting to walk outside and the storm can damage plants but primarily objects and buildings. Visitors will stay at home. The hawker will discontinue his visits.</string>
+		<string>[color=84,240,157]Congratulations![/] You increased in your social rank and a new clan heard of your efforts. The clan of #1 (#2 members) wants to visit your inn, [color=84,240,157]but you have to allow it in the hub menu[/] [scale=0.5,true,false][icon=31,147,395,48,45][/].</string>
+		<string>[color=84,240,143]SPRING[/] of year #! It's the main season for Hop [scale=0.5,0.5,true,false][icon=28,0,0,50,50][/] and Belladonna [scale=0.5,0.5,true,false][icon=28,500,0,50,50][/], therefore they can drop an extra crop on harvest. Furthermore, Hop [scale=0.5,0.5,true,false][icon=28,0,0,50,50][/], Barley [scale=0.5,0.5,true,false][icon=28,150,0,50,50][/], Belladonna [scale=0.5,0.5,true,false][icon=28,500,0,50,50][/] and Sunflowers [scale=0.5,0.5,true,false][icon=28,400,0,50,50][/] grow with their normal speed while all other crops need more time than normal to fully grow.</string>
+		<string>[color=165,240,84]SUMMER[/] of year #! It's the main season for Barley [scale=0.5,0.5,true,false][icon=28,150,0,50,50][/], Corn [scale=0.5,0.5,true,false][icon=28,50,0,50,50][/], Blueleaves [scale=0.5,0.5,true,false][icon=28,300,0,50,50][/] and Sunflowers [scale=0.5,0.5,true,false][icon=28,400,0,50,50][/], therefore they can drop an extra crop on harvest. Furthermore, Spelt [scale=0.5,0.5,true,false][icon=28,250,0,50,50][/], Corn [scale=0.5,0.5,true,false][icon=28,50,0,50,50][/], Blueleaves [scale=0.5,0.5,true,false][icon=28,300,0,50,50][/] and Dryroot [scale=0.5,0.5,true,false][icon=28,450,0,50,50][/] grow with their normal speed while all other crops need more time than normal to fully grow.</string>
+		<string>[color=240,84,84]AUTUMN[/] of year #! It's the main season for Cotton [scale=0.5,0.5,true,false][icon=28,550,300,50,50][/], Spelt [scale=0.5,0.5,true,false][icon=28,250,0,50,50][/] and Dryroot [scale=0.5,0.5,true,false][icon=28,450,0,50,50][/], therefore they can drop an extra crop on harvest. Furthermore, Cotton [scale=0.5,0.5,true,false][icon=28,550,300,50,50][/], Rye [scale=0.5,0.5,true,false][icon=28,200,0,50,50][/], Wheat [scale=0.5,0.5,true,false][icon=28,100,0,50,50][/] and Lotus [scale=0.5,0.5,true,false][icon=28,350,0,50,50][/] grow with their normal speed while all other crops need more time than normal to fully grow.</string>
+		<string>[color=178,231,240]WINTER[/] of year #! It's the main season for Rye [scale=0.5,0.5,true,false][icon=28,200,0,50,50][/], Wheat [scale=0.5,0.5,true,false][icon=28,100,0,50,50][/] and Lotus [scale=0.5,0.5,true,false][icon=28,350,0,50,50][/], therefore they can drop an extra crop on harvest. Plants and trees don't grow during winter!</string>
+		<string>[color=255,163,96]Warning![/] You decreased in your social rank, because the visiting clan # isn't satisfied anymore.</string>
+		<string>#1 stopped its production because of missing #2!</string>
+		<string># stopped its production because there isn't enough storage!</string>
+		<string>A pigeon feeding box runs out of food soon.</string>
+		<string>The pigeon #1 brought back an item (#2) from an exploration tour!</string>
+		<string>The bad weather may kill your pigeons. It's time to bring them back to the boxes!</string>
+		<string>The pigeon # died because of bad weather!</string>
+		<string>The pigeon # died because of a high age!</string>
+		<string>A new pigeon eclosed! The name of the new member is #.</string>
+		<string>The pigeon #1 reached level #2 and has new skill points to spend!</string>
+		<string>The pigeons #1 and #2 bred.</string>
+		<string>The pigeon sleeping box of # runs out of food!</string>
+		<string>[color=84,240,157]Congratulations![/] The clan #1 (#2 members) is satisfied again and will visit your inn.</string>
+		<string>[color=84,240,157]Congratulations![/] The clan #1 (#2 members) is satisfied again and will visit your inn, after [color=84,240,157]you allow them their attendance in the hub menu[/] [scale=0.5,true,false][icon=31,147,395,48,45][/].</string>
+	  </Data>
+    </Entry>
+	<Entry>
+      <Name>Tutorial</Name>
+      <Data>
+	  
+		<string>Navigate Tutorial</string>
+		<string>Welcome to the tutorial! You can navigate through it with the left and right arrow keys ([scale=0.5,true,false][icon=31,882,395,48,45][/] / [scale=0.5,true,false][icon=31,784,395,48,45][/]).</string>
+		<string>TUTORIAL</string>
+		
+		<string>Show/Hide Tutorial</string>
+		<string>If you want to skip the tutorial or temporarily hide it, click on the tutorial button [scale=0.75,true,false][icon=8,691,756,34,34][/] in the top-right corner or press the down or up arrow key ([scale=0.5,true,false][icon=31,833,395,48,45][/] / [scale=0.5,true,false][icon=31,735,395,48,45][/]).</string>
+		<string>TUTORIAL</string>
+		
+		<string>Movement</string>
+		<string>Move around the world with [scale=0.5,true,false][icon=31,1078,441,48,45][/], [scale=0.5,true,false][icon=31,0,441,48,45][/], [scale=0.5,true,false][icon=31,882,441,48,45][/] and [scale=0.5,true,false][icon=31,147,441,48,45][/].</string>
+		<string>TUTORIAL</string>
+		
+		
+		<string>Tool Selection</string>
+		<string>You will interact and shape your environment with the various tools. You can equip them by clicking on the buttons at the screen's right border or by selecting them with [scale=0.5,true,false][icon=31,49,487,48,45][/]-[scale=0.5,true,false][icon=31,441,487,48,45][/].</string>
+		<string>TOOLS</string>
+		
+		<string>Tools</string>
+		<string>We will go through the tools superficially and go into more details later.</string>
+		<string>TOOLS</string>
+		
+		<string>Tool: Hands</string>
+		<string>The hands [scale=0.5,true,false][icon=8,153,881,50,50][/] ([scale=0.5,true,false][icon=31,49,487,48,45][/]) allow you to unequip the current tool and to interact with objects directly.</string>
+		<string>TOOLS</string>
+		
+		<string>Tool: Shovel</string>
+		<string>The shovel [scale=0.5,true,false][icon=8,153,932,50,50][/] ([scale=0.5,true,false][icon=31,98,487,48,45][/]) allows you to build all sorts of objects, from outdoor decoration to interiors and production machines.</string>
+		<string>TOOLS</string>
+		
+		<string>Tool: Hammer-Axe</string>
+		<string>The hammer-axe [scale=0.5,true,false][icon=8,153,983,50,50][/] ([scale=0.5,true,false][icon=31,147,487,48,45][/]) is used both for destroying and repairing objects.</string>
+		<string>TOOLS</string>
+		
+		<string>Tool: Pouch</string>
+		<string>Brewing beer requires crops and crops have to be grown. The seed pouch [scale=0.5,true,false][icon=8,153,1034,50,50][/] ([scale=0.5,true,false][icon=31,196,487,48,45][/] or [scale=0.5,true,false][icon=31,784,441,48,45][/]) allows you to plant seeds on land tiles.</string>
+		<string>TOOLS</string>
+		
+		<string>Tool: Reaping Hook</string>
+		<string>If these crops are fully grown, you can use the reaping hook [scale=0.5,true,false][icon=8,153,1085,50,50][/] ([scale=0.5,true,false][icon=31,245,487,48,45][/]) to harvest them.</string>
+		<string>TOOLS</string>
+		
+		<string>Tool: Dung Bag</string>
+		<string>Plants require special conditions to produce high value crops. One of these conditions is the ground's eutrophy, which can be modified manually by using this dung bag [scale=0.5,true,false][icon=8,204,881,50,50][/] ([scale=0.5,true,false][icon=31,294,487,48,45][/]) after it is filled.</string>
+		<string>TOOLS</string>
+		
+		<string>Tool: Fishing Rod</string>
+		<string>Relaxing plays a major role in an orcish life and what is more relaxing than fishing? You can even get your hands on sunken treasures with this fishing rod [scale=0.5,true,false][icon=8,204,932,50,50][/] ([scale=0.5,true,false][icon=31,343,487,48,45][/])!</string>
+		<string>TOOLS</string>
+		
+		<string>Tool: Bucket</string>
+		<string>The bucket [scale=0.5,true,false][icon=8,204,983,50,50][/] ([scale=0.5,true,false][icon=31,392,487,48,45][/]) is required for putting water into objects, e.g. production machines, or to wet a piece of land manually.</string>
+		<string>TOOLS</string>
+		
+		<string>Tool: Basket</string>
+		<string>All your items except seeds are stored in the basket [scale=0.5,true,false][icon=8,204,1034,50,50][/] ([scale=0.5,true,false][icon=31,441,487,48,45][/] or [scale=0.5,true,false][icon=31,196,441,48,45][/]), including resources, food, crops and beer.</string>
+		<string>TOOLS</string>
+		
+		
+		<string>Character States</string>
+		<string>At the bottom of the screen, you see three bubbles. They represent your satiation [scale=0.75,true,false][icon=8,1147,368,24,26][/], stamina [scale=0.75,true,false][icon=8,1172,368,24,24][/] and drunkenness [scale=0.75,true,false][icon=8,1197,368,23,26][/] and decrease over time, but mainly through working.</string>
+		<string>CHARACTER STATES</string>
+		
+		<string>Penalty</string>
+		<string>Drunkenness [scale=0.75,true,false][icon=8,1197,368,23,26][/] isn't important for now. Regarding satiation [scale=0.75,true,false][icon=8,1147,368,24,26][/] and stamina [scale=0.75,true,false][icon=8,1172,368,24,24][/], don't perform any work if they are low, or you will wake up in your bed with some of your money [scale=1,true,false][icon=8,1221,368,18,18][/] stolen.</string>
+		<string>CHARACTER STATES</string>
+		
+		<string>Stamina</string>
+		<string>Stamina [scale=0.75,true,false][icon=8,1172,368,24,24][/] decreases during dusk and night and is restored through sleeping or relaxing activities like fishing.</string>
+		<string>CHARACTER STATES</string>
+		
+		<string>Sleeping</string>
+		<string>To go to sleep, equip the hands tool, walk near the bed [scale=0.5,true,false][icon=28,150,150,50,50][/], perform a left click [scale=0.5,true,false][icon=31,30,359,29,35][/] on it and hold the mouse button. Sleeping is most effective during night and not effective at all during midday.</string>
+		<string>CHARACTER STATES</string>
+		
+		<string>Amusement</string>
+		<string>To restore stamina [scale=0.75,true,false][icon=8,1172,368,24,24][/] during midday, grab your fishing rod ([scale=0.5,true,false][icon=31,343,487,48,45][/]) and hunt for fish instead.</string>
+		<string>CHARACTER STATES</string>
+		
+		<string>Satiation</string>
+		<string>Satiation [scale=0.75,true,false][icon=8,1147,368,24,26][/] is restored through eating. To eat something, first open the basket ([scale=0.5,true,false][icon=31,441,487,48,45][/] or [scale=0.5,true,false][icon=31,196,441,48,45][/]) and select the bread [scale=0.5,true,false][icon=28,950,0,50,50][/].</string>
+		<string>CHARACTER STATES</string>
+		
+		<string>Item Quality</string>
+		<string>If you clicked on the bread [scale=0.5,true,false][icon=28,950,0,50,50][/], it shows how many of it you have of certain qualities. Items can have a quality from 0 [scale=1,true,false][icon=8,936,0,35,25][/] up to 6 [scale=1,true,false][icon=8,1152,0,35,25][/]. High quality food restores more satiation [scale=0.75,true,false][icon=8,1147,368,24,26][/].</string>
+		<string>CHARACTER STATES</string>
+		
+		<string>Quality Selection</string>
+		<string>To select a quality, click on the related stars icon. Further interaction with this item will then relate to this quality level.</string>
+		<string>CHARACTER STATES</string>
+		
+		<string>Eating</string>
+		<string>To eat the bread [scale=0.5,true,false][icon=28,950,0,50,50][/], select the item and the quality level you want to eat. Then hit the 'Eat' button and the satiation [scale=0.75,true,false][icon=8,1147,368,24,26][/] is restored a bit.</string>
+		<string>CHARACTER STATES</string>
+		
+		<string>Keep in Mind</string>
+		<string>As said, don't do any work if you are low on satiation [scale=0.75,true,false][icon=8,1147,368,24,26][/] or stamina [scale=0.75,true,false][icon=8,1172,368,24,24][/]. Eat, sleep or do relaxing activities like fishing to keep them up!</string>
+		<string>CHARACTER STATES</string>
+		
+		
+		<string>Storages</string>
+		<string>You will have to interact a lot with storages, like the chest in your inn or the storages of production machines.</string>
+		<string>STORAGES</string>
+		
+		<string>Selection</string>
+		<string>To transfer items between your inventory and the storage, ensure that you have the hands tool ([scale=0.5,true,false][icon=31,49,487,48,45][/]) or the basket ([scale=0.5,true,false][icon=31,441,487,48,45][/] or [scale=0.5,true,false][icon=31,196,441,48,45][/]) selected and perform a left click [scale=0.5,true,false][icon=31,30,359,29,35][/] on the storage, e.g. on the chest [scale=0.5,true,false][icon=28,200,150,50,50][/].</string>
+		<string>STORAGES</string>
+		
+		<string>Open Storage</string>
+		<string>A new item matrix with a blueish background pops up left to your inventory, if the storage has any content.</string>
+		<string>STORAGES</string>
+		
+		<string>Transfer Bread</string>
+		<string>Click on the bread [scale=0.5,true,false][icon=28,950,0,50,50][/] in the storage, select the quality you want to transfer and hit 'Pick Up'. The bread [scale=0.5,true,false][icon=28,950,0,50,50][/] will appear in your inventory and you will definitely need it.</string>
+		<string>STORAGES</string>
+		
+		<string>Multi-Transfer</string>
+		<string>To transfer more than one item per click, hold Shift [scale=0.5,true,false][icon=31,931,395,48,45][/] while clicking on the 'Pick Up' button. It will transfer up to 10 items of this quality level at once.</string>
+		<string>STORAGES</string>
+		
+		
+		<string>Big Picture</string>
+		<string>The next task is to set up a farm for beer production, the basis for your tavern.</string>
+		<string>FARMING</string>
+		
+		<string>Seeds</string>
+		<string>To select a seed, equip the seed pouch ([scale=0.5,true,false][icon=31,196,487,48,45][/] or [scale=0.5,true,false][icon=31,784,441,48,45][/]). You first seeds are barley [scale=0.5,true,false][icon=28,250,100,50,50][/], hop [scale=0.5,true,false][icon=28,100,100,50,50][/] and cotton [scale=0.5,true,false][icon=28,800,300,50,50][/]. Barley [scale=0.5,true,false][icon=28,150,0,50,50][/] and hop [scale=0.5,true,false][icon=28,0,0,50,50][/] are required for beer [scale=0.5,true,false][icon=28,750,50,50,50][/], cotton for getting wool [scale=0.5,true,false][icon=28,550,300,50,50][/].</string>
+		<string>FARMING</string>
+		
+		<string>Seed Properties</string>
+		<string>If you hover over a seed in the seed pouch's menu, you will see some seed information popping up. It tells you the seed's desired wetness, eutrophy, windbreak and plant density.</string>
+		<string>FARMING</string>
+		
+		<string>Tile Properties</string>
+		<string>These properties (wetness, eutrophy, windbreak and plant density) relate to the ground's characteristics.</string>
+		<string>FARMING</string>
+		
+		<string>Wetness</string>
+		<string>Wetness is high near water. To show the wetness, click on the small blue button [scale=1,true,false][icon=8,641,670,24,24][/] at the bottom of the screen or press [scale=0.5,true,false][icon=31,245,441,48,45][/]. Big blue strokes [scale=1,true,false][icon=8,1312,394,24,24][/] represent a high wetness.</string>
+		<string>FARMING</string>
+		
+		<string>Eutrophy</string>
+		<string>Eutrophy can be shown by clicking on the small yellow button [scale=1,true,false][icon=8,641,695,24,24][/] at the bottom of the screen or by pressing [scale=0.5,true,false][icon=31,294,441,48,45][/]. Big yellow strokes [scale=1,true,false][icon=8,1337,394,24,24][/] represent a high eutrophy.</string>
+		<string>FARMING</string>
+		
+		<string>Windbreak</string>
+		<string>Windbreak is high near objects like trees or walls and is shown by clicking on the small pink button [scale=1,true,false][icon=8,641,720,24,24][/] at the bottom of the screen or by pressing [scale=0.5,true,false][icon=31,343,441,48,45][/]. Big pink strokes [scale=1,true,false][icon=8,1362,394,24,24][/] indicate a high windbreak.</string>
+		<string>FARMING</string>
+		
+		<string>Plant Density</string>
+		<string>The plant density is high near plants and can be shown by clicking on the small green button [scale=1,true,false][icon=8,641,745,24,24][/] at the bottom of the screen or by pressing [scale=0.5,true,false][icon=31,441,441,48,45][/]. Big green stokes [scale=1,true,false][icon=8,1387,394,24,24][/] stand for a high plant density.</string>
+		<string>FARMING</string>
+		
+		<string>Plant Density</string>
+		<string>The plant density is zero everywhere because you didn't plant anything.</string>
+		<string>FARMING</string>
+		
+		<string>Seed Properties</string>
+		<string>If you hover over a seed in the seed pouch, you see a circle [scale=0.75,true,false][icon=8,1147,395,27,27][/] and a bunch of diamonds [scale=1,true,false][icon=8,1147,423,28,15][/] for every seed property. The circle tells you what the plant wants and the diamonds how important it is.</string>
+		<string>FARMING</string>
+		
+		<string>Seed Property Target</string>
+		<string>As an example, the barley [scale=0.5,true,false][icon=28,250,100,50,50][/] seeds needs an eutrophy of 4 indicated by the 4/6 filled yellow circle [scale=0.75,true,false][icon=8,1203,395,27,27][/].</string>
+		<string>FARMING</string>
+		
+		<string>Seed Property Importance</string>
+		<string>But reaching this eutrophy characteristic isn't so important for the barley [scale=0.5,true,false][icon=28,250,100,50,50][/] seed as it is labeled only with one diamond.</string>
+		<string>FARMING</string>
+		
+		<string>Show Optimality Map</string>
+		<string>Open the seed pouch and select one of the seeds. Clicking on the small white button [scale=1,true,false][icon=8,641,770,24,24][/] at the bottom of the screen or pressing [scale=0.5,true,false][icon=31,490,441,48,45][/] shows the optimality map.</string>
+		<string>FARMING</string>
+		
+		<string>Optimality Map</string>
+		<string>The optimality map shows how well the selected seed fits the ground. Big stars [scale=0.4,true,false][icon=8,81,56,38,34][/] mean a good fit for the selected seed.</string>
+		<string>FARMING</string>
+		
+		<string>Crop Quality</string>
+		<string>Planting seeds on optimal ground will lead to high quality crops [scale=1,true,false][icon=8,1152,0,35,25][/].</string>
+		<string>FARMING</string>
+		
+		
+		<string>Stamina</string>
+		<string>Before you progress, check your stamina [scale=0.75,true,false][icon=8,1172,368,24,24][/]. Perhaps it is already low because it's getting dark. If so, just sleep through the dusk and night!</string>
+		<string>RELAXING</string>
+		
+		<string>Relaxing</string>
+		<string>If it's dusk or night, go to sleep to restore your stamina [scale=0.75,true,false][icon=8,1172,368,24,24][/]. If it's in the morning or midday, use the fishing rod ([scale=0.5,true,false][icon=31,343,487,48,45][/]) instead.</string>
+		<string>RELAXING</string>
+		
+		
+		<string>Planting</string>
+		<string>To plant a seed into the ground, you have to cultivate the ground first. So let's do that!</string>
+		<string>FARMING</string>
+		
+		<string>Land</string>
+		<string>To place land, select the shovel ([scale=0.5,true,false][icon=31,98,487,48,45][/]) and then the 'Outdoor Floors' [scale=0.5,true,false][icon=28,100,200,50,50][/] category. In the appearing icons, select the 'Land' [scale=0.5,true,false][icon=28,900,100,50,50][/] object. Now click with the left mouse button [scale=0.5,true,false][icon=31,30,359,29,35][/] on the ground.</string>
+		<string>FARMING</string>
+		
+		<string>Planting Seeds</string>
+		<string>To plant a seed, select the seed pouch ([scale=0.5,true,false][icon=31,196,487,48,45][/] or [scale=0.5,true,false][icon=31,784,441,48,45][/]) and click on the created piece of land. A small wooden sign with the crop's icon appears.</string>
+		<string>FARMING</string>
+		
+		<string>Growing</string>
+		<string>Plants need time to grow and they go through multiple stages. The crop can be harvested, if it has a slight green glow. If you harvest too early, you get the seed back but no crop.</string>
+		<string>FARMING</string>
+		
+		<string>First Fields</string>
+		<string>Plant all your barley [scale=0.5,true,false][icon=28,250,100,50,50][/], hop [scale=0.5,true,false][icon=28,100,100,50,50][/] and cotton [scale=0.5,true,false][icon=28,800,300,50,50][/] on the most fitting ground. We will check other things while they grow.</string>
+		<string>FARMING</string>
+		
+		
+		<string>Resources</string>
+		<string>Building objects costs money [scale=1,true,false][icon=8,1221,368,18,18][/] and resources like wood [scale=0.5,true,false][icon=28,500,300,50,50][/], stone [scale=0.5,true,false][icon=28,600,300,50,50][/], iron [scale=0.5,true,false][icon=28,700,300,50,50][/] and wool [scale=0.5,true,false][icon=28,550,300,50,50][/].</string>
+		<string>RESOURCES</string>
+		
+		<string>Money</string>
+		<string>Money [scale=1,true,false][icon=8,1221,368,18,18][/] is mainly gained through selling beer [scale=0.5,true,false][icon=28,750,50,50,50][/] to your visitors, but also via trading with the hawker (more details later).</string>
+		<string>RESOURCES</string>
+		
+		<string>Wood</string>
+		<string>Small trees grow everywhere over time, from woodpiles to tree sprouts up to small trees. Select the hammer-axe tool ([scale=0.5,true,false][icon=31,147,487,48,45][/]) and perform a left click [scale=0.5,true,false][icon=31,30,359,29,35][/] on a small tree or stump to get to wood.</string>
+		<string>RESOURCES</string>
+		
+		<string>Stone</string>
+		<string>Your hammer-axe ([scale=0.5,true,false][icon=31,147,487,48,45][/]) is only able to smash blueish stone at the beginning but can be upgraded later on. Perform a left click [scale=0.5,true,false][icon=31,30,359,29,35][/] on such a blue stone to get to stone [scale=0.5,true,false][icon=28,600,300,50,50][/].</string>
+		<string>RESOURCES</string>
+		
+		<string>Iron</string>
+		<string>Smashed stones drop iron ores [scale=0.5,true,false][icon=28,650,300,50,50][/] too, which can be melted to iron [scale=0.5,true,false][icon=28,700,300,50,50][/] in a furnace.</string>
+		<string>RESOURCES</string>
+		
+		<string>Wool</string>
+		<string>Wool [scale=0.5,true,false][icon=28,550,300,50,50][/] is the only resource which is obtained through farming by planting and harvesting cotton plants.</string>
+		<string>RESOURCES</string>
+		
+		<string>Gather Resources</string>
+		<string>To progress in the tutorial, you should chop about 20 wood. Pay attention to you satiation [scale=0.75,true,false][icon=8,1147,368,24,26][/] and stamina [scale=0.75,true,false][icon=8,1172,368,24,24][/], as work drains both a lot. Eat, go to sleep or fish a bit.</string>
+		<string>RESOURCES</string>
+		
+		
+		<string>Satiation and Stamina</string>
+		<string>Gathering resources makes you hungry and exhausted. Don't forget to eat and sleep. If it's midday, go fishing to restore stamina [scale=0.75,true,false][icon=8,1172,368,24,24][/], because during midday the bed isn't that effective.</string>
+		<string>RELAXING</string>
+		
+		<string>Fishing</string>
+		<string>To hunt for fish, equip the fishing rod ([scale=0.5,true,false][icon=31,343,487,48,45][/]) and click and hold the left mouse button [scale=0.5,true,false][icon=31,30,359,29,35][/] while pointing somewhere on the water. If you release the button, the swimmer flys and lands on the water.</string>
+		<string>RELAXING</string>
+		
+		<string>Hunting for Fish</string>
+		<string>Move the swimmer around with [scale=0.5,true,false][icon=31,1078,441,48,45][/], [scale=0.5,true,false][icon=31,0,441,48,45][/], [scale=0.5,true,false][icon=31,882,441,48,45][/] and [scale=0.5,true,false][icon=31,147,441,48,45][/]. If it shakes, click as fast as possible with the left mouse button [scale=0.5,true,false][icon=31,30,359,29,35][/].</string>
+		<string>RELAXING</string>
+		
+		
+		<string>The Hawker</string>
+		<string>There is a hawker, a flying trader, who visits you during midday. He sells and buys all sorts of seeds and items.</string>
+		<string>TRADING</string>
+		
+		<string>Hawker Post</string>
+		<string>He comes to the hawker post in the northwest during midday. The current daytime is displayed at the bottom of the screen.</string>
+		<string>TRADING</string>
+		
+		<string>Trading Seeds</string>
+		<string>To trade seeds, open the seed pouch menu ([scale=0.5,true,false][icon=31,196,487,48,45][/] or [scale=0.5,true,false][icon=31,784,441,48,45][/]) and stay near the hawker. A new matrix with a golden background pops up. You can buy and sell seeds like interacting with a storage.</string>
+		<string>TRADING</string>
+		
+		<string>Buy Seeds</string>
+		<string>Buy some further hop [scale=0.5,true,false][icon=28,100,100,50,50][/] and barley [scale=0.5,true,false][icon=28,250,100,50,50][/] seeds. You can buy multiple at once by holding Shift [scale=0.5,true,false][icon=31,931,395,48,45][/] while clicking on the 'Buy' button.</string>
+		<string>TRADING</string>
+		
+		<string>Trading Items</string>
+		<string>To trade items, open the basket ([scale=0.5,true,false][icon=31,441,487,48,45][/] or [scale=0.5,true,false][icon=31,196,441,48,45][/]). It works like interacting with a storage. Don't forget to select the wanted quality before buying and selling stuff!</string>
+		<string>TRADING</string>
+		
+		<string>Buy Yeast</string>
+		<string>Let's buy some yeast [scale=0.5,true,false][icon=28,600,50,50,50][/] of quality [scale=1,true,false][icon=8,1080,0,35,25][/], e.g. 20 units. You will need it later for brewing beer and the higher qualities are too expensive for now.</string>
+		<string>TRADING</string>
+		
+		
+		<string>Harvest</string>
+		<string>The crops may be ready now. Check if they have a green glow and small green particles. It's the sign that they are ready for harvest.</string>
+		<string>HARVESTING</string>
+		
+		<string>Reaping Hook</string>
+		<string>Equip the reaping hook ([scale=0.5,true,false][icon=31,245,487,48,45][/]) and perform a left click [scale=0.5,true,false][icon=31,30,359,29,35][/] on the crop you want to harvest. If it drops a crop, it was ready.</string>
+		<string>HARVESTING</string>
+		
+		<string>Crop Quality</string>
+		<string>The crop's quality depends on how well the seed's required ground properties were met while growing.</string>
+		<string>HARVESTING</string>
+		
+		<string>Crop Decay</string>
+		<string>Important: while the plant generates seeds dropped on harvest over time, the quality of the crops decreases! Therefore, don't wait too long with harvesting.</string>
+		<string>HARVESTING</string>
+		
+		<string>Barley and Hop</string>
+		<string>Harvest some barley [scale=0.5,true,false][icon=28,150,0,50,50][/] and hop [scale=0.5,true,false][icon=28,0,0,50,50][/], you will need them for beer brewing.</string>
+		<string>HARVESTING</string>
+		
+		
+		<string>Furnace</string>
+		<string>The first production object you will check out is the furnace [scale=0.5,true,false][icon=28,450,150,50,50][/]. It is used to bake bread [scale=0.5,true,false][icon=28,950,0,50,50][/] and fish [scale=0.5,true,false][icon=28,800,0,50,50][/] and to melt iron ores [scale=0.5,true,false][icon=28,650,300,50,50][/] to iron [scale=0.5,true,false][icon=28,700,300,50,50][/].</string>
+		<string>FURNACE</string>
+		
+		<string>Fuel</string>
+		<string>To fuel the furnace, you have to put a piece of wood [scale=0.5,true,false][icon=28,500,300,50,50][/] into it. Click on the furnace and transfer a piece of wood [scale=0.5,true,false][icon=28,500,300,50,50][/] like interacting with a storage. Click on the wood [scale=0.5,true,false][icon=28,500,300,50,50][/] item and then on 'Put In'.</string>
+		<string>FURNACE</string>
+		
+		<string>Burning Duration</string>
+		<string>How many burning processes the furnace can perform depends on the quality of the wood [scale=0.5,true,false][icon=28,500,300,50,50][/] you put in. A piece of wood [scale=0.5,true,false][icon=28,500,300,50,50][/] with zero quality [scale=1,true,false][icon=8,936,0,35,25][/] will get destroyed after one production.</string>
+		<string>FURNACE</string>
+		
+		<string>Baking and Melting</string>
+		<string>To bake bread [scale=0.5,true,false][icon=28,950,0,50,50][/], put barley [scale=0.5,true,false][icon=28,150,0,50,50][/] or other cereal crops in the furnace. You can also put raw fish [scale=0.5,true,false][icon=28,650,0,50,50][/] in it or iron ores [scale=0.5,true,false][icon=28,650,300,50,50][/] to melt iron [scale=0.5,true,false][icon=28,700,300,50,50][/].</string>
+		<string>FURNACE</string>
+		
+		<string>Production</string>
+		<string>The production takes some time. The product can be gathered from the furnace like from a storage. If a chest is placed near the furnace, the product gets automatically transferred to it.</string>
+		<string>FURNACE</string>
+		
+		<string>Automatic Refill</string>
+		<string>After the furnace finished production, it tries to refill itself with material stored in nearby storages. Therefore, if you are baking a bread [scale=0.5,true,false][icon=28,950,0,50,50][/], put some wood [scale=0.5,true,false][icon=28,500,300,50,50][/] and barley [scale=0.5,true,false][icon=28,150,0,50,50][/] into the chest nearby.</string>
+		<string>FURNACE</string>
+		
+		
+		<string>Hub Menu</string>
+		<string>Before you start to brew beer, check which clan will visit you. To open the hub, press [scale=0.5,true,false][icon=31,147,395,48,45][/] (it's a temporary interface!).</string>
+		<string>CLANS</string>
+		
+		<string>Clan Info and Upgrades</string>
+		<string>The hub menu has two pages: a clan info page and a page full of upgrades (none available yet). You can navigate through these screens with the buttons at the bottom.</string>
+		<string>CLANS</string>
+		
+		<string>Clan Info</string>
+		<string>The clan info page lists all the desires of this clan. The diamonds [scale=1,true,false][icon=8,1147,423,28,15][/] show how much they want of a certain property, the bars show how much this property is currently satisfied.</string>
+		<string>CLANS</string>
+		
+		<string>Reputation</string>
+		<string>Satisfying a clan lets you gain reputation [scale=1,true,false][icon=8,1240,368,18,18][/] over time which then can be spend on upgrades. Reputation [scale=1,true,false][icon=8,1240,368,18,18][/] is shown at the top left corner of the screen.</string>
+		<string>CLANS</string>
+		
+		<string>Social Rank</string>
+		<string>If you satisfy a clan enough (overall satisfaction above 70%), you increase in social rank [scale=1,true,false][icon=8,1259,368,18,18][/] and the next clan with a different taste will visit you. The social rank [scale=1,true,false][icon=8,1259,368,18,18][/] is displayed at the top left.</string>
+		<string>CLANS</string>
+		
+		<string>Upgrades</string>
+		<string>Every upgrade you saw in the hub menu has multiple levels, which are accessible after reaching a higher social rank [scale=1,true,false][icon=8,1259,368,18,18][/] and bought with reputation [scale=1,true,false][icon=8,1240,368,18,18][/] as currency.</string>
+		<string>CLANS</string>
+		
+		
+		<string>Satisfaction</string>
+		<string>If you press [scale=0.5,true,false][icon=31,147,395,48,45][/], you will see that the overall satisfaction is split up in multiple beer characteristics and a demanded comfort. Now you will brew a fitting beer.</string>
+		<string>BREWING</string>
+		
+		<string>Required Items</string>
+		<string>For the whole brewing process, we need yeast [scale=0.5,true,false][icon=28,600,50,50,50][/], barley [scale=0.5,true,false][icon=28,150,0,50,50][/], hop [scale=0.5,true,false][icon=28,0,0,50,50][/] and wood [scale=0.5,true,false][icon=28,500,300,50,50][/]. If you have to buy yeast [scale=0.5,true,false][icon=28,600,50,50,50][/] from the hawker, harvest hop [scale=0.5,true,false][icon=28,0,0,50,50][/] or chop some wood [scale=0.5,true,false][icon=28,500,300,50,50][/], do it now.</string>
+		<string>BREWING</string>
+		
+		<string>Big Picture</string>
+		<string>Then walk to your production hall below your inn with all the pipes in it. The beer brewing is done in 3 steps: producing malt [scale=0.5,true,false][icon=28,300,50,50,50][/], making wort [scale=0.5,true,false][icon=28,350,50,50,50][/] out of malt [scale=0.5,true,false][icon=28,300,50,50,50][/] and finally beer [scale=0.5,true,false][icon=28,750,50,50,50][/] out of wort [scale=0.5,true,false][icon=28,350,50,50,50][/].</string>
+		<string>BREWING</string>
+		
+		
+		<string>Malt</string>
+		<string>Producing malt [scale=0.5,true,false][icon=28,300,50,50,50][/] with the wooden malt box defines the final beer's [scale=0.5,true,false][icon=28,750,50,50,50][/] taste (like barley [scale=0.5,true,false][icon=28,150,0,50,50][/]) and tint darkness.</string>
+		<string>BREWING MALT</string>
+		
+		<string>Taste</string>
+		<string>Open the hub menu by pressing [scale=0.5,true,false][icon=31,147,395,48,45][/] and check which taste the visiting clan wants (it's barley [scale=0.5,true,false][icon=28,150,0,50,50][/]). Close the hub menu then.</string>
+		<string>BREWING MALT</string>
+		
+		<string>Malt Box</string>
+		<string>Click on the wooden malt box [scale=0.5,true,false][icon=28,300,150,50,50][/]. The basket opens and you can interact with the malt box like with a storage respectively the furnace. At first, put a piece of wood [scale=0.5,true,false][icon=28,500,300,50,50][/] in it as well as a barley [scale=0.5,true,false][icon=28,150,0,50,50][/] crop.</string>
+		<string>BREWING MALT</string>
+		
+		<string>Tint Darkness</string>
+		<string>As the malt box defines the final beer's [scale=0.5,true,false][icon=28,750,50,50,50][/] tint darkness, you have to check what tint darkness the visiting clan wants.</string>
+		<string>BREWING MALT</string>
+		
+		<string>Check Tint Darkness</string>
+		<string>Press [scale=0.5,true,false][icon=31,147,395,48,45][/] and check how many bright colored yellow diamonds are left to the label 'Tint Darkness'.</string>
+		<string>BREWING MALT</string>
+		
+		<string>Getting Water</string>
+		<string>The tint darkness is controlled by the amount of water in the malt box. Equip the bucket ([scale=0.5,true,false][icon=31,392,487,48,45][/]) and then perform a right click [scale=0.5,true,false][icon=31,60,359,29,35][/] on the water pool in front of your inn and your bucket will be filled.</string>
+		<string>BREWING MALT</string>
+		
+		<string>Controlling Tint Darkness</string>
+		<string>Now perform left clicks on the malt box while the filled water bucket is equipped. Every click adds water to the malt box.</string>
+		<string>BREWING MALT</string>
+		
+		<string>Undo</string>
+		<string>If you put in too much, perform a right click [scale=0.5,true,false][icon=31,60,359,29,35][/] to get all the water out of the malt box.</string>
+		<string>BREWING MALT</string>
+		
+		<string>Set Correct Tint Darkness</string>
+		<string>If the hub menu ([scale=0.5,true,false][icon=31,147,395,48,45][/]) indicates a tint darkness of zero, you have to put one unit water into the malt box. If it's a tint darkness of one, you need two units water and so on.</string>
+		<string>BREWING MALT</string>
+		
+		<string>Unperfect Match</string>
+		<string>If you sell a not perfectly matching beer [scale=0.5,true,false][icon=28,750,50,50,50][/] to a clan, you are not doomed. The visitors just get less satisfied depending on how far the drunk beer [scale=0.5,true,false][icon=28,750,50,50,50][/] differs from the clan's taste.</string>
+		<string>BREWING MALT</string>
+		
+		<string>Malt Production</string>
+		<string>The malt box produces if small corns pop out at the bottom. It will try to put the malt [scale=0.5,true,false][icon=28,300,50,50,50][/] into a near storage and get the materials (wood [scale=0.5,true,false][icon=28,500,300,50,50][/], barley [scale=0.5,true,false][icon=28,150,0,50,50][/] and water) from near storages to keep running.</string>
+		<string>BREWING MALT</string>
+		
+		<string>Pipes</string>
+		<string>The interaction of the malt box (and other production objects) isn't restricted to nearby storages. Further storages can be connected via overground and underground pipes of different types.</string>
+		<string>BREWING MALT</string>
+		
+		<string>Pipe Visualization</string>
+		<string>Click on the [scale=1,true,false][icon=8,641,820,24,24][/] button at the bottom of the screen or press [scale=0.5,true,false][icon=31,98,441,48,45][/] to switch through the pipe visualizations. The button's tooltip has further details.</string>
+		<string>BREWING MALT</string>
+		
+		<string>Pipe Types</string>
+		<string>There are different types of pipes. Input pipes [scale=1,true,false][icon=8,280,813,18,18][/] let producing objects draw material from connected storages, output pipes [scale=1,true,false][icon=8,299,813,18,18][/] let them put the products into the storages and combined pipes [scale=1,true,false][icon=8,318,813,18,18][/] do both.</string>
+		<string>BREWING MALT</string>
+		
+		<string>Underground Pipes</string>
+		<string>While overground pipes are less expensive to build, underground pipes aren't visible and can go through inaccessible terrain and walls. Underground pipes are colored blue in the pipe visualization.</string>
+		<string>BREWING MALT</string>
+		
+		<string>Connection Points</string>
+		<string>If you click on the malt box [scale=0.5,true,false][icon=28,300,50,50,50][/], you noticed four white circles [scale=1,true,false][icon=8,307,832,26,26][/] around the malt box. They indicate the places where it tries to interact with storages and pipes.</string>
+		<string>BREWING MALT</string>
+		
+		<string>Malt Box Input</string>
+		<string>The malt box [scale=0.5,true,false][icon=28,300,50,50,50][/] is connected to the rain barrels via an overground input pipe and to both chests via an underground pipe.</string>
+		<string>BREWING MALT</string>
+		
+		<string>Malt Box Output</string>
+		<string>The malt box [scale=0.5,true,false][icon=28,300,50,50,50][/] is placed above the left chest, so it will put its malt automatically in this chest.</string>
+		<string>BREWING MALT</string>
+		
+		<string>Ensure Materials</string>
+		<string>To keep the automatic malt [scale=0.5,true,false][icon=28,300,50,50,50][/] production running, put some wood [scale=0.5,true,false][icon=28,500,300,50,50][/] and barley [scale=0.5,true,false][icon=28,150,0,50,50][/] in one of the chests.</string>
+		<string>BREWING MALT</string>
+		
+		<string>Rain Barrels</string>
+		<string>If the rain barrels [scale=0.5,true,false][icon=28,500,150,50,50][/] are empty, fill them with water. Equip the bucket ([scale=0.5,true,false][icon=31,392,487,48,45][/]), right click [scale=0.5,true,false][icon=31,60,359,29,35][/] on the water and left click [scale=0.5,true,false][icon=31,30,359,29,35][/] on the rain barrel.</string>
+		<string>BREWING MALT</string>
+		
+		
+		<string>Wort</string>
+		<string>The next step is producing wort [scale=0.5,true,false][icon=28,350,50,50,50][/], so wait a bit until the malt [scale=0.5,true,false][icon=28,300,50,50,50][/] production outputs its first malt [scale=0.5,true,false][icon=28,300,50,50,50][/], select the hands tool ([scale=0.5,true,false][icon=31,49,487,48,45][/]), click on the chest and grab the malt [scale=0.5,true,false][icon=28,300,50,50,50][/].</string>
+		<string>BREWING WORT</string>
+		
+		<string>Inherit Properties</string>
+		<string>Like the malt box defines the taste and tint darkness, the wort boiler sets the final beer's [scale=0.5,true,false][icon=28,750,50,50,50][/] full body and inherits taste and tint darkness from the used malt [scale=0.5,true,false][icon=28,300,50,50,50][/].</string>
+		<string>BREWING WORT</string>
+		
+		<string>Full Body</string>
+		<string>Open the hub menu ([scale=0.5,true,false][icon=31,147,395,48,45][/]) and check, how many bright diamonds are left to the 'Full Body' label.</string>
+		<string>BREWING WORT</string>
+		
+		<string>Wort Boiler</string>
+		<string>Now place some wood [scale=0.5,true,false][icon=28,500,300,50,50][/] and the malt [scale=0.5,true,false][icon=28,300,50,50,50][/] into the wort boiler [scale=0.5,true,false][icon=28,350,150,50,50][/] (the cauldron). Again, you control the full body characteristic of the produced wort [scale=0.5,true,false][icon=28,350,50,50,50][/] with water.</string>
+		<string>BREWING WORT</string>
+		
+		<string>Met Full Body</string>
+		<string>Refill you water bucket and put as many water into the wort boiler as required. If the clan wants a full body of zero, put one water in it respectively two water for one full body etc.</string>
+		<string>BREWING WORT</string>
+		
+		<string>Wort Production</string>
+		<string>As the boiler interacts with nearby storages and pipes, you have an automatic wort [scale=0.5,true,false][icon=28,350,50,50,50][/] production. The wort boiler will grab malt [scale=0.5,true,false][icon=28,300,50,50,50][/] from the chests put in by the malt box.</string>
+		<string>BREWING WORT</string>
+		
+		
+		<string>Beer Brewing Kettle</string>
+		<string>The big kettle [scale=0.5,true,false][icon=28,400,150,50,50][/] in the room is used to make beer [scale=0.5,true,false][icon=28,750,50,50,50][/] out of wort [scale=0.5,true,false][icon=28,350,50,50,50][/]. Wait until some wort [scale=0.5,true,false][icon=28,350,50,50,50][/] is produced and get one wort [scale=0.5,true,false][icon=28,350,50,50,50][/] out of the nearby chests.</string>
+		<string>BREWING BEER</string>
+		
+		<string>Further Materials</string>
+		<string>You also need some wood [scale=0.5,true,false][icon=28,500,300,50,50][/], hop [scale=0.5,true,false][icon=28,0,0,50,50][/] and yeast [scale=0.5,true,false][icon=28,600,50,50,50][/].</string>
+		<string>BREWING BEER</string>
+		
+		<string>Prepare the Kettle</string>
+		<string>Place wood [scale=0.5,true,false][icon=28,500,300,50,50][/] into the brewing kettle as well as the wort [scale=0.5,true,false][icon=28,350,50,50,50][/]. The beer [scale=0.5,true,false][icon=28,750,50,50,50][/] will inherit taste, tint darkness and full body from the used wort [scale=0.5,true,false][icon=28,350,50,50,50][/].</string>
+		<string>BREWING BEER</string>
+		
+		<string>Check Acerbity</string>
+		<string>Open the hub menu ([scale=0.5,true,false][icon=31,147,395,48,45][/]) and check how acerbic the clan wants their beer [scale=0.5,true,false][icon=28,750,50,50,50][/].</string>
+		<string>BREWING BEER</string>
+		
+		<string>Acerbity</string>
+		<string>Then put enough hop [scale=0.5,true,false][icon=28,0,0,50,50][/] into the brewing kettle to met their taste. If they want an acerbity of zero, put one hop [scale=0.5,true,false][icon=28,0,0,50,50][/] into it. For an acerbity of one, put two hop [scale=0.5,true,false][icon=28,0,0,50,50][/] in it and so on.</string>
+		<string>BREWING BEER</string>
+		
+		<string>Alcoholic Strength</string>
+		<string>The amount of yeast [scale=0.5,true,false][icon=28,600,50,50,50][/] controls the alcoholic strength. Check the hub menu ([scale=0.5,true,false][icon=31,147,395,48,45][/]) for the clan's favored alcoholic strength and put enough yeast [scale=0.5,true,false][icon=28,600,50,50,50][/] into the kettle.</string>
+		<string>BREWING BEER</string>
+		
+		<string>Flavor</string>
+		<string>You will get visited by clans which also demand a flavor. To meet it, you can put such a special crop into the brewing kettle, too. The visiting clan doesn't want any, so ignore it.</string>
+		<string>BREWING BEER</string>
+		
+		<string>Minimal Quality</string>
+		<string>If you checked the hub menu ([scale=0.5,true,false][icon=31,147,395,48,45][/]), you also noticed a 'Minimal Quality'. It relates to the beer's [scale=0.5,true,false][icon=28,750,50,50,50][/] quality, which depends on the quality of all the used materials.</string>
+		<string>BREWING BEER</string>
+		
+		<string>Storage Interaction</string>
+		<string>Like the other production objects, the beer brewing kettle will grab wood [scale=0.5,true,false][icon=28,500,300,50,50][/], wort [scale=0.5,true,false][icon=28,350,50,50,50][/], hop [scale=0.5,true,false][icon=28,0,0,50,50][/] and yeast [scale=0.5,true,false][icon=28,600,50,50,50][/] from nearby storages or storages connected via input or combined pipes.</string>
+		<string>BREWING BEER</string>
+		
+		<string>Automatic Production</string>
+		<string>Put enough wood [scale=0.5,true,false][icon=28,500,300,50,50][/], hop [scale=0.5,true,false][icon=28,0,0,50,50][/] and yeast [scale=0.5,true,false][icon=28,600,50,50,50][/] into the chests to keep the beer brewing kettle running.</string>
+		<string>BREWING BEER</string>
+		
+		<string>Beer Brewing Kettle Output</string>
+		<string>As beer [scale=0.5,true,false][icon=28,750,50,50,50][/] has to be stored in barrels [scale=0.5,true,false][icon=28,250,150,50,50][/] instead of chests, the beer brewing kettle will try to put its produced beer [scale=0.5,true,false][icon=28,750,50,50,50][/] into nearby or connected barrels or faucets.</string>
+		<string>BREWING BEER</string>
+		
+		<string>Faucet Connection</string>
+		<string>The kettle is connected to a special type of barrel (with a kind of wooden tree creature sitting on top of it) through the wall with the help of underground output pipes.</string>
+		<string>BREWING BEER</string>
+		
+		<string>Faucets</string>
+		<string>This faucet [scale=0.5,true,false][icon=28,750,150,50,50][/] will sell beer [scale=0.5,true,false][icon=28,750,50,50,50][/] to your visitors and your brewing kettle prioritizes filling them over the other storage barrels.</string>
+		<string>BREWING BEER</string>
+		
+		
+		<string>Recipe Management</string>
+		<string>There is a book opened by pressing [scale=0.5,true,false][icon=31,98,395,48,45][/] or clicking on the [scale=0.6,true,false][icon=8,691,670,50,50][/] symbol. The clan and upgrade hub menu will be moved to this book in the future.</string>
+		<string>COOKING RECIPES</string>
+		
+		<string>Recipe Creation</string>
+		<string>In this book, you can create new brewing and cooking recipes, which can be then applied to the beer production machines. The recipe for the first clan is already created.</string>
+		<string>COOKING RECIPES</string>
+		
+		<string>Use of Recipes</string>
+		<string>Attaching these recipes to the malt box, wort boiler and brewing kettle allows you to change the production very fast and comfortable.</string>
+		<string>COOKING RECIPES</string>
+		
+		<string>Attach Recipes</string>
+		<string>To attach a recipe to a production machine, select the object and click on the [scale=0.5,true,false][icon=8,362,222,31,31][/] button above the production's progress arrow.</string>
+		<string>COOKING RECIPES</string>
+		
+		
+		<string>Comfort</string>
+		<string>The beer production will take some time and instead of waiting, we will check another clan requirement: the comfort. It depends on the room the visitors will drink their beer in.</string>
+		<string>COMFORT</string>
+		
+		<string>Minimal Comfort</string>
+		<string>The visiting clan wants a minimal comfort. Open the hub menu ([scale=0.5,true,false][icon=31,147,395,48,45][/]) to check the clan's required minimal comfort. It's the percentage left to the 'Comfort' label.</string>
+		<string>COMFORT</string>
+		
+		<string>Show Comfort</string>
+		<string>A room's comfort can be showed by equipping the shovel ([scale=0.5,true,false][icon=31,98,487,48,45][/]). A purple bar will appear on the room and small dots indicate the room's border.</string>
+		<string>COMFORT</string>
+		
+		<string>Increasing Comfort</string>
+		<string>To increase a room's comfort, you can place decorational objects into it, like fireplaces or vases. The 'Indoor Inn' category [scale=0.5,true,false][icon=28,850,150,50,50][/] in the building menu ([scale=0.5,true,false][icon=31,98,487,48,45][/]) has some of this stuff.</string>
+		<string>COMFORT</string>
+		
+		<string>Comfort Points</string>
+		<string>If you hover over such an element, it tells you how many comfort points it adds to the room.</string>
+		<string>COMFORT</string>
+		
+		<string>Room Comfort</string>
+		<string>The final comfort of a room is not only based on the sum of all comfort points from decorational elements within the room, but also depends on the room's size.</string>
+		<string>COMFORT</string>
+		
+		<string>Minimal Comfort Met?</string>
+		<string>Check in the hub menu ([scale=0.5,true,false][icon=31,147,395,48,45][/]) if your inn exceeds the required minimal comfort. If not, place some further decorational stuff.</string>
+		<string>COMFORT</string>
+		
+		
+		<string>Faucets and Beer</string>
+		<string>Check the faucet in your inn (barrel with a wooden tree creature on it), if your brewing kettle produced and filled it with some beer [scale=0.5,true,false][icon=28,750,50,50,50][/].</string>
+		<string>VISITORS</string>
+		
+		<string>Additional Interface</string>
+		<string>Clicking the small exclamation mark button [scale=1,true,false][icon=8,641,795,24,24][/] at the bottom of the screen or holding Alt [scale=0.5,true,false][icon=31,686,395,48,45][/] will show the additional interface, including how many items are in a storage.</string>
+		<string>VISITORS</string>
+		
+		<string>Open Tavern</string>
+		<string>If there is beer [scale=0.5,true,false][icon=28,750,50,50,50][/] in the faucet, you should open the tavern. Equip the hands tool ([scale=0.5,true,false][icon=31,49,487,48,45][/]) and click on the tavern sign post in front of your inn's entrance. Visitors will come.</string>
+		<string>VISITORS</string>
+		
+		<string>Visitors Coming</string>
+		<string>Guests will come all the time, except during night. They will walk to the faucet, buy a beer [scale=0.5,true,false][icon=28,750,50,50,50][/], search a chair with table or bar and drink the beer [scale=0.5,true,false][icon=28,750,50,50,50][/]. The clan's satisfaction will then increase.</string>
+		<string>VISITORS</string>
+		
+		<string>Visitor's Clan</string>
+		<string>To show a visitor's clan, toggle the additional interface by clicking on the small exclamation mark [scale=1,true,false][icon=8,641,795,24,24][/] at the bottom of the screen or hold Alt [scale=0.5,true,false][icon=31,686,395,48,45][/]. The clan's emblem will then be shown on every visitor.</string>
+		<string>VISITORS</string>
+		
+		<string>Keep Running</string>
+		<string>Ensure that malt box, wort boiler and beer brewing kettle have enough resources to keep the beer production running and that the faucet has enough beer [scale=0.5,true,false][icon=28,750,50,50,50][/] ready.</string>
+		<string>VISITORS</string>
+		
+		<string>Quests</string>
+		<string>While you raise the overall satisfaction, plant new crops or check out the quests.</string>
+		<string>VISITORS</string>
+		
+		
+		<string>Quest Bar</string>
+		<string>There is a quest bar on the screen's left side. Place your cursor on a quest button [scale=0.5,true,false][icon=8,51,881,50,50][/] to get more information. You already have a war taxes related main quest from the hawker.</string>
+		<string>QUESTS</string>
+		
+		<string>New Quests</string>
+		<string>The hawker and visitors often provide quests with useful rewards. If you walk near a quest giver, like the hawker, white quest symbols [scale=0.5,true,false][icon=8,51,1034,50,50][/] pop up in the quest bar.</string>
+		<string>QUESTS</string>
+		
+		<string>Accepting Quests</string>
+		<string>Click on them with the left mouse button [scale=0.5,true,false][icon=31,30,359,29,35][/] and hit the 'Accept' button. Completing a quest is done in the same way.</string>
+		<string>QUESTS</string>
+		
+		
+		<string>Overall Satisfaction</string>
+		<string>After some time, the clan's overall satisfaction will hit the 70% mark. Then, a new clan will arrive and your social rank [scale=1,true,false][icon=8,1259,368,18,18][/] increases by one.</string>
+		<string>NEXT CLAN</string>
+		
+		<string>A New Clan</string>
+		<string>If a new clan arrived, open the hub menu ([scale=0.5,true,false][icon=31,147,395,48,45][/]) and navigate through the clans with the small arrows above and below the clan's emblem.</string>
+		<string>NEXT CLAN</string>
+		
+		<string>Clan Taste</string>
+		<string>Every clan has a different taste, but they can overlap. Therefore, you will have to decide if you construct a new beer production, reuse parts or accept the lower satisfaction.</string>
+		<string>NEXT CLAN</string>
+		
+		<string>Upgrades</string>
+		<string>Don't forget to spend your reputation [scale=1,true,false][icon=8,1240,368,18,18][/] on upgrades in the hub menu ([scale=0.5,true,false][icon=31,147,395,48,45][/]) if your social rank [scale=1,true,false][icon=8,1259,368,18,18][/] increased. With a social rank [scale=1,true,false][icon=8,1259,368,18,18][/] of one, the first stage of all upgrades is available.</string>
+		<string>NEXT CLAN</string>
+		
+		<string>Special Upgrade: Seed Pouch</string>
+		<string>The upgrade relating the seed pouch will unlock new seeds, which will be required later for arriving clans' tastes.</string>
+		<string>NEXT CLAN</string>
+		
+		<string>Special Upgrade: Hammer-Axe</string>
+		<string>The hammer-axe upgrade let you destroy solider stones and therefore unlock new areas on the map.</string>
+		<string>NEXT CLAN</string>
+		
+		<string>More and More Visitors</string>
+		<string>A new clan will bring more visitors (the first clan has 3 visitors, the second clan 4 visitors, the third 5 visitors and so on).</string>
+		<string>NEXT CLAN</string>
+		
+		<string>Extending</string>
+		<string>Therefore, you will have to extend your inn or build a new one somewhere else with more space.</string>
+		<string>NEXT CLAN</string>
+		
+		<string>Room</string>
+		<string>If you build a new inn, don't forget to ensure that it's a room (surrounded by walls/doors and the ground covered with indoor floors).</string>
+		<string>NEXT CLAN</string>
+		
+		<string>Interior</string>
+		<string>Visitors also need a faucet with beer [scale=0.5,true,false][icon=28,750,50,50,50][/] and a chair near a table or bar as well as a minimal comfort.</string>
+		<string>NEXT CLAN</string>
+		
+		
+		<string>Final</string>
+		<string>The following slides provide some in-depth information, but if you want, you can close the tutorial now and create an awesome inn and reaching a high social rank [scale=1,true,false][icon=8,1259,368,18,18][/].</string>
+		<string>FINAL</string>
+		
+		
+		<string>Bad Weather</string>
+		<string>Some of the bad weather, like hail or storm, can damage objects. A health bar appears on them if they are damaged and the hammer-axe ([scale=0.5,true,false][icon=31,147,487,48,45][/]) is equipped.</string>
+		<string>TIPS</string>
+		
+		<string>Repairing</string>
+		<string>Damaged objects can be repaired by performing a right click [scale=0.5,true,false][icon=31,60,359,29,35][/] on them with the hammer-axe. This will cost money [scale=1,true,false][icon=8,1221,368,18,18][/].</string>
+		<string>TIPS</string>
+		
+		<string>Fishing</string>
+		<string>Try to place your swimmer strategically and if a small water pool doesn't seem to have any fishs, you probably won't catch anything there.</string>
+		<string>TIPS</string>
+		
+		<string>Shortcuts I</string>
+		<string>Use all the short cuts, especially [scale=0.5,true,false][icon=31,784,441,48,45][/] and [scale=0.5,true,false][icon=31,196,441,48,45][/] for the pouch and basket, [scale=0.5,true,false][icon=31,98,395,48,45][/]/[scale=0.5,true,false][icon=31,147,395,48,45][/] for the hub menus and [scale=0.5,true,false][icon=31,245,441,48,45][/], [scale=0.5,true,false][icon=31,294,441,48,45][/], [scale=0.5,true,false][icon=31,343,441,48,45][/], [scale=0.5,true,false][icon=31,441,441,48,45][/] and [scale=0.5,true,false][icon=31,490,441,48,45][/] for the ground properties.</string>
+		<string>TIPS</string>
+		
+		<string>Shortcuts II</string>
+		<string>Holding Shift [scale=0.5,true,false][icon=31,931,395,48,45][/] while transfering items let you transfer multiple items at once.</string>
+		<string>TIPS</string>
+		
+		<string>Shortcuts III</string>
+		<string>If you already selected an object or seed, you can double tap [scale=0.5,true,false][icon=31,98,487,48,45][/] or [scale=0.5,true,false][icon=31,784,441,48,45][/] to select the tool without having to navigate through the menu again.</string>
+		<string>TIPS</string>
+		
+		<string>Modify Ground's Wetness</string>
+		<string>Use the bucket on the ground to modify the ground's wetness manually. You can even hold the left mouse button [scale=0.5,true,false][icon=31,30,359,29,35][/] and drag it around the ground to wet multiple tiles.</string>
+		<string>TIPS</string>
+		
+		<string>Compost</string>
+		<string>To modify the ground's eutrophy, you need a filled dung bag. At first place a compost [scale=0.5,true,false][icon=28,100,150,50,50][/] somewhere and fill it with crops like barley [scale=0.5,true,false][icon=28,150,0,50,50][/].</string>
+		<string>TIPS</string>
+		
+		<string>Modify Ground's Eutrophy</string>
+		<string>After the compost produced some dung, equip the dung bag ([scale=0.5,true,false][icon=31,294,487,48,45][/]) and right click [scale=0.5,true,false][icon=31,60,359,29,35][/] on the compost.</string>
+		<string>TIPS</string>
+		
+		<string>Using the Dung Bag</string>
+		<string>The dung bag gets filled and performing a left click [scale=0.5,true,false][icon=31,30,359,29,35][/] on the ground will increase the eutrophy by one.</string>
+		<string>TIPS</string>
+		
+		<string>Modify Windbreak</string>
+		<string>Build wooden fences [scale=0.5,true,false][icon=28,0,150,50,50][/] or stone walls [scale=0.5,true,false][icon=28,50,150,50,50][/] to modify the windbreak. Both have different windbreak characteristics. Try them out!</string>
+		<string>TIPS</string>
+		
+		<string>Seed Drop</string>
+		<string>Fully grown crops drop seeds if harvested. The amount of seeds dropped increases over time, so waiting before harvesting increases the seed output.</string>
+		<string>TIPS</string>
+		
+		<string>Tree Spawning</string>
+		<string>Big trees spawn woodpiles near them. They grow to sprouts and finally to small trees dependent on the ground's wetness and eutrophy.</string>
+		<string>TIPS</string>
+		
+		<string>Wood Quality</string>
+		<string>If they are a small tree, their wood's [scale=0.5,true,false][icon=28,500,300,50,50][/] quality is zero [scale=1,true,false][icon=8,936,0,35,25][/] at first and increases over time up to wood [scale=0.5,true,false][icon=28,500,300,50,50][/] of full quality [scale=1,true,false][icon=8,1152,0,35,25][/]. Place woodpiles [scale=0.5,true,false][icon=28,750,300,50,50][/] by yourself to farm wood [scale=0.5,true,false][icon=28,500,300,50,50][/].</string>
+		<string>TIPS</string>
+		
+		<string>Furnace</string>
+		<string>Furnaces can use the pipe system, too. Therefore, you can lay out a furnace system where material is gathered from one chest and placed into another chest.</string>
+		<string>TIPS</string>
+		
+		<string>Pipes</string>
+		<string>Production objects access nearby storages first, except the beer brewing kettle which tries to put its beer [scale=0.5,true,false][icon=28,750,50,50,50][/] into faucets first.</string>
+		<string>TIPS</string>
+		
+		<string>Faucet Filling</string>
+		<string>A beer brewing kettle puts its beer [scale=0.5,true,false][icon=28,750,50,50,50][/] in a faucet and if the faucet is filled, it won't fill any other connected faucets to allow other kettles to fill the empty faucets with their beer [scale=0.5,true,false][icon=28,750,50,50,50][/].</string>
+		<string>TIPS</string>
+		
+		<string>Fill Multiple Faucets</string>
+		<string>If you want multiple faucets with the same beer [scale=0.5,true,false][icon=28,750,50,50,50][/], put some in these faucets because the brewing kettle will ignore this rule, if the faucet is already filled with beer [scale=0.5,true,false][icon=28,750,50,50,50][/] of the same type.</string>
+		<string>TIPS</string>
+		
+		<string>Rain Barrels</string>
+		<string>Rain barrels get filled automatically if they stay outdoor during rain.</string>
+		<string>TIPS</string>
+		
+		<string>Winter Is Coming</string>
+		<string>Try to gather enough resources for the beer production until winter comes, as nothing grows then while visitors keep visiting your inn.</string>
+		<string>TIPS</string>
+		
+		<string>Here We Go!</string>
+		<string>The tutorial is over. Good luck with your inn and perhaps you can complete the main questline with all the war taxes to pay?</string>
+		<string></string>
+		
+	  </Data>
+    </Entry>
+	<Entry>
+      <Name>BottleMessages</Name>
+      <Data>
+        <string>The secret to a GOOD brew is hard work. The secret to a GREAT brew is having someone else do the hard work. Keep the second secret to yourself and you will do just fine.|~The Brew Master</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>ValentineMessages</Name>
+      <Data>
+        <string>I had a dream that we met again, for the first time, and things were different. Better.|- John</string>
+		<string>Roses are red,|violets are blue,|I know you are out there,|it's just a matter of finding you.|- Hato</string>
+		<string>I love you, Sips!|- Stinky Pete, from the Boom Boom Saloon</string>
+		<string>Roses are red,|Violets are blue,|You are green,|And I love you!|- Djbq</string>
+		<string>Charmander is red,|Squirtle is blue,|Trubbish is trash,|just like you.|- Unknown</string>
+		<string>You smell as beautiful as my dung bag.| |Love,|- Bertha!</string>
+      </Data>
+    </Entry>
+  </Entries>
+</LocalizationWrapper>
