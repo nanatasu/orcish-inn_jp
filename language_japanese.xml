@@ -122,7 +122,7 @@
 	<Entry>
       <Name>ItemTooltips</Name>
       <Data>
-        <string></string>
+		<string></string>
 		<string></string>
 		<string>A tasty fish from the orcish swamps.</string>
 		<string>A bread made out of #.</string>
@@ -156,7 +156,7 @@
 	<Entry>
       <Name>CropTooltips</Name>
       <Data>
-        <string>Hops are mainly used for brewing. They define the beer's bitterness.</string>
+		<string>Hops are mainly used for brewing. They define the beer's bitterness.</string>
 		<string>Corn is a cereal crop of tier 5 and can be used for brewing but also for baking bread.</string>
 		<string>Wheat is a cereal crop of tier 4 and can be used for brewing but also for baking bread.</string>
 		<string>Barley is a cereal crop of tier 1 and can be used for brewing but also for baking bread.</string>
@@ -174,7 +174,7 @@
 	<Entry>
       <Name>BeerBuffTooltips</Name>
       <Data>
-        <string>[color=240,176,84]Add a flavor to the brewing process and the beer will have benefits on drinking.[/]</string>
+		<string>[color=240,176,84]Add a flavor to the brewing process and the beer will have benefits on drinking.[/]</string>
 		<string>[color=240,176,84]Blueleaves Buff (Level #): working drains less stamina.[/]</string>
 		<string>[color=240,176,84]Belladonna Buff (Level #): working drains less satiation.[/]</string>
 		<string>[color=240,176,84]Dryroot Buff (Level #): regenerates stamina over time.[/]</string>
@@ -756,18 +756,18 @@
 	<Entry>
       <Name>UpgradeDescriptions</Name>
       <Data>
-        <string>Decreases costs for buying structures.</string>
-		<string>Increases revenues for selling structures, allows to destroy solider stones and stone pits eject rarer stones.</string>
-		<string>Increases growth speed of plants. Up to level 4, the hawker will sell new plant seeds.</string>
-		<string>Increases maximal water stored in buckets and rain barrels and increases the time tiles stay wet.</string>
-		<string>Improves maximal dung stored in the dung bag, the time tiles stay dunged and the production time and storage capacities of composts.</string>
-		<string>Increases the chance to find better fish and loot.</string>
-		<string>Increases the chance that plants drop more seeds if let alone and more crops during the plant's main season.</string>
-		<string>Decreases production time of furnaces.</string>
-		<string>Increases capacity and descreases production time of malt boxes, wort boilers and beer brewing kettles.</string>
-		<string>Increases storage capacity of chests and barrels.</string>
-		<string>Decreases costs and increases revenues for trading with the hawker.</string>
-		<string>Trees grow faster, their wood increases faster in quality and stone pits eject more stones</string>
+		<string>オブジェクトの設置費用が下がります。</string>
+		<string>オブジェクト撤去時の返金額が増えます。さらに硬い岩（緑や赤）が破壊可能になり、stone pitsからは貴重な石材が採掘できます。</string>
+		<string>植物の成長速度が早まります。Lv4までは行商人が新しい種を売るようになります。</string>
+		<string>bucketや雨水タンクに溜められる水の量が増え、干上がるまでの時間が延長されます。</string>
+		<string>dung bugに入れられる肥料の量が増え、肥料の効果時間が延長されます。また、コンポストの容量と肥料の生産時間が減少します。</string>
+		<string>より良い魚やアイテムが釣れる確率が上がります。</string>
+		<string>旬の植物から、より多くの種や作物が取れるようになります。</string>
+		<string>furnaceでの生産時間が減少します。</string>
+		<string>malt box、wort boiler、beer brewing kettleでの生産時間が減少し、生産量が増加します。</string>
+		<string>箱と樽の容量が増えます。</string>
+		<string>行商人と取引する際の費用が下がり、利益が増えます。</string>
+		<string>木の成長速度が上がり、早く質の良いwoodが手に入るようになります。また、stone pitから取れるstoneの量も増えます。</string>
       </Data>
     </Entry>
 	<Entry>
@@ -801,22 +801,22 @@
 	<Entry>
       <Name>ClanDescriptions</Name>
       <Data>
-        <string>Long ago, the members of the Ghouls were part of respected clans, forming the rearguard in the vast orcish wars. As success and glory grew within the orcish army, the once respected latecomers degenerated to ghouls, searching the enemies' corpses for valuable loot. Now, the Ghouls are a disgusting pack of vermin.</string>
-		<string>The Coopers craft barrels and chests of all kind. They are one of the first craftsmen forming a guild. Their financial power ensured wealth and influence in the orcish politics. Anyway, they are often underestimated by the other craft guilds.</string>
-		<string>Beyond the other crafts, the guild of blacksmiths is one of the most known and respected craftsmen guilds in the lands. Especially, because smithery plays a major role in the orcish culture which is a synonym for war. Across the major clans, every smith has to be part of this guild.</string>
-		<string>Like the name let one assume, the Spearhead is a clan which provides foolhardy warriors for the front line. They could have something like family related tradition, but because of the low expectancy of life, they recruit foreign orcs in tremendous dimensions.</string>
-		<string>This clan spread fear and trepidation during the civil war. They performed a bloody inquisition against the defeated, and after they were smoked out, against themselves. They call themselves the twisted dragon who clasps his enemies. The people just call them the hydra who bites off her own heads.</string>
-		<string>The War Chant clan's purpose is to shape and exercise the orcish musical side. Their war songs are famous and played a lot, whether it is a calm social gathering or on the bloody battlegrounds.</string>
-		<string>The Miners are from a despised caste of workers. They dig for valuable resources and unearth the minerals the whole orcish crafting culture relies on. In the recent years, the big community of miners has been getting more and more restive and aggressive.</string>
-		<string>The Berserker clan provides the manpower for the orcish forces. They are under the control of the current ruling warlord. Orcs, who strive for a simple life with an assured income normally overrun to this clan, if they were not already born in it.</string>
-		<string>Eye of Mind is a coalition of shamans across the country. Their main purpose is to call old ghosts and to bind them to objects, mainly artifacts. Some of the shamans partake in dubious practices and if a descendant didn't liked his parents that much, the deceased father or mother could end as a living faucet on the black market.</string>
-		<string>Like no other clan, the Historian clan forms the building staff of the orcish society, tutoring young orcs to scholars. Beyond that, they write down the orcish history. These chronicles are stored and are public available in the capital's library.</string>
-		<string>The Raven Covenant is a discreet and secretive organizations which main purpose is kept in the dark, too. Battle-scarred and political motivated, they may be the puppet masters behind the curtain.</string>
-		<string>As an old and stable clan, the Fishermen can look back on a long and flourish tradition. The fishers' handcraft is pursued with a lot of proud and tight regulations. Devotees of this lifestyle have to come along with a lot of courage: the orcish swamps can be scarier and more dangerous then every battleground out there.</string>
-		<string>Yes, the hawkers are organized in a kind of Hawker clan, while still partially belonging to their original clans. The clan regulates prices, trading zones and tolls. Part of their income is taxed and in return, they enjoy a certain degree of neutrality among the clans.</string>
-		<string>The Spirit Brew clan is a shaman circle which specialized on brewing and cooking. While they work wonders in their kettles from time to time, they are often mistrusted and excluded from the overall social life. As a result, they often live isolated in the woods and visit nearby towns only for trading.</string>
-		<string>The First Scouts clan shakes the boundaries of the orcish world over and over again. Expedition ships and a rich and extensive library of maps are their fundamentals and their lines are filled with enthusiastic orcs.</string>
-		<string>The Backbone clan is a colloquial label of the orcish lumberjacks out there, because they are metaphorical the backbone of the orcish empire. Without their strength and knowledge of building wood chopping machines, the orcs would still live in thin tents instead of huge orcish cities.</string>
+		<string>その昔、Ghoulsは尊敬されたクランの一つであり、大オーク戦争にてしんがりを任されていた。オーク軍内での地位が高まるにつれ、かつての英雄たちは名前通り'悪鬼'と成り下がり、価値ある盗品を求めて敵の死体を漁るばかりとなった。現在、Ghoulsは唾棄すべき屑の集まりである。</string>
+		<string>Coopersは、さまざまな種類の樽や箱を製造している。彼らは最初期にギルドを立ち上げた職人集団の一つで、その財力はオーク政治における富と影響力を確実なものとした。それにも拘らず、彼らはほかの職人ギルドに侮られることが多い。</string>
+		<string>戦争と切っても切り離せないオーク文化において、鍛冶は重要な役割を担う。そのためBracksmithsは、とりわけ知名度が高く、広く尊敬されている職人ギルドの一つとなっている。主要なクランの鍛冶職人は、このギルドにも所属する必要がある。</string>
+		<string>その名の通り、Spearheadは無鉄砲な戦士を最前線に送り込むクランである。一族に伝わる習わしということも考えられるが、その高い戦死率のため、前線へ配備するオークは国外から大規模徴集している。</string>
+		<string>このクランは内戦の間、敗者に対し凄惨な尋問を行い、人々に恐怖と動揺をもたらした。後にそれが明らかになると、自らその報いを受けることとなった。自身を敵をひねり潰すTwisted Dragonと称するが、人々はわが身喰らいしHydraと呼んでいる。</string>
+		<string>War Chantクランは、オーク文化の音楽的側面を形成し、高めることを目的としている。穏やかな社交の場か、血みどろの戦場であるかに関わらず、彼らの軍歌を耳にしない日はない。</string>
+		<string>Minersを構成する労働者階級の人々は、価値ある資源やさまざまな鉱物の採掘によりオークの手工業文化を支えているにも拘わらず蔑まれている。近年、Minersのコミュニティは拡大しており、いよいよもって攻撃的で御しがたい存在となりつつある。</string>
+		<string>Berserkerクランは、オーク軍に人的資源を供給しており、現在の統治者である将軍の支配下におかれている。変化には乏しいが安定した生活を手に入れたいオークたちが、Berserkerクラン外から殺到している。</string>
+		<string>Eye of Mindはシャーマンの連合である。彼らは祖先の魂を呼び出し、物、主にアーティファクトに宿らせることを生業としている。怪しげな所業に手を染めるシャーマンもおり、子孫に恵まれない幽霊などは、闇市場で "生ける蛇口" としての末路を迎えかねない。</string>
+		<string>Historianクランはほかとは異なり、若いオークたちを学者として育てることで、オーク社会の根幹を築いている。彼らが書き記したオークの歴史書は、首都の図書館に保管され、誰でも閲覧可能である。</string>
+		<string>Raven Covenantは、慎み深く秘密主義の集団であり、その目的もまた闇に包まれている。その身に刻まれた歴戦の傷跡と政治的立ち回りからして、彼らこそが陰で糸を引く黒幕なのかもしれない。</string>
+		<string>古くから繁栄の続くFishermenクランでは、漁師たちが誇りと厳しい規則を守り工芸品を作り続けてきた。この生活様式を選ぶものは、多くの勇気を携えなければならない。なぜならオークの沼はあらゆる戦場よりも恐ろしく、危険であるからだ。</string>
+		<string>Hawkersは一種の行商人クランとして組織されているが、中にはまだ元のクランに所属し続けているものもいる。このクランは取引の価格、地域、利用料金を管理する。彼らの収入の一部は課税されるが、見返りとしてさまざまなクランの中で中立的な立場を享受している。</string>
+		<string>Spirit Brewクランは料理と醸造に特化したシャーマンの集まりである。kettleによって時々起こす奇跡が、一方で人々の不信感を招き、オーク社会から締め出されている。そのため、彼らは森で孤立して暮らし、取引のためにだけ近くの町を訪れる。</string>
+		<string>First Scoutsクランは幾度もオークの世界地図を描き変えるような新発見をしてきた。探検船と、地図に関する豊富な蔵書こそが彼らの基本であり、国境線は今も、新たな発見を求め情熱を燃やすオークたちで溢れかえっている。</string>
+		<string>Backboneはいわゆるオークの木こりであり、オーク帝国の屋台骨を担うことからそう呼ばれている。彼らの力と木材加工技術に関する知識がなければ、オークの街は今のように巨大にはなりえず、いまだ小さなテントで暮らしていただろう。</string>
       </Data>
     </Entry>
 	<Entry>
@@ -879,51 +879,51 @@
 		<string>Save and Exit</string>
 		<string>Back to Game</string>
 		<string>TUTORIAL</string>
-		<string>An [color=66,255,128]introductional scenario[/] with a pre-defined map, a basic tavern setup, a tutorial and many resources. Choose this if it's your first time playing Orcish Inn. [color=66,255,128]Existing tutorial save games get overwritten![/]</string>
+		<string>[color=66,255,128]tutorialモード[/] 始めてプレイする場合はこちら。固定マップで、豊富な資源と、基本的な酒場施設が設置してあります。 [color=66,255,128]プレイ済みの場合は、セーブデータが上書きされます![/]</string>
 		<string>CHALLENGE</string>
-		<string>A [color=66,255,128]challenging scenario[/] for experienced Orcish Inn players with a semi-randomized map generation, no tavern setup, no tutorial and little resources. More basic layouts and random elements will come in the future! [color=66,255,128]Existing challenge save games get overwritten![/]</string>
+		<string>[color=66,255,128]challengingモード[/] マップが半自動生成される、経験者向けのモード。資源は少なく、初期施設もありません。今後のアップデートで、新たな資源や要素が追加されます。 [color=66,255,128]プレイ済みの場合は、セーブデータが上書きされます![/]</string>
       </Data>
     </Entry>
 	<Entry>
       <Name>InterfaceTooltips</Name>
       <Data>
-		<string>[color=178,153,164]Wood[/] is required for building all kind of stuff and fueling production. Chop down grown trees and stumps with your hammer-axe to get wood.</string>
-		<string>[color=132,167,189]Stone[/] is used for building and obtained through smashing stones. If you run out of stones to smash, buy dynamite from the hawker and throw it into the stone pit. If a stone can be smashed depends on the level of your hammer-axe.</string>
-		<string>[color=167,176,154]Iron[/] is used for building and made out of iron ores obtained from smashed stones and melted in a furnace.</string>
-		<string>[color=167,205,203]Fiber[/] is used for decorating your inn and gathered by planting and harvesting cotton.</string>
-		<string>[color=240,176,84]Money[/] is used to buy all sorts of things, from interior up to seeds. Your main income is selling beer to your guests. But be aware: if you collapse due to starvation or exhaustion, you lose further money!</string>
-		<string>[color=84,240,98]Reputation[/] is gained by satisfying the incoming guests with beer which met their tastes. You can spend the reputation on upgrades.</string>
-		<string>[color=240,84,84]Social Rank[/] is increased by one for every clan if they reach a certain amount of satisfaction</string>
-		<string>Open the [color=167,95,255]Hub Book[/] by clicking here or pressing [scale=0.5,true,false][icon=31,98,395,48,45][/] . It shows the clans visiting your inn and their tastes as well as the upgrades you can perform.</string>
-		<string>Click or press [scale=0.5,true,false][icon=31,245,441,48,45][/] to toggle the [color=76,180,246]Wetness[/] map on or off. Wetness is high near water and can be modified by the weather and increased by using the water bucket.</string>
-		<string>Click or press [scale=0.5,true,false][icon=31,294,441,48,45][/] to toggle the [color=236,226,112]Eutrophy[/] map on or off. Eutrophy is modified by the weather and increased by using the dung bag after producing dung with a compost.</string>
-		<string>Click or press [scale=0.5,true,false][icon=31,343,441,48,45][/] to toggle the [color=234,123,244]Windbreak[/] map on or off. Windbreak is high near objects and modified by weather. Place fences or stone walls to modify the windbreak of a certain area.</string>
-		<string>Click or press [scale=0.5,true,false][icon=31,441,441,48,45][/] to toggle the [color=76,246,104]Plant Density[/] map on or off. Plant Density is high near plants. If seeds like a high plant density, put them together!</string>
-		<string>Click or press [scale=0.5,true,false][icon=31,490,441,48,45][/] to toggle the [color=170,170,170]Optimality[/] map on or off. Having the seed pouch equipped and a seed selected, this map shows the optimal places for this plant.</string>
-		<string>Click or hold [scale=0.5,true,false][icon=31,686,395,48,45][/] to toggle the [color=170,170,170]Additional Interface[/] map on or off, like the current filling level of storages or the visitors' clan emblems.</string>
-		<string>[color=75,245,211]Dawn[/] of day #! Sleeping during dawn refills your stamina only slowly.</string>
-		<string>[color=75,255,126]Midday[/] of day #! Sleeping during midday refills your stamina extremely slowly.</string>
-		<string>[color=255,150,93]Dusk[/] of day #! You are getting a bit exhausted over time, but sleeping during dusk refills your stamina.</string>
-		<string>[color=75,168,255]Night[/] of day #! You are getting exhausted over time, but sleeping during night refills your stamina extremely fast.</string>
-		<string>[color=93,196,255]Satiation[/] drops with every use of your tools but can be refilled by eating. If you starve, you wake up in your bed with some of your money stolen.</string>
-		<string>[color=116,255,145]Stamina[/] drops over time during dusk and night as well as with every use of your tools. Sleeping in a bed refills it as well as participating in amusing activities like fishing. If you are totally exhausted, you wake up in your bed with some of your money stolen.</string>
-		<string>[color=255,222,108]Drunkenness[/] is refilled by drinking beer and drops over time, often granting a bonus dependent on the beer's flavor. If you drink multiple beers of the same type, the duration is combined and the strongest effect applied.</string>
-		<string>The pigeon gains experience over time if not hungry, not tired and not locked in the sleeping box. With enough experience, it increases in level. For each level up, you can improve the pigeon's skills.</string>
-		<string>Currently this clan (with # visitors) is [color=55,244,126]allowed[/] to visit the inn (if the tavern is opened). Click to recall the permission.</string>
-		<string>Currently this clan (with # visitors) [color=255,66,66]isn't allowed[/] to visit your inn. Click to grant them the permission.</string>
-		<string>Click or press [scale=0.5,true,false][icon=31,98,441,48,45][/] to switch through the different pipe system visualizations, including "hidden, "pipes only" and "pipes and production". Legend:|[padding=0,0,0,3][scale=0.75,true,false][icon=8,280,813,18,18][/][/] Input Pipe|[padding=0,0,0,3][scale=0.75,true,false][icon=8,299,813,18,18][/][/] Output Pipe|[padding=0,0,0,3][scale=0.75,true,false][icon=8,318,813,18,18][/][/] Combined Pipe|[padding=0,0,0,1][scale=0.75,true,false][icon=8,337,813,24,24][/][/] Production Origin|[scale=0.75,true,false][icon=8,307,832,26,26][/] Production Target|[color=66,255,208]Colored symbols stand for underground pipes.[/]</string>
-		<string>Hold [scale=0.5,true,false][icon=31,931,395,48,45][/] to transfer #1x or [scale=0.5,true,false][icon=31,0,533,48,45][/] to transfer #2x.</string>
-		<string>This production doesn't have a cooking recipe for which it trys to produce for. Click with the left mouse button [scale=0.5,true,false][icon=31,30,359,29,35][/] to set a recipe.</string>
-		<string>This production currently trys to create products for the selected cooking recipe called [color=167,95,255]#[/]. Click with the left mouse button [scale=0.5,true,false][icon=31,30,359,29,35][/] to open the cooking recipe book and select another recipe or close it immediately to remove the recipe.</string>
-		<string>The production is currently active and will produce, if the materials are available. Click with the left mouse button [scale=0.5,true,false][icon=31,30,359,29,35][/] to pause.</string>
-		<string>The production is currently paused. Click with the left mouse button [scale=0.5,true,false][icon=31,30,359,29,35][/] to unpause.</string>
-		<string>This object hasn't a beer recipe attached. If you attach a beer recipe, this storage does get only filled automatically with beer specified by the recipe. Click with the left mouse button [scale=0.5,true,false][icon=31,30,359,29,35][/] to set a recipe.</string>
-		<string>This object does get only filled automatically with beer specified by the [color=167,95,255]#[/] recipe. Click with the left mouse button [scale=0.5,true,false][icon=31,30,359,29,35][/] to open the cooking recipe book and select another recipe or close it immediately to remove the recipe</string>
-		<string>The object is open for input and output from productions and pipes. Click with the left mouse button [scale=0.5,true,false][icon=31,30,359,29,35][/] to disable automatic inputs.</string>
-		<string>The object is closed for input and output via productions and pipes. Click with the left mouse button [scale=0.5,true,false][icon=31,30,359,29,35][/] to enable automatic inputs.</string>
+		<string>[color=178,153,164]Wood(木材)[/] さまざまなものをつくったり、製造時の燃料として使います。hammer-axeで木や切り株を伐採すると手に入ります。</string>
+		<string>[color=132,167,189]Stone(石材)[/] 建築材料として使います。岩を壊したりstone pitにdynamite投げ込むと手に入ります。hammer-axeのレベルにより壊せる岩が変わります。</string>
+		<string>[color=167,176,154]Iron[/] 建築材料として使います。岩を壊すと手に入るiron oresをfurnaceで熔かして作ります。</string>
+		<string>[color=167,205,203]Fiber[/] 酒場宿の装飾アイテム製作に使います。cottonを育てて収穫すると手に入ります。</string>
+		<string>[color=240,176,84]Money[/] 家具や種などのさまざまなものを購入するのに使います。ビール販売が主な収入源。もし空腹や疲労で倒れると、さらにお金を失うことになるので注意!</string>
+		<string>[color=84,240,98]Reputation[/] アップグレードに使用します。お客の好みに合ったビールを提供し、満足させられると貯まります。</string>
+		<string>[color=240,84,84]Social Rank[/] クランの満足度が一定の値を超えたときに、1ずつ上昇します。</string>
+		<string>[color=167,95,255]Hub Book[/] の表示( [scale=0.5,true,false][icon=31,98,395,48,45][/] )。お客が属するクランの情報や、アップグレードの一覧が表示されます。</string>
+		<string>[color=76,180,246]Wetness[/]表示の切り替え( [scale=0.5,true,false][icon=31,245,441,48,45][/] )。 Wetnessは水場の近くやbucketで水をまくと高まり、天気によっても変化します。</string>
+		<string>[color=236,226,112]Eutrophy[/]表示の切り替え( [scale=0.5,true,false][icon=31,294,441,48,45][/] )。 Eutrophyはコンポストでつくった肥料を dung bagでまくと高まり、天気によっても変化します。</string>
+		<string>[color=234,123,244]Windbreak[/]表示の切り替え( [scale=0.5,true,false][icon=31,343,441,48,45][/] )。 Windbreakはオブジェクトの近くで高まり、天気によっても変化します。 柵や石の壁で特定のエリアのWindbreakを調整することもできます。</string>
+		<string>[color=76,246,104]Plant Density[/]表示の切り替え( [scale=0.5,true,false][icon=31,441,441,48,45][/] )。 Plant Densityは植物の近くで高まります。 もしその植物が密集した状態を好むなら、なるべく近づけて植えましょう!</string>
+		<string>[color=170,170,170]Optimality[/]表示の切り替え( [scale=0.5,true,false][icon=31,490,441,48,45][/] )。 seed pouchを開いて種を選ぶと、それを植えるのに最適な場所がわかります。</string>
+		<string>追加情報の表示( [scale=0.5,true,false][icon=31,686,395,48,45][/] )。 ストレージに入っているアイテムの数やお客が属するクランのエンブレムなどが表示されます。</string>
+		<string>#日目の[color=75,245,211]夜明け[/]です!眠るとstaminaはゆっくり回復します。</string>
+		<string>#日目の[color=75,255,126]昼間[/]です!眠ってもstaminaはほとんど回復しません。</string>
+		<string>#日目の[color=255,150,93]夕暮れ[/]です!起きていると少し疲れますが、眠ればstaminaが回復します。</string>
+		<string>#日目の[color=75,168,255]夜[/]です!起きていると疲れますが、眠ればstaminaが素早く回復します。</string>
+		<string>[color=93,196,255]Satiation(満腹度)[/] 働くと減り、食事をとると回復します。空腹で倒れると、moneyがいくらか盗まれた状態で目覚めることになります。</string>
+		<string>[color=116,255,145]Stamina(スタミナ)[/] 働いている間だけでなく、夕暮れから夜にかけて減少します。ベッドで眠ったり、釣りなどで楽しむと回復します。過労で倒れると、moneyがいくらか盗まれた状態で目覚めることになります。</string>
+		<string>[color=255,222,108]Drunkenness(酔い心地)[/] ビールを飲むと増加し、時間が経つと減ります。ビールのフレーバーによってボーナスが付きます。同じ種類のビールを何杯も飲むと、効果が増強されます。</string>
+		<string>鳩は、空腹や疲労状態になく、sleepingbox内に入っていないとき、徐々に経験値が上がり、十分に溜まるとレベルアップします。レベルアップごとに新しいスキルを獲得します。</string>
+		<string>現在、このクラン(#人のお客)はこの酒場宿に訪れることを[color=55,244,126]許可されています[/](酒場が開店していれば)。クリックすると許可を取り消すことができます。</string>
+		<string>現在、このクラン(#人のお客)は、酒場宿に訪れることを[color=255,66,66]許可されていません[/]。クリックすると許可を与えることができます。</string>
+		<string>パイプ表示の切り替え( [scale=0.5,true,false][icon=31,98,441,48,45][/] ) |凡例:|[padding=0,0,0,3][scale=0.75,true,false][icon=8,280,813,18,18][/][/] Input Pipe|[padding=0,0,0,3][scale=0.75,true,false][icon=8,299,813,18,18][/][/] Output Pipe|[padding=0,0,0,3][scale=0.75,true,false][icon=8,318,813,18,18][/][/] Combined Pipe|[padding=0,0,0,1][scale=0.75,true,false][icon=8,337,813,24,24][/][/] Production Origin|[scale=0.75,true,false][icon=8,307,832,26,26][/] Production Target|[color=66,255,208]地中にあるパイプは色付きで表示されます。[/]</string>
+		<string>[scale=0.5,true,false][icon=31,931,395,48,45][/]を押しながらだと#1個ずつ、[scale=0.5,true,false][icon=31,0,533,48,45][/]を押しながらだと#2ずつ移動します。</string>
+		<string>レシピがセットされていません。左クリック [scale=0.5,true,false][icon=31,30,359,29,35][/] でレシピをセットできます。</string>
+		<string>[color=167,95,255]#[/]のレシピがセットされています。左クリック [scale=0.5,true,false][icon=31,30,359,29,35][/] でレシピブックを開いてレシピの変更や削除ができます。</string>
+		<string>稼働中。素材があれば製造します。左クリック [scale=0.5,true,false][icon=31,30,359,29,35][/] で一時停止します。</string>
+		<string>一時停止中。左クリック [scale=0.5,true,false][icon=31,30,359,29,35][/] で再開します。</string>
+		<string>ビールのレシピがセットされていません。レシピをセットすると、ストレージにビールが自動供給されます。左クリック [scale=0.5,true,false][icon=31,30,359,29,35][/] でレシピをセットできます。</string>
+		<string>[color=167,95,255]#[/]レシピのビールが自動供給されています。左クリック [scale=0.5,true,false][icon=31,30,359,29,35][/] でレシピブックを開いてレシピの変更や削除ができます。</string>
+		<string>ほかの設備やパイプからの入出力が有効な状態です。左クリック [scale=0.5,true,false][icon=31,30,359,29,35][/] で自動供給を無効化します。</string>
+		<string>ほかの設備やパイプからの入出力が無効な状態です。左クリック [scale=0.5,true,false][icon=31,30,359,29,35][/] で自動供給を有効化します。</string>
 		<string>Click to toggle the menu.| |Time Played: [color=66,255,128]#2[/]| |[color=66,255,128]Orcish Inn #1[/] created by [color=66,255,128]Steven Colling[/] with music and sound effects by [color=66,255,128]Tilmann 'headchant' Hars[/].| |Official website and contact: [color=66,255,128]http://orcish-inn.stevencolling.com[/] [color=66,255,128]info@stevencolling.com[/]</string>
-		<string>Click to swap the gender of your character.</string>
-		<string>Click here or press [scale=0.5,true,false][icon=31,735,395,48,45][/] or [scale=0.5,true,false][icon=31,833,395,48,45][/] to show respectively hide the tutorial. This is not available in the challenge scenario.</string>
+		<string>クリックすると、キャラクターの性別を切り替えられます。</string>
+		<string>このボタンか [scale=0.5,true,false][icon=31,735,395,48,45][/] / [scale=0.5,true,false][icon=31,833,395,48,45][/] を押すと、チュートリアル画面の表示非表示が切り替わります。challengeモードでは無効です。</string>
 		<string>The following people support me financially via Patreon: [color=66,255,128]FotoN[/], [color=66,255,128]Tabisama[/], [color=66,255,128]Simon Barth[/], [color=66,255,128]The Sandbox Games DataBase[/], [color=66,255,128]Rusty Gear[/], [color=66,255,128]MissLily[/], [color=66,255,128]Pandafro[/], [color=66,255,128]Edward Truscott[/], [color=66,255,128]Cddarain[/], [color=66,255,128]Tuomo Lassila[/], [color=66,255,128]Xenorexian[/], [color=66,255,128]Lewis McReu[/] and [color=66,255,128]jessicabalu[/].</string>
 		<string></string>
 		<string>Click to visit a new region until you found one where your want to settle down. This one gets discarded. Loading can take some seconds.</string>
@@ -2031,12 +2031,12 @@
       <Name>Tutorial</Name>
       <Data>
 		<string>Welcome to Orcish Inn</string>
-		<string>[color=66,255,128,NonIcon] [scale=0.5,true,false][icon=31,1078,441,48,45][/] [scale=0.5,true,false][icon=31,0,441,48,45][/] [scale=0.5,true,false][icon=31,882,441,48,45][/] [scale=0.5,true,false][icon=31,147,441,48,45][/] （もしくはテンキー）で移動ができます。 [scale=0.5,true,false][icon=8,878,706,40,40][/] ボタンか [scale=0.5,true,false][icon=31,784,395,48,45][/] キーを押すと次のページに進みます。[/]</string>
+		<string>[color=66,255,128,NonIcon] [scale=0.5,true,false][icon=31,1078,441,48,45][/] [scale=0.5,true,false][icon=31,0,441,48,45][/] [scale=0.5,true,false][icon=31,882,441,48,45][/] [scale=0.5,true,false][icon=31,147,441,48,45][/] (もしくはテンキー)で移動ができます。 [scale=0.5,true,false][icon=8,878,706,40,40][/] ボタンか [scale=0.5,true,false][icon=31,784,395,48,45][/] キーを押すと次のページに進みます。[/]</string>
 		<string>TUTORIAL</string>
 		<string>Welcome</string>
 
 		<string>Stamina</string>
-		<string>夜 [scale=0.5,true,false][icon=8,429,1054,40,40][/] になると stamina（スタミナ） [scale=0.75,true,false][icon=8,1172,368,24,24][/] が減少します。そのまま仕事を続けると、頭痛で倒れてしまいます！ [color=66,255,128,NonIcon]ベッド [scale=1.0,true,false][icon=28,160,159,30,30][/] のところまで歩いていって、マウスの左ボタン [scale=0.5,true,false][icon=31,30,359,29,35][/] を押し続けると回復します。[/]</string>
+		<string>夜 [scale=0.5,true,false][icon=8,429,1054,40,40][/] になると stamina(スタミナ) [scale=0.75,true,false][icon=8,1172,368,24,24][/] が減少し、そのまま仕事を続けると、頭痛で倒れてしまいます! [color=66,255,128,NonIcon]ベッド [scale=1.0,true,false][icon=28,160,159,30,30][/] を長押し [scale=0.5,true,false][icon=31,30,359,29,35][/] して、睡眠をとると回復します。[/]</string>
 		<string>STATUSES</string>
 		<string>Stamina</string>
 
@@ -2046,57 +2046,57 @@
 		<string>Satiation</string>
 
 		<string>Eating</string>
-		<string>食べ物のクオリティによって、satiation（満腹度） [scale=0.75,true,false][icon=8,1147,368,24,26][/] の回復量が変わります。 [color=66,255,128,NonIcon]bread [scale=0.5,true,false][icon=28,950,0,50,50][/] をクリックして、満腹になるまで食べましょう。[/]</string>
+		<string>食べ物のクオリティによって、satiation(満腹度) [scale=0.75,true,false][icon=8,1147,368,24,26][/] の回復量が変わります。 [color=66,255,128,NonIcon]bread [scale=0.5,true,false][icon=28,950,0,50,50][/] をクリックして、満腹になるまで食べましょう。[/]</string>
 		<string>STATUSES</string>
 		<string>Eating</string>
 
 		<string>Chests</string>
-		<string>自宅のchest [scale=1.0,true,false][icon=28,213,163,23,23][/] の中に、さらにbread [scale=0.5,true,false][icon=28,950,0,50,50][/] が入っているようです。 [color=66,255,128,NonIcon]chestのところまで行って、bread [scale=0.5,true,false][icon=28,950,0,50,50][/] をインベントリに移しましょう。[/]</string>
+		<string>自宅の箱 [scale=1.0,true,false][icon=28,213,163,23,23][/] の中に、さらにbread [scale=0.5,true,false][icon=28,950,0,50,50][/] が入っているようです。 [color=66,255,128,NonIcon]chestのところまで行って、bread [scale=0.5,true,false][icon=28,950,0,50,50][/] をインベントリに移しましょう。[/]</string>
 		<string>STATUSES</string>
 		<string>Chests</string>
 
 		<string>Seeds</string>
-		<string>酒場宿を経営するにあたって、ビールの醸造とその原料となる作物を育てなければいけません。 [color=66,255,128,NonIcon] seed pouch tool [scale=0.5,true,false][icon=8,153,1034,50,50][/] ボタンをクリックするか、 [scale=0.5,true,false][icon=31,196,487,48,45][/] / [scale=0.5,true,false][icon=31,784,441,48,45][/] キーを押してseedインベントリを開きます。[/]</string>
+		<string>酒場宿を経営するには、作物を育てて、ビールを造らなければいけません。 [color=66,255,128,NonIcon] seed pouch tool [scale=0.5,true,false][icon=8,153,1034,50,50][/] ボタンか [scale=0.5,true,false][icon=31,196,487,48,45][/] / [scale=0.5,true,false][icon=31,784,441,48,45][/] キーを押して、中に入っている種を確認します。[/]</string>
 		<string>FARMING</string>
 		<string>Seeds</string>
 
 		<string>Seed Properties</string>
-		<string>インベントリには barley [scale=0.5,true,false][icon=28,250,100,50,50][/], hop [scale=0.5,true,false][icon=28,100,100,50,50][/] cotton [scale=0.5,true,false][icon=28,800,300,50,50][/] の種が入っています。育成条件に合った場所に植えることで、高品質の作物が育ちます。[color=66,255,128,NonIcon] seed pouch menu [scale=0.5,true,false][icon=8,153,1034,50,50][/] の中のbarley seeds [scale=0.5,true,false][icon=28,250,100,50,50][/] にマウスカーソルを合わせてください。[/]</string>
+		<string>seed pouchには barley [scale=0.5,true,false][icon=28,250,100,50,50][/] hop [scale=0.5,true,false][icon=28,100,100,50,50][/] cotton [scale=0.5,true,false][icon=28,800,300,50,50][/] の種が入っています。発育条件に合った場所に植えることで、高品質の作物が育ちます。[color=66,255,128,NonIcon] seed pouch menu [scale=0.5,true,false][icon=8,153,1034,50,50][/] の中のbarley seeds [scale=0.5,true,false][icon=28,250,100,50,50][/] にカーソルを合わせてみてください。[/]</string>
 		<string>FARMING</string>
 		<string>SeedProperties</string>
 
 		<string>Barley Seeds</string>
-		<string>[scale=0.8,true,false][icon=8,1323,423,29,29][/] マークは必要量を、[scale=0.8,true,false][icon=8,1353,424,28,15][/] マークの数は重要度を表します。barley [scale=0.5,true,false][icon=28,250,100,50,50][/] では、wetnessが最も重要で、ほかの条件はそれほどでもなさそうです。 [color=66,255,128,NonIcon] barley seeds [scale=0.5,true,false][icon=28,250,100,50,50][/] をクリックして選択します。[/]</string>
+		<string>各条件について、[scale=0.8,true,false][icon=8,1323,423,29,29][/] マークは必要量を、[scale=0.8,true,false][icon=8,1353,424,28,15][/] マークは重要度を表します。 barley [scale=0.5,true,false][icon=28,250,100,50,50][/] では、wetnessが最も重要で、ほかの条件はそれほどでもなさそうです。 [color=66,255,128,NonIcon] barley seeds [scale=0.5,true,false][icon=28,250,100,50,50][/] をクリックして選択します。[/]</string>
 		<string>FARMING</string>
 		<string>BarleySeeds</string>
 
 		<string>Wetness</string>
-		<string>Wetness（水分）は水場の近くで高まりますが、自分で調整することもできます。 [color=66,255,128,NonIcon]画面中央の [scale=1,true,false][icon=8,641,670,24,24][/] ボタンをクリックするか、 [scale=0.5,true,false][icon=31,245,441,48,45][/] キーを押すと、wetnessマップが表示されます。[/]</string>
+		<string>Wetness(水分)は水場の近くで高まりますが、自分で調整することもできます。 [color=66,255,128,NonIcon]画面中央の [scale=1,true,false][icon=8,641,670,24,24][/] ボタンか [scale=0.5,true,false][icon=31,245,441,48,45][/] キーを押すと、wetnessマップが表示されます。[/]</string>
 		<string>FARMING</string>
 		<string>Wetness</string>
 
 		<string>Eutrophy</string>
-		<string>Eutrophy（栄養）は場所ごとにばらつきがあるので、種を植えるのに適切な場所を探さなければいけません。 [color=66,255,128,NonIcon]画面中央の [scale=1,true,false][icon=8,641,695,24,24][/] ボタンをクリックするか、 [scale=0.5,true,false][icon=31,294,441,48,45][/] キーを押すとeutrophyマップが表示されます。[/]</string>
+		<string>Eutrophy(栄養)は場所ごとにばらつきがあるので、種を植えるのに適切な場所を探さなければいけません。 [color=66,255,128,NonIcon]画面中央の [scale=1,true,false][icon=8,641,695,24,24][/] ボタンか [scale=0.5,true,false][icon=31,294,441,48,45][/] キーを押すとeutrophyマップが表示されます。[/]</string>
 		<string>FARMING</string>
 		<string>Eutrophy</string>
 
 		<string>Windbreak</string>
-		<string>Windbreak（防風）は木や壁の近くだと高まります。種の種類によって、好む風の強さが異なります。 [color=66,255,128,NonIcon]画面中央の [scale=1,true,false][icon=8,641,720,24,24][/] ボタンをクリックするか、 [scale=0.5,true,false][icon=31,343,441,48,45][/] キーを押すとwindbreakマップが表示されます。[/]</string>
+		<string>Windbreak(防風)はオブジェクトの近くだと高まります。種によって、適した風の強さが異なります。 [color=66,255,128,NonIcon]画面中央の [scale=1,true,false][icon=8,641,720,24,24][/] ボタンか [scale=0.5,true,false][icon=31,343,441,48,45][/] キーを押すとwindbreakマップが表示されます。[/]</string>
 		<string>FARMING</string>
 		<string>Windbreak</string>
 
 		<string>Plant Density</string>
-		<string>種を狭い範囲に植えると、plant density（密度）が高まります。 [color=66,255,128,NonIcon]画面中央の[scale=1,true,false][icon=8,641,745,24,24][/] ボタンをクリックするか、 [scale=0.5,true,false][icon=31,441,441,48,45][/] キーを押すとplant densityマップが表示されます。[/]今はどこにも植えていないので、0ばかりです。 </string>
+		<string>種を狭い範囲に植えると、plant density(密度)が高まります。 [color=66,255,128,NonIcon]画面中央の[scale=1,true,false][icon=8,641,745,24,24][/] ボタンか [scale=0.5,true,false][icon=31,441,441,48,45][/] キーを押すとplant densityマップが表示されます。[/]今はどこにも植えていないので、すべて0です。 </string>
 		<string>FARMING</string>
 		<string>PlantDensity</string>
 
 		<string>Optimality Map</string>
-		<string>[color=66,255,128,NonIcon]画面中央の [scale=1,true,false][icon=8,641,770,24,24][/] ボタンをクリックするか、 [scale=0.5,true,false][icon=31,490,441,48,45][/] キーを押すとoptimalityマップが表示されます。[/]今選択している種の発育条件にぴったり合った場所を確認できます。</string>
+		<string>[color=66,255,128,NonIcon]画面中央の [scale=1,true,false][icon=8,641,770,24,24][/] ボタンか [scale=0.5,true,false][icon=31,490,441,48,45][/] キーを押すとoptimalityマップが表示されます。[/]今選択している種の発育条件にぴったり合った場所を確認できます。</string>
 		<string>FARMING</string>
 		<string>OptimalityMap</string>
 
 		<string>Selecting Land</string>
-		<string>種を植えるには、地面を 'Land' [scale=1.0,true,false][icon=28,909,112,31,29][/] に変えなければいけません。 [color=66,255,128,NonIcon]shovel tool [scale=0.5,true,false][icon=8,153,932,50,50][/] ボタンをクリックするか、 [scale=0.5,true,false][icon=31,98,487,48,45][/]キーを押し、[scale=0.5,true,false][icon=28,100,200,50,50][/] カテゴリーの中のland [scale=1.0,true,false][icon=28,909,112,31,29][/]を選択します。[/]</string>
+		<string>種を植えるには、地面を耕して Land [scale=1.0,true,false][icon=28,909,112,31,29][/] にしなければいけません。 [color=66,255,128,NonIcon]shovel tool [scale=0.5,true,false][icon=8,153,932,50,50][/] ボタンか [scale=0.5,true,false][icon=31,98,487,48,45][/]キーを押し、[scale=0.5,true,false][icon=28,100,200,50,50][/] カテゴリーの中のland [scale=1.0,true,false][icon=28,909,112,31,29][/]を選択します。[/]</string>
 		<string>FARMING</string>
 		<string>SelectingLand</string>
 
@@ -2106,177 +2106,177 @@
 		<string>PlacingLand</string>
 
 		<string>Planting Seeds</string>
-		<string>準備ができたら、早速種を植えましょう！ [color=66,255,128,NonIcon] seed pouch [scale=0.5,true,false][icon=8,153,1034,50,50][/] をクリックし、先ほど設置した land [scale=1.0,true,false][icon=28,909,112,31,29][/] にbarley seeds [scale=0.5,true,false][icon=28,250,100,50,50][/] を植えます。[/]</string>
+		<string>準備ができたら、さっそく種を植えましょう! [color=66,255,128,NonIcon] seed pouch [scale=0.5,true,false][icon=8,153,1034,50,50][/] をクリックし、先ほど設置した land [scale=1.0,true,false][icon=28,909,112,31,29][/] にbarley seeds [scale=0.5,true,false][icon=28,250,100,50,50][/] を植えます。[/]</string>
 		<string>FARMING</string>
 		<string>PlantingSeeds</string>
 
 		<string>Relaxing</string>
-		<string>Satiation [scale=0.75,true,false][icon=8,1147,368,24,26][/] とstamina [scale=0.75,true,false][icon=8,1172,368,24,24][/] は働いているあいだ減少します。 食事と睡眠をわすれないこと！ 昼間は眠ってもあまり回復しないので、 魚釣りがおすすめです。 [color=66,255,128,NonIcon] fishing rod [scale=0.5,true,false][icon=8,204,932,50,50][/] ボタンをクリックするか、 [scale=0.5,true,false][icon=31,343,487,48,45][/] キーを押します。[/]</string>
+		<string>Satiation [scale=0.75,true,false][icon=8,1147,368,24,26][/] とstamina [scale=0.75,true,false][icon=8,1172,368,24,24][/] は働くと減少します。 食事と睡眠をわすれないこと! 昼間は眠ってもあまり回復しないので、 魚釣りで回復するのがおすすめです。 [color=66,255,128,NonIcon] fishing rod [scale=0.5,true,false][icon=8,204,932,50,50][/] ボタンか [scale=0.5,true,false][icon=31,343,487,48,45][/] キーを押します。[/]</string>
 		<string>STATUSES</string>
 		<string>Relaxing</string>
 
 		<string>Fishing</string>
-		<string>マウスの左ボタン [scale=0.5,true,false][icon=31,30,359,29,35][/] をクリックしたまま動かして、浮きを投げます。浮きが沈んだら、魚がかかった合図。もう一度クリックして釣り上げましょう。 [color=66,255,128,NonIcon]fish [scale=0.5,true,false][icon=28,650,0,50,50][/] が釣れました！[/]</string>
+		<string>水場の近くで、マウスの左ボタン [scale=0.5,true,false][icon=31,30,359,29,35][/] を押したまま動かして、浮きを投げます。浮きが沈んだら、魚がかかった合図。もう一度クリックして釣り上げましょう。 [color=66,255,128,NonIcon]fish [scale=0.5,true,false][icon=28,650,0,50,50][/] が釣れました![/]</string>
 		<string>STATUSES</string>
 		<string>Fishing</string>
 
 		<string>Planting Hop and Cotton</string>
-		<string>[color=66,255,128,NonIcon]残りのbarley [scale=0.5,true,false][icon=28,250,100,50,50][/]や、 hop [scale=0.5,true,false][icon=28,100,100,50,50][/] cotton [scale=0.5,true,false][icon=28,800,300,50,50][/]も全部、適した場所に植えてしまいましょう！[/]</string>
+		<string>[color=66,255,128,NonIcon]残りのbarley [scale=0.5,true,false][icon=28,250,100,50,50][/]や、 hop [scale=0.5,true,false][icon=28,100,100,50,50][/] cotton [scale=0.5,true,false][icon=28,800,300,50,50][/]もすべて、適した場所に植えてしまいましょう![/]</string>
 		<string>FARMING</string>
 		<string>PlantingHopCotton</string>
 
 		<string>Wood</string>
-		<string>fish [scale=0.5,true,false][icon=28,650,0,50,50][/] を焼くには、wood [scale=0.5,true,false][icon=28,500,300,50,50][/] が必要です。 [color=66,255,128,NonIcon]hammer-axe tool [scale=0.5,true,false][icon=8,153,983,50,50][/] ボタンか、 [scale=0.5,true,false][icon=31,147,487,48,45][/] キーで装備し、木 [scale=1.0,true,false][icon=28,13,458,25,33][/] を3本以上伐りましょう。[/]</string>
+		<string>fish [scale=0.5,true,false][icon=28,650,0,50,50][/] を焼くには、燃料のwood [scale=0.5,true,false][icon=28,500,300,50,50][/] が必要です。 [color=66,255,128,NonIcon]hammer-axe tool [scale=0.5,true,false][icon=8,153,983,50,50][/] ボタンか [scale=0.5,true,false][icon=31,147,487,48,45][/] キーでhammer-axeを装備し、木 [scale=1.0,true,false][icon=28,13,458,25,33][/] を3本以上切りましょう。[/]</string>
 		<string>RESOURCES</string>
 		<string>Wood</string>
 
 		<string>Stone and Iron</string>
-		<string>stone [scale=0.5,true,false][icon=28,600,300,50,50][/] とiron ores [scale=0.5,true,false][icon=28,650,300,50,50][/] は青い石 [scale=0.5,true,false][icon=28,609,408,31,33][/] を壊すと手に入ります。青以外の石はhammer-axeをアップグレードすると壊せるようになります。 [color=66,255,128,NonIcon]stone [scale=0.5,true,false][icon=28,600,300,50,50][/] とiron [scale=0.5,true,false][icon=28,700,300,50,50][/] それぞれ10個ずつ手に入れましょう。[/]</string>
+		<string>stone [scale=0.5,true,false][icon=28,600,300,50,50][/] とiron ores [scale=0.5,true,false][icon=28,650,300,50,50][/] は青い岩 [scale=0.5,true,false][icon=28,609,408,31,33][/] を壊すと手に入ります。青以外の岩はhammer-axeをアップグレードすると壊せるようになります。 [color=66,255,128,NonIcon]stone [scale=0.5,true,false][icon=28,600,300,50,50][/] とiron ores [scale=0.5,true,false][icon=28,650,300,50,50][/] をそれぞれ10個以上手に入れましょう。[/]</string>
 		<string>RESOURCES</string>
 		<string>StoneIron</string>
 
 		<string>Baked Fish</string>
-		<string>wood [scale=0.5,true,false][icon=28,500,300,50,50][/] を燃料にして、furnace [scale=1.0,true,false][icon=28,463,164,23,23][/] でfish [scale=0.5,true,false][icon=28,650,0,50,50][/] を焼くことができます。 [color=66,255,128,NonIcon]hand tool [scale=0.5,true,false][icon=8,153,881,50,50][/] を選択してfurnaceをクリックし、wood [scale=0.5,true,false][icon=28,500,300,50,50][/] とfish [scale=0.5,true,false][icon=28,650,0,50,50][/] を入れます。[/]</string>
+		<string>wood [scale=0.5,true,false][icon=28,500,300,50,50][/] を燃料にして、furnace [scale=1.0,true,false][icon=28,463,164,23,23][/] でfish [scale=0.5,true,false][icon=28,650,0,50,50][/] を焼くことができます。 [color=66,255,128,NonIcon]hand tool [scale=0.5,true,false][icon=8,153,881,50,50][/] に切り替えてfurnaceをクリックし、wood [scale=0.5,true,false][icon=28,500,300,50,50][/] とfish [scale=0.5,true,false][icon=28,650,0,50,50][/] を入れます。[/]</string>
 		<string>COOKING</string>
 		<string>BakedFish</string>
 
 		<string>Other Recipes</string>
-		<string>furnace [scale=1.0,true,false][icon=28,463,164,23,23][/]には、barley [scale=0.5,true,false][icon=28,150,0,50,50][/] やiron ores [scale=0.5,true,false][icon=28,650,300,50,50][/] も入れられます。[color=66,255,128,NonIcon]Click on [scale=0.5,true,false][icon=8,878,706,40,40][/].[/]</string>
+		<string>furnace [scale=1.0,true,false][icon=28,463,164,23,23][/]には、barley [scale=0.5,true,false][icon=28,150,0,50,50][/] からbread [scale=0.5,true,false][icon=28,950,0,50,50][/] を作ったり、iron ores [scale=0.5,true,false][icon=28,650,300,50,50][/] からiron [scale=0.5,true,false][icon=28,700,300,50,50][/] を作ったりすることができます。[color=66,255,128,NonIcon]次へ [scale=0.5,true,false][icon=8,878,706,40,40][/][/]</string>
 		<string>COOKING</string>
 		<string>BakeOther</string>
 
 		<string>Storage Interaction</string>
-		<string>furnaces [scale=1.0,true,false][icon=28,463,164,23,23][/] のような製造設備は、近接するストレージ（chest [scale=1.0,true,false][icon=28,213,163,23,23][/] ）と連動して素材（fish [scale=0.5,true,false][icon=28,650,0,50,50][/]）を自動補給しつつ製造します。 [color=66,255,128,NonIcon]Click on [scale=0.5,true,false][icon=8,878,706,40,40][/].[/]</string>
+		<string>furnaces [scale=1.0,true,false][icon=28,463,164,23,23][/] のような製造設備は、近くにある箱など [scale=1.0,true,false][icon=28,213,163,23,23][/] のストレージと連動して、素材を自動補給しつつ製造することができます。 [color=66,255,128,NonIcon]次へ [scale=0.5,true,false][icon=8,878,706,40,40][/][/]</string>
 		<string>COOKING</string>
 		<string>StorageInteraction</string>
 
 		<string>Production Output</string>
-		<string>製造設備で作られたものは、自動的に近接したストレージに入れられます。たとえばfish [scale=0.5,true,false][icon=28,800,0,50,50][/] を焼くと隣のchest [scale=1.0,true,false][icon=28,213,163,23,23][/]に入ります。 [color=66,255,128,NonIcon]Click on [scale=0.5,true,false][icon=8,878,706,40,40][/].[/]</string>
+		<string>製造設備で作られたものは、自動的に近くのストレージに入れられます。たとえば、今焼いたfish [scale=0.5,true,false][icon=28,800,0,50,50][/] は隣の箱 [scale=1.0,true,false][icon=28,213,163,23,23][/] に入っています。 [color=66,255,128,NonIcon]次へ [scale=0.5,true,false][icon=8,878,706,40,40][/][/]</string>
 		<string>COOKING</string>
 		<string>ProductionOutput</string>
 
 		<string>Harvest</string>
-		<string>植えた植物が緑色にキラキラと光りだしたら、収穫の合図です。[color=66,255,128,NonIcon]先ほど植えたbarley [scale=0.5,true,false][icon=28,150,0,50,50][/] が育っていたらreaping hook tool [scale=0.5,true,false][icon=8,153,1085,50,50][/] を使って収穫しましょう。[/]</string>
+		<string>先ほど植えた作物を確認しに行きましょう。緑色にキラキラと光っていたら、収穫の合図です。[color=66,255,128,NonIcon]reaping hook tool [scale=0.5,true,false][icon=8,153,1085,50,50][/] を使ってbarley [scale=0.5,true,false][icon=28,150,0,50,50][/] を収穫しましょう。[/]</string>
 		<string>FARMING</string>
 		<string>Harvest</string>
 
 		<string>The Hawker</string>
-		<string>昼になると、行商人が熱気球で飛んできます。 [color=66,255,128,NonIcon]北西にあるHawker Post辺りで行商人を探しましょう。[/]</string>
+		<string>昼になると、熱気球に乗って行商人がやってきます。 [color=66,255,128,NonIcon]北西にあるHawkers Post辺りに探しに行きましょう。[/]</string>
 		<string>TRADING</string>
 		<string>Hawker</string>
 
 		<string>Trading Seeds</string>
-		<string>行商人は種を売っています。 [color=66,255,128,NonIcon]行商人の近くでseed pouch [scale=0.5,true,false][icon=8,153,1034,50,50][/] を開き、barley seeds [scale=0.5,true,false][icon=28,250,100,50,50][/] をいくつか購入します。[/]</string>
+		<string>行商人は種を売っています。 [color=66,255,128,NonIcon]行商人の近くでseed pouch [scale=0.5,true,false][icon=8,153,1034,50,50][/] を開き、barley seeds [scale=0.5,true,false][icon=28,250,100,50,50][/] をいくつか購入しましょう。[/]</string>
 		<string>TRADING</string>
 		<string>TradingSeeds</string>
 
 		<string>Trading Items</string>
-		<string>種以外に、アイテムを売買することもできます。ビールの醸造に必要なyeast [scale=0.5,true,false][icon=28,600,50,50,50][/] も売っています。 [color=66,255,128,NonIcon]行商人の近くでbasket [scale=0.5,true,false][icon=8,204,1034,50,50][/] （[scale=0.5,true,false][icon=31,441,487,48,45][/] / [scale=0.5,true,false][icon=31,196,441,48,45][/]）を開き、yeast [scale=0.5,true,false][icon=28,600,50,50,50][/] を20個購入します。[/]</string>
+		<string>種以外のアイテムを売買することもできます。ビール造りに使うyeast [scale=0.5,true,false][icon=28,600,50,50,50][/] も売っています。 [color=66,255,128,NonIcon]行商人の近くでbasket [scale=0.5,true,false][icon=8,204,1034,50,50][/] ( [scale=0.5,true,false][icon=31,441,487,48,45][/] / [scale=0.5,true,false][icon=31,196,441,48,45][/] )を開き、yeast [scale=0.5,true,false][icon=28,600,50,50,50][/] を20個購入しましょう。[/]</string>
 		<string>TRADING</string>
 		<string>TradingItems</string>
 
 		<string>Barley, Hop and Yeast</string>
-		<string>ビール [scale=0.5,true,false][icon=28,750,50,50,50][/] の醸造には、barley [scale=0.5,true,false][icon=28,150,0,50,50][/] hop [scale=0.5,true,false][icon=28,0,0,50,50][/] yeast [scale=0.5,true,false][icon=28,600,50,50,50][/]が必要です。 [color=66,255,128,NonIcon]barley [scale=0.5,true,false][icon=28,150,0,50,50][/] hop [scale=0.5,true,false][icon=28,0,0,50,50][/] yeast [scale=0.5,true,false][icon=28,600,50,50,50][/] をそれぞれ5こずつ用意しましょう。[/]</string>
+		<string>家に帰ってビール [scale=0.5,true,false][icon=28,750,50,50,50][/] を造りましょう。材料はbarley [scale=0.5,true,false][icon=28,150,0,50,50][/] hop [scale=0.5,true,false][icon=28,0,0,50,50][/] yeast [scale=0.5,true,false][icon=28,600,50,50,50][/] です。 [color=66,255,128,NonIcon]barley [scale=0.5,true,false][icon=28,150,0,50,50][/] hop [scale=0.5,true,false][icon=28,0,0,50,50][/] yeast [scale=0.5,true,false][icon=28,600,50,50,50][/] をそれぞれ5個ずつ用意しましょう。[/]</string>
 		<string>BREWING</string>
 		<string>BarleyHopYeast</string>
 
 		<string>The Right Beer</string>
-		<string>酒場宿の経営者として成功するには、訪れる客層の好みに合ったビールを造る必要があります。訪れる客の"クラン"がどういった風味を好むか確認しましょう。[color=66,255,128,NonIcon] [scale=0.5,true,false][icon=31,147,395,48,45][/] を押してクラン画面（仮）を表示します。[/]</string>
+		<string>酒場宿を繁盛させるには、客層に合ったビールを造る必要があります。お客が所属する"クラン"がどういった風味を好むか確認しましょう。 [color=66,255,128,NonIcon] [scale=0.5,true,false][icon=31,147,395,48,45][/] を押してクラン画面(仮)を表示します。[/]</string>
 		<string>SATISFACTION</string>
 		<string>Beer</string>
 
 		<string>Clan Satisfaction</string>
-		<string>ここには、クランが好むビールのminimal quality（品質）やcomfort（快適度）に加え、[color=236,213,120]tint brightness（色あい）[/] [color=236,120,120]full body（コク）[/] [color=120,236,128]bitterness（苦味）[/] [color=120,169,236]alcoholic strength（アルコール度数）[/]といった特徴が表示されます。 [color=66,255,128,NonIcon]Click on [scale=0.5,true,false][icon=8,878,706,40,40][/].[/]</string>
+		<string>ここには、酒場のcomfort(快適度)やビールのminimal quality(品質)のほか、クランが好むビールの特徴　[color=236,213,120]tint brightness(色あい)[/] [color=236,120,120]full body(コク)[/] [color=120,236,128]bitterness(苦味)[/] [color=120,169,236]alcoholic strength(アルコール度数)[/]といった特徴が表示されます。 [color=66,255,128,NonIcon]次へ [scale=0.5,true,false][icon=8,878,706,40,40][/][/]</string>
 		<string>SATISFACTION</string>
 		<string>ClanSatisfaction</string>
 
 		<string>Cooking Recipes</string>
-		<string>レシピを開いて、クランの好みにあうビールを造ってみましょう。 [color=66,255,128,NonIcon]クラン情報画面を閉じ、画面中央の [scale=0.6,true,false][icon=8,691,670,50,50][/] ボタンか [scale=0.5,true,false][icon=31,98,395,48,45][/] キーを押してhub bookを開きます。[/]</string>
+		<string>レシピを開いて、クランの好みにあうビールを造ってみましょう。 [color=66,255,128,NonIcon]クラン情報画面を閉じ [scale=0.5,true,false][icon=31,147,395,48,45][/] 、画面中央の [scale=0.6,true,false][icon=8,691,670,50,50][/] ボタンか [scale=0.5,true,false][icon=31,98,395,48,45][/] キーを押してhub bookを開きます。[/]</string>
 		<string>SATISFACTION</string>
 		<string>CookingRecipes</string>
 
 		<string>Beer Brewing Recipe</string>
-		<string>おっと！クランの好みに合ったレシピがすでにありますね！ [color=66,255,128,NonIcon]左ページのbeer brewingカテゴリーを開き、その中のレシピを選択しましょう。[/]</string>
+		<string>おっと! クラン向けのレシピがすでに用意されていますね。 [color=66,255,128,NonIcon]beer brewingカテゴリーをクリックして開き、 クラン名のレシピを選択しましょう。[/]</string>
 		<string>SATISFACTION</string>
 		<string>BeerBrewingRecipe</string>
 
 		<string>Brewing Process</string>
-		<string>ビールの製造は、malt box [scale=0.75,true,false][icon=28,313,158,23,32][/]で作られたmalt（麦芽） [scale=0.5,true,false][icon=28,300,50,50,50][/] が、wort boiler [scale=0.75,true,false][icon=28,361,164,25,27][/]でwort（麦汁） [scale=0.5,true,false][icon=28,350,50,50,50][/] になり、最後にbeer brewing kettle [scale=0.5,true,false][icon=28,412,151,24,46][/]でbeer [scale=0.5,true,false][icon=28,750,50,50,50][/] となって完成する流れです。 [color=66,255,128,NonIcon]Click on [scale=0.5,true,false][icon=8,878,706,40,40][/].[/]</string>
+		<string>malt box [scale=0.75,true,false][icon=28,313,158,23,32][/] で作られたmalt(麦芽) [scale=0.5,true,false][icon=28,300,50,50,50][/] は、wort boiler [scale=0.75,true,false][icon=28,361,164,25,27][/]でwort(麦汁) [scale=0.5,true,false][icon=28,350,50,50,50][/] になり、beer brewing kettle [scale=0.5,true,false][icon=28,412,151,24,46][/]で醸造されてビール [scale=0.5,true,false][icon=28,750,50,50,50][/] になります。 [color=66,255,128,NonIcon]次へ [scale=0.5,true,false][icon=8,878,706,40,40][/][/]</string>
 		<string>BREWING</string>
 		<string>BrewingProcess</string>
 
 		<string>Malt Production</string>
-		<string>まずはmaltを作りましょう。 [color=66,255,128,NonIcon] [scale=0.5,true,false][icon=31,98,395,48,45][/] を押してhub bookを閉じ、malt box [scale=0.75,true,false][icon=28,313,158,23,32][/] をクリックします。 [scale=1.0,true,false][icon=8,362,222,31,31][/] ボタンをクリックしてレシピを設定します。[/]</string>
+		<string>まずはmaltを作りましょう。 [color=66,255,128,NonIcon] [scale=0.5,true,false][icon=31,98,395,48,45][/] を押してhub bookを閉じ、malt box [scale=0.75,true,false][icon=28,313,158,23,32][/] をクリックします。 [scale=1.0,true,false][icon=8,362,222,31,31][/] ボタンをクリックしてレシピをセットします。[/]</string>
 		<string>BREWING</string>
 		<string>MaltProduction0</string>
 
 		<string>Malt Production</string>
-		<string>malt box [scale=0.75,true,false][icon=28,313,158,23,32][/] は、パイプでつながった屋外のrain barrels [scale=1.0,true,false][icon=28,514,162,20,25][/] から水を、近くのchest [scale=1.0,true,false][icon=28,213,163,23,23][/] からwood [scale=0.5,true,false][icon=28,500,300,50,50][/] と barley [scale=0.5,true,false][icon=28,150,0,50,50][/] を補給します。 [color=66,255,128,NonIcon]wood [scale=0.5,true,false][icon=28,500,300,50,50][/] を10個とbarley [scale=0.5,true,false][icon=28,150,0,50,50][/] をいくつかchestに入れてください。[/]</string>
+		<string>malt box [scale=0.75,true,false][icon=28,313,158,23,32][/] は、パイプでつながったrain barrels [scale=1.0,true,false][icon=28,514,162,20,25][/] から水を、近くの箱 [scale=1.0,true,false][icon=28,213,163,23,23][/] からwood [scale=0.5,true,false][icon=28,500,300,50,50][/] と barley [scale=0.5,true,false][icon=28,150,0,50,50][/] を補給します。 [color=66,255,128,NonIcon]wood [scale=0.5,true,false][icon=28,500,300,50,50][/] を10個とbarley [scale=0.5,true,false][icon=28,150,0,50,50][/] をいくつか箱に入れてください。[/]</string>
 		<string>BREWING</string>
 		<string>MaltProduction1</string>
 
 		<string>Malt Production</string>
-		<string>tasteは作物（今回はbarley [scale=0.5,true,false][icon=28,150,0,50,50][/]）で、[color=236,213,120]tint brightness[/] は水の量で決まります。malt boxには、レシピで指定した量の素材が自動で補給されます。 [color=66,255,128,NonIcon]malt [scale=0.5,true,false][icon=28,300,50,50,50][/] ができ上がるのを待ちましょう。[/]</string>
+		<string>maltのtasteは入れる作物(今回はbarley [scale=0.5,true,false][icon=28,150,0,50,50][/] )によって決まり、[color=236,213,120]tint brightness[/] は水の量で決まります。 barleyと水は、セットしたレシピの分量が自動で補給されるので [color=66,255,128,NonIcon]malt [scale=0.5,true,false][icon=28,300,50,50,50][/] ができ上がるのを待ちましょう。[/]</string>
 		<string>BREWING</string>
 		<string>MaltProduction2</string>
 
 		<string>Malt Production</string>
-		<string>でき上がったmaltは近くのchest [scale=1.0,true,false][icon=28,213,163,23,23][/]に入ります。 これはそのままにしておいてください。後でwort boiler [scale=0.75,true,false][icon=28,361,164,25,27][/] に素材として自動補給されます。 [color=66,255,128,NonIcon]Click on [scale=0.5,true,false][icon=8,878,706,40,40][/].[/]</string>
+		<string>できあがったmaltは近くの箱 [scale=1.0,true,false][icon=28,213,163,23,23][/]に入ります。 これはそのままにしておいてください。あとでwort boiler [scale=0.75,true,false][icon=28,361,164,25,27][/] で素材として使うためです。 [color=66,255,128,NonIcon]次へ [scale=0.5,true,false][icon=8,878,706,40,40][/][/]</string>
 		<string>BREWING</string>
 		<string>MaltProduction3</string>
 
 		<string>Wort Production</string>
-		<string>wort boiler [scale=0.75,true,false][icon=28,361,164,25,27][/] でmalt [scale=0.5,true,false][icon=28,300,50,50,50][/] をwort [scale=0.5,true,false][icon=28,350,50,50,50][/]にします。 tasteと[color=236,213,120]tint brightness[/]は、素材となるmalt [scale=0.5,true,false][icon=28,300,50,50,50][/] の値を引き継ぎます。 [color=66,255,128,NonIcon]wort boilerにレシピを設定してください。[/]</string>
+		<string>次にwort boiler [scale=0.75,true,false][icon=28,361,164,25,27][/] でmalt [scale=0.5,true,false][icon=28,300,50,50,50][/] をwort [scale=0.5,true,false][icon=28,350,50,50,50][/]にします。 tasteと[color=236,213,120]tint brightness[/]は、素材となるmalt [scale=0.5,true,false][icon=28,300,50,50,50][/] の値を引き継ぎます。 [color=66,255,128,NonIcon]wort boilerにレシピをセットしてください。[/]</string>
 		<string>BREWING</string>
 		<string>WortProduction0</string>
 
 		<string>Wort Production</string>
-		<string>素材のmalt [scale=0.5,true,false][icon=28,300,50,50,50][/]は、近くのchest [scale=1.0,true,false][icon=28,213,163,23,23][/]からレシピの指定量補給されます。rain barrels [scale=1.0,true,false][icon=28,514,162,20,25][/] から補給される水の量で[color=236,120,120]full body[/]が決まります。 [color=66,255,128,NonIcon]wort [scale=0.5,true,false][icon=28,350,50,50,50][/] ができるまで、何かほかのことをして待ちましょう。[/]</string>
+		<string>近くの箱 [scale=1.0,true,false][icon=28,213,163,23,23][/] から、素材のmalt [scale=0.5,true,false][icon=28,300,50,50,50][/] が補給されます。rain barrels [scale=1.0,true,false][icon=28,514,162,20,25][/] から補給される水の量で[color=236,120,120]full body[/]が決まります。 [color=66,255,128,NonIcon]wort [scale=0.5,true,false][icon=28,350,50,50,50][/] ができるまで、何かほかのことをして待ちましょう。[/]</string>
 		<string>BREWING</string>
 		<string>WortProduction1</string>
 
 		<string>Beer Production</string>
-		<string>beer brewing kettle [scale=0.5,true,false][icon=28,412,151,24,46][/] にwort [scale=0.5,true,false][icon=28,350,50,50,50][/], hop [scale=0.5,true,false][icon=28,0,0,50,50][/] yeast [scale=0.5,true,false][icon=28,600,50,50,50][/]を入れるとbeer [scale=0.5,true,false][icon=28,750,50,50,50][/] ができます。taste, [color=236,213,120]tint brightness[/] [color=236,120,120]full body[/] は、素材となるwort [scale=0.5,true,false][icon=28,350,50,50,50][/] の値を引き継ぎます。 [color=66,255,128,NonIcon]Click on [scale=0.5,true,false][icon=8,878,706,40,40][/].[/]</string>
+		<string>beer brewing kettle [scale=0.5,true,false][icon=28,412,151,24,46][/] にwort [scale=0.5,true,false][icon=28,350,50,50,50][/] hop [scale=0.5,true,false][icon=28,0,0,50,50][/] yeast [scale=0.5,true,false][icon=28,600,50,50,50][/]を入れて醸造するとビール [scale=0.5,true,false][icon=28,750,50,50,50][/] ができます。taste, [color=236,213,120]tint brightness[/], [color=236,120,120]full body[/] は、素材となるwort [scale=0.5,true,false][icon=28,350,50,50,50][/] の値を引き継ぎます。 [color=66,255,128,NonIcon]次へ [scale=0.5,true,false][icon=8,878,706,40,40][/][/]</string>
 		<string>BREWING</string>
 		<string>BeerProduction0</string>
 
 		<string>Beer Production</string>
-		<string>beer brewing kettle [scale=0.5,true,false][icon=28,412,151,24,46][/] にも素材の分量を設定する必要があります。 [color=66,255,128,NonIcon]これまでと同様にレシピを設定してください。[/]</string>
+		<string>beer brewing kettle [scale=0.5,true,false][icon=28,412,151,24,46][/] にも素材の分量を設定する必要があります。 [color=66,255,128,NonIcon]これまでと同様にレシピをセットしてください。[/]</string>
 		<string>BREWING</string>
 		<string>BeerProduction1</string>
 
 		<string>Beer Production</string>
-		<string>kettle [scale=0.5,true,false][icon=28,412,151,24,46][/] が自動補給できるよう、hop [scale=0.5,true,false][icon=28,0,0,50,50][/] yeast [scale=0.5,true,false][icon=28,600,50,50,50][/] を近くのchest [scale=1.0,true,false][icon=28,213,163,23,23][/] に入れておかなければいけません。 [color=66,255,128,NonIcon]yeast [scale=0.5,true,false][icon=28,600,50,50,50][/] とhop [scale=0.5,true,false][icon=28,0,0,50,50][/] をいくつか、近くのchestに入れましょう。[/]</string>
+		<string>近くの箱 [scale=1.0,true,false][icon=28,213,163,23,23][/] に素材を入れておけば、kettle [scale=0.5,true,false][icon=28,412,151,24,46][/] に自動で補給されます。 [color=66,255,128,NonIcon]yeast [scale=0.5,true,false][icon=28,600,50,50,50][/] とhop [scale=0.5,true,false][icon=28,0,0,50,50][/] をいくつか、近くの箱に入れましょう。[/]</string>
 		<string>BREWING</string>
 		<string>BeerProduction2</string>
 
 		<string>Beer Production</string>
-		<string>kettle [scale=0.5,true,false][icon=28,412,151,24,46][/] は完成したbeer [scale=0.5,true,false][icon=28,750,50,50,50][/] を、地下パイプを使って、酒場のfaucet [scale=0.5,true,false][icon=28,761,157,24,36][/] に送ります。 [color=66,255,128,NonIcon]画面中央の [scale=1.0,true,false][icon=8,641,820,24,24][/] を押すと、パイプが表示されます。[/]</string>
+		<string>完成したビール [scale=0.5,true,false][icon=28,750,50,50,50][/] は、地下パイプを使ってkettle [scale=0.5,true,false][icon=28,412,151,24,46][/] から酒場のfaucet [scale=0.5,true,false][icon=28,761,157,24,36][/] に送られます。 [color=66,255,128,NonIcon]画面中央の [scale=1.0,true,false][icon=8,641,820,24,24][/] を押すと、パイプが表示されます。[/]</string>
 		<string>BREWING</string>
 		<string>BeerProduction3</string>
 
 		<string>Faucet</string>
-		<string>faucet [scale=0.5,true,false][icon=28,761,157,24,36][/] は、ビール [scale=0.5,true,false][icon=28,750,50,50,50][/] を売る変な生き物です。ビール [scale=0.5,true,false][icon=28,750,50,50,50][/] が完成してfaucetにたまるのを待ちましょう。 [color=66,255,128,NonIcon]faucetをクリックして、できたてのビール [scale=0.5,true,false][icon=28,750,50,50,50][/] を思うまま楽しみましょう！[/]</string>
+		<string>faucet [scale=0.5,true,false][icon=28,761,157,24,36][/] は、ビール [scale=0.5,true,false][icon=28,750,50,50,50][/] を売る変な生き物です。ビール [scale=0.5,true,false][icon=28,750,50,50,50][/] が完成してfaucetにたまったら、[color=66,255,128,NonIcon]faucetをクリックして、できたてのビール [scale=0.5,true,false][icon=28,750,50,50,50][/] を思うまま楽しみましょう![/]</string>
 		<string>BREWING</string>
 		<string>Faucet</string>
 
 		<string>Running Production</string>
-		<string>chests [scale=1.0,true,false][icon=28,213,163,23,23][/] に必要な素材を補給し、bucket tool [scale=0.5,true,false][icon=8,204,983,50,50][/]でrain barrels [scale=1.0,true,false][icon=28,514,162,20,25][/] に水を足し、製造が止まらないようにしましょう。 [color=66,255,128,NonIcon]Click on [scale=0.5,true,false][icon=8,878,706,40,40][/].[/]</string>
+		<string>ビールの製造が止まらないように、常に箱 [scale=1.0,true,false][icon=28,213,163,23,23][/] に必要な素材を補給し、bucket tool [scale=0.5,true,false][icon=8,204,983,50,50][/]でrain barrels [scale=1.0,true,false][icon=28,514,162,20,25][/] に水を足しましょう。 [color=66,255,128,NonIcon]次へ [scale=0.5,true,false][icon=8,878,706,40,40][/][/]</string>
 		<string>BREWING</string>
 		<string>RunningProduction</string>
 
 		<string>Visitors</string>
-		<string>酒場を開店すると、お客がやってきます。 [color=66,255,128,NonIcon]hand tool [scale=0.5,true,false][icon=8,153,881,50,50][/]を選択して、酒場の前の看板 [scale=0.5,true,false][icon=28,417,256,15,41][/] を左クリック [scale=0.5,true,false][icon=31,30,359,29,35][/] しましょう。[/]</string>
+		<string>酒場を開店すると、お客がやってきます。 [color=66,255,128,NonIcon]hand tool [scale=0.5,true,false][icon=8,153,881,50,50][/] に切り替えて、酒場の前の看板 [scale=0.5,true,false][icon=28,417,256,15,41][/] を左クリック [scale=0.5,true,false][icon=31,30,359,29,35][/] しましょう。[/]</string>
 		<string>CLANS</string>
 		<string>Visitors</string>
 
 		<string>Reputation</string>
-		<string>クランを満足させると、徐々にreputation [scale=1,true,false][icon=8,1240,368,18,18][/]が増えていきます。満足度は、クラン情報画面で確認できます。 [color=66,255,128,NonIcon] [scale=0.5,true,false][icon=31,147,395,48,45][/] キーを押して棒グラフを確認したら次に進みます [scale=0.5,true,false][icon=8,878,706,40,40][/]。[/]</string>
+		<string>お客を満足させると、そのクランのreputation（評価） [scale=1,true,false][icon=8,1240,368,18,18][/]が徐々に増えていきます。 [color=66,255,128,NonIcon] [scale=0.5,true,false][icon=31,147,395,48,45][/] キーを押してクラン情報画面を開き、棒グラフを確認しましょう。次へ [scale=0.5,true,false][icon=8,878,706,40,40][/][/]</string>
 		<string>CLANS</string>
 		<string>Reputation</string>
 
 		<string>Social Rank</string>
-		<string>overall satisfactionが70%を超えると、social rank [scale=1,true,false][icon=8,1259,368,18,18][/] が上がって、新たなクランが酒場を訪れるようになります。 [color=66,255,128,NonIcon]Click on [scale=0.5,true,false][icon=8,878,706,40,40][/].[/]</string>
+		<string>overall satisfactionが70%を超えると、social rank [scale=1,true,false][icon=8,1259,368,18,18][/] が上がって、新たなクランが酒場を訪れるようになります。 [color=66,255,128,NonIcon]次へ [scale=0.5,true,false][icon=8,878,706,40,40][/][/]</string>
 		<string>CLANS</string>
 		<string>SocialRank</string>
 
@@ -2286,17 +2286,17 @@
 		<string>Upgrades</string>
 
 		<string>Tutorial Target</string>
-		<string>チュートリアルはこれでおしまいです。ほかにも、行商人や沼に住むシャーマン、お客たちからクエストを受注することもできます。 [color=66,255,128,NonIcon]クラン情報を閉じ ([scale=0.5,true,false][icon=31,147,395,48,45][/]) 、and click on [scale=0.5,true,false][icon=8,878,706,40,40][/].[/]</string>
+		<string>チュートリアルはこれでおしまいです。ほかにも、行商人や沼に住むシャーマン、お客たちからクエストを受注することができます。 [color=66,255,128,NonIcon]クラン情報を閉じて ([scale=0.5,true,false][icon=31,147,395,48,45][/]) 、次へ [scale=0.5,true,false][icon=8,878,706,40,40][/][/]</string>
 		<string>FINALLY</string>
 		<string>TutorialTarget0</string>
 
 		<string>Tutorial Target</string>
-		<string>木 [scale=1.0,true,false][icon=28,13,458,25,33][/] の下に落ちているハトのたまご [scale=0.75,true,false][icon=28,50,350,50,50][/] を見つけましたか？そう、ハトを育てることができるんです！彼らはsocial rank [scale=1,true,false][icon=8,1259,368,18,18][/] を高めるため、いろんなお手伝いをしてくれます。[color=66,255,128,NonIcon]Click on [scale=0.5,true,false][icon=8,878,706,40,40][/].[/]</string>
+		<string>木 [scale=1.0,true,false][icon=28,13,458,25,33][/] の下に落ちているハトのたまご [scale=0.75,true,false][icon=28,50,350,50,50][/] を見つけましたか？そう、ハトを育てることができるんです!彼らはsocial rank [scale=1,true,false][icon=8,1259,368,18,18][/] を高めるためのさまざまなお手伝いをしてくれます。[color=66,255,128,NonIcon]次へ [scale=0.5,true,false][icon=8,878,706,40,40][/][/]</string>
 		<string>FINALLY</string>
 		<string>TutorialTarget1</string>
 
 		<string>Tutorial Completed</string>
-		<string>チュートリアルお疲れさまでした！右上の [scale=0.75,true,false][icon=8,691,756,34,34][/] ボタンを押すと、このウィンドウを非表示にできます。 New Game [scale=0.75,true,false][icon=8,691,721,34,34][/] から、Challenge Modeも試してみてね。 [color=66,255,128,NonIcon]social rank [scale=1,true,false][icon=8,1259,368,18,18][/] 1を目指そう！[/]</string>
+		<string>チュートリアルお疲れさまでした!右上の [scale=0.75,true,false][icon=8,691,756,34,34][/] ボタンを押すと、このウィンドウを非表示にできます。 New Game [scale=0.75,true,false][icon=8,691,721,34,34][/] から、Challengeモードも試してみてください。 まずは[color=66,255,128,NonIcon]social rank [scale=1,true,false][icon=8,1259,368,18,18][/] 1を目指そう![/]</string>
 		<string>FINALLY</string>
 		<string>TutorialCompleted</string>
 	  </Data>
