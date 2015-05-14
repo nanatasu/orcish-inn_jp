@@ -3,11 +3,7 @@ Orcish Inn 日本語化データ ver0.1
 ■対応バージョン
 　Orcish Inn 0.0.9
 ■作成日
-　2015/5/15
-■作成者
-　languageデータ：ななたす（https://twitter.com/nanatasu）
-　fontデータ：tktk（https://twitter.com/nanatasu）
-
+　2015/5/14
 
 ■使い方
 ・ \Content\languages\language_english.xml を置き換え
@@ -30,7 +26,7 @@ http://orcish-inn.stevencolling.com/
 
 ・使用フォント
 源ノ角ゴシック Medium 11 point 
-＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+======================================================================
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
@@ -42,4 +38,9 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+======================================================================
+
+■作成者
+　languageデータ：ななたす（https://twitter.com/nanatasu）
+　fontデータ：tktk（https://twitter.com/tktk_1）
 
