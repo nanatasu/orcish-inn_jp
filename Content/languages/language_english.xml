@@ -124,28 +124,28 @@
       <Data>
 		<string></string>
 		<string></string>
-		<string>fish。オークの池で釣れるおいしい魚。</string>
-		<string>bread。# から作ったパン。</string>
-		<string>Malt(麦芽)。malt boxに穀物を入れるとできる。wortの素材として使う。</string>
-		<string>Wort(麦汁)。wort boilerにmaltを入れるとできる。</string>
-		<string>Yeast(酵母)。ビール醸造に使う。ビールのAlcoholic Strengthを決める。</string>
-		<string>ビール。faucetでお客に売ったり、自分で飲んだりできる。</string>
-		<string>がらくた。釣りをしているとよく見つかる。</string>
-		<string>不思議なお宝。どこのものかわからない。</string>
-		<string>走り書きされた紙片。何かの役に立つかもしれない。</string>
-		<string>Wood。建築素材、または生産設備の燃料として使う。</string>
-		<string>Fiber。特別なアイテム(カーペットなど)を作るための素材として使う。</string>
-		<string>Stone。建築素材として使う。</string>
-		<string>Iron Ore。岩からとれる。furnaceで熔かすとIronになる。</string>
-		<string>Iron。生産設備を作るための素材として使う。</string>
-		<string>危険な発明品。Stone pitに投げ込むとstoneがとれる。</string>
+		<string>fish|オークの池で釣れるおいしい魚。</string>
+		<string>bread|# から作ったパン。</string>
+		<string>Malt(麦芽)|malt boxに穀物を入れるとできる。|wortの素材として使う。</string>
+		<string>Wort(麦汁)|wort boilerにmaltを入れるとできる。</string>
+		<string>Yeast(酵母)|ビール醸造に使う。ビールのAlcoholic Strengthを決める。</string>
+		<string>ビール|faucetでお客に売ったり、自分で飲んだりできる。</string>
+		<string>がらくた|釣りをしているとよく見つかる。</string>
+		<string>不思議なお宝|どこのものかわからない。</string>
+		<string>走り書きされた紙片|何かの役に立つかもしれない。</string>
+		<string>Wood|建築素材、または生産設備の燃料として使う。</string>
+		<string>Fiber|特別なアイテム(カーペットなど)を作るための素材として使う。</string>
+		<string>Stone|建築素材として使う。</string>
+		<string>Iron Ore|岩からとれる。furnaceで熔かすとIronになる。</string>
+		<string>Iron|生産設備を作るための素材として使う。</string>
+		<string>危険な発明品|Stone pitに投げ込むとstoneがとれる。</string>
 		<string>瓶に入った薬。病気になったら飲もう。</string>
 		<string>ハトの肉。おいしい。</string>
 		<string>ハトのたまご。巣箱に入れて育てたり、furnaceで焼いて食べるのもよい。</string>
 		<string>焼いたハトのたまご。とってもいい香り！</string>
-		<string>special care package。通常、戦争時の非常食として使用される。</string>
-		<string>種の入った袋。中身はよくわからない。</string>
-		<string>バレンタインデーのカード。ハトが持ち帰ってきたもの。</string>
+		<string>special care package|通常、戦争時の非常食として使用される。</string>
+		<string>種の入った袋|中身はよくわからない。</string>
+		<string>かわいいバレンタインデーのカード|ハトが持ち帰ってきたもの。</string>
 		<string>古くて黄ばんだ紙の入った瓶。</string>
 		<string>この鏡には、自分の姿ではなく、遥か彼方の空が映っている。背面には'Jason Levine Jr.'で始まる署名が記されている。</string>
 		<string>普通のオークは、宝石のかけらか何かだと思うだろう。なんて愚かな! 背面には'Jason Levine Jr.'で始まる署名が記されている。</string>
@@ -156,19 +156,19 @@
 	<Entry>
       <Name>CropTooltips</Name>
       <Data>
-		<string>Hop(ホップ)。ビール醸造に使う。ビールのbitterness（苦味）を決める。</string>
-		<string>Corn(コーン)。Tier5の穀物。ビール醸造や、パンの素材として使う。</string>
-		<string>Wheat(小麦)。Tier4の穀物。ビール醸造や、パンの素材として使う。</string>
-		<string>Barley(大麦)。Tier1の穀物。ビール醸造や、パンの素材として使う。</string>
-		<string>Rye(ライ麦)。Tier3の穀物。ビール醸造や、パンの素材として使う。</string>
-		<string>Spelt(古代麦)。Tier2の穀物。ビール醸造や、パンの素材として使う。</string>
-		<string>Blueleaves。Tier2の香りづけ素材。ビールのflavorを決める。</string>
-		<string>Belladonna。Tier1の香りづけ素材。ビールのflavorを決める。</string>
-		<string>Dryroot。Tier3の香りづけ素材。ビールのflavorを決める。</string>
-		<string>Lotus。Tier5の香りづけ素材。ビールのflavorを決める。</string>
-		<string>Sunflowers。Tier4の香りづけ素材。ビールのflavorを決める。</string>
+		<string>Hop(ホップ)|ビール醸造に使う。ビールのbitterness（苦味）を決める。</string>
+		<string>Corn(コーン)|Tier5の穀物。ビール醸造や、パンの素材として使う。</string>
+		<string>Wheat(小麦)|Tier4の穀物。ビール醸造や、パンの素材として使う。</string>
+		<string>Barley(大麦)|Tier1の穀物。ビール醸造や、パンの素材として使う。</string>
+		<string>Rye(ライ麦)|Tier3の穀物。ビール醸造や、パンの素材として使う。</string>
+		<string>Spelt(古代麦)|Tier2の穀物。ビール醸造や、パンの素材として使う。</string>
+		<string>Blueleaves|Tier2の香りづけ素材。ビールのflavorを決める。</string>
+		<string>Belladonna|Tier1の香りづけ素材。ビールのflavorを決める。</string>
+		<string>Dryroot|Tier3の香りづけ素材。ビールのflavorを決める。</string>
+		<string>Lotus|Tier5の香りづけ素材。ビールのflavorを決める。</string>
+		<string>Sunflowers|Tier4の香りづけ素材。ビールのflavorを決める。</string>
 		<string></string>
-		<string>Scholer's Fire。特別な香りづけ素材。これを入れれば、どのクランが好むflavorにも対応できる。</string>
+		<string>Scholer's Fire|特別な香りづけ素材。これを入れれば、どのクランが好むflavorにも対応できる。</string>
       </Data>
     </Entry>
 	<Entry>
@@ -187,7 +187,7 @@
 	<Entry>
       <Name>SpecialTooltips</Name>
       <Data>
-        <string>[color=240,176,84]Restores # satiation (scales with quality).[/]</string>
+		<string>[color=240,176,84]satiationを # 回復。(回復量は品質により変わる)[/]</string>
 		<string> A signature tells that this egg was designed by #.</string>
       </Data>
     </Entry>
@@ -801,22 +801,22 @@
 	<Entry>
       <Name>ClanDescriptions</Name>
       <Data>
-		<string>その昔、Ghoulsは尊敬されたクランの一つであり、大オーク戦争にてしんがりを任されていた。オーク軍内での地位が高まるにつれ、かつての英雄たちは名前通り'悪鬼'と成り下がり、価値ある盗品を求めて敵の死体を漁るばかりとなった。現在、Ghoulsは唾棄すべき屑の集まりである。</string>
-		<string>Coopersは、さまざまな種類の樽や箱を製造している。彼らは最初期にギルドを立ち上げた職人集団の一つで、その財力はオーク政治における富と影響力を確実なものとした。それにも拘らず、彼らはほかの職人ギルドに侮られることが多い。</string>
-		<string>戦争と切っても切り離せないオーク文化において、鍛冶は重要な役割を担う。そのためBracksmithsは、とりわけ知名度が高く、広く尊敬されている職人ギルドの一つとなっている。主要なクランの鍛冶職人は、このギルドにも所属する必要がある。</string>
-		<string>その名の通り、Spearheadは無鉄砲な戦士を最前線に送り込むクランである。一族に伝わる習わしということも考えられるが、その高い戦死率のため、前線へ配備するオークは国外から大規模徴集している。</string>
-		<string>このクランは内戦の間、敗者に対し凄惨な尋問を行い、人々に恐怖と動揺をもたらした。後にそれが明らかになると、自らその報いを受けることとなった。自身を敵をひねり潰すTwisted Dragonと称するが、人々はわが身喰らいしHydraと呼んでいる。</string>
-		<string>War Chantクランは、オーク文化の音楽的側面を形成し、高めることを目的としている。穏やかな社交の場か、血みどろの戦場であるかに関わらず、彼らの軍歌を耳にしない日はない。</string>
-		<string>Minersを構成する労働者階級の人々は、価値ある資源やさまざまな鉱物の採掘によりオークの手工業文化を支えているにも拘わらず蔑まれている。近年、Minersのコミュニティは拡大しており、いよいよもって攻撃的で御しがたい存在となりつつある。</string>
-		<string>Berserkerクランは、オーク軍に人的資源を供給しており、現在の統治者である将軍の支配下におかれている。変化には乏しいが安定した生活を手に入れたいオークたちが、Berserkerクラン外から殺到している。</string>
-		<string>Eye of Mindはシャーマンの連合である。彼らは祖先の魂を呼び出し、物、主にアーティファクトに宿らせることを生業としている。怪しげな所業に手を染めるシャーマンもおり、子孫に恵まれない幽霊などは、闇市場で "生ける蛇口" としての末路を迎えかねない。</string>
-		<string>Historianクランはほかとは異なり、若いオークたちを学者として育てることで、オーク社会の根幹を築いている。彼らが書き記したオークの歴史書は、首都の図書館に保管され、誰でも閲覧可能である。</string>
-		<string>Raven Covenantは、慎み深く秘密主義の集団であり、その目的もまた闇に包まれている。その身に刻まれた歴戦の傷跡と政治的立ち回りからして、彼らこそが陰で糸を引く黒幕なのかもしれない。</string>
-		<string>古くから繁栄の続くFishermenクランでは、漁師たちが誇りと厳しい規則を守り工芸品を作り続けてきた。この生活様式を選ぶものは、多くの勇気を携えなければならない。なぜならオークの沼はあらゆる戦場よりも恐ろしく、危険であるからだ。</string>
-		<string>Hawkersは一種の行商人クランとして組織されているが、中にはまだ元のクランに所属し続けているものもいる。このクランは取引の価格、地域、利用料金を管理する。彼らの収入の一部は課税されるが、見返りとしてさまざまなクランの中で中立的な立場を享受している。</string>
-		<string>Spirit Brewクランは料理と醸造に特化したシャーマンの集まりである。kettleによって時々起こす奇跡が、一方で人々の不信感を招き、オーク社会から締め出されている。そのため、彼らは森で孤立して暮らし、取引のためにだけ近くの町を訪れる。</string>
-		<string>First Scoutsクランは幾度もオークの世界地図を描き変えるような新発見をしてきた。探検船と、地図に関する豊富な蔵書こそが彼らの基本であり、国境線は今も、新たな発見を求め情熱を燃やすオークたちで溢れかえっている。</string>
-		<string>Backboneはいわゆるオークの木こりであり、オーク帝国の屋台骨を担うことからそう呼ばれている。彼らの力と木材加工技術に関する知識がなければ、オークの街は今のように巨大にはなりえず、いまだ小さなテントで暮らしていただろう。</string>
+		<string>その昔、Ghoulsは尊敬されたクランの一つであり、大オーク戦争にてしんがりを任されていた。 オーク軍内での地位が高まるにつれ、かつての英雄たちは名前通り'悪鬼'と成り下がり、価値ある盗品を求めて敵の死体を漁るばかりとなった。 現在、Ghoulsは唾棄すべき屑の集まりである。</string>
+		<string>Coopersは、さまざまな種類の樽や箱を製造している。 彼らは最初期にギルドを立ち上げた職人集団の一つで、その財力はオーク政治における富と影響力を確実なものとした。 それにも拘らず、彼らはほかの職人ギルドに侮られることが多い。</string>
+		<string>戦争と切っても切り離せないオーク文化において、鍛冶は重要な役割を担う。 そのためBracksmithsは、とりわけ知名度が高く、広く尊敬されている職人ギルドの一つとなっている。 主要なクランの鍛冶職人は、このギルドにも所属する必要がある。</string>
+		<string>その名の通り、Spearheadは無鉄砲な戦士を最前線に送り込むクランである。 一族に伝わる習わしということも考えられるが、その高い戦死率のため、前線へ配備するオークは国外から大規模徴集している。</string>
+		<string>このクランは内戦の間、敗者に対し凄惨な尋問を行い、人々に恐怖と動揺をもたらした。 後にそれが明らかになると、自らその報いを受けることとなった。 自身を敵をひねり潰すTwisted Dragonと称するが、 人々はわが身喰らいしHydraと呼んでいる。</string>
+		<string>War Chantクランは、オーク文化の音楽的側面を形成し、高めることを目的としている。 穏やかな社交の場か、血みどろの戦場であるかに関わらず、彼らの軍歌を耳にしない日はない。</string>
+		<string>Minersを構成する労働者階級の人々は、価値ある資源やさまざまな鉱物の採掘によりオークの手工業文化を支えているにも拘わらず蔑まれている。 近年、Minersのコミュニティは拡大しており、いよいよもって攻撃的で御しがたい存在となりつつある。</string>
+		<string>Berserkerクランは、オーク軍に人的資源を供給しており、現在の統治者である将軍の支配下におかれている。 変化には乏しいが安定した生活を手に入れたいオークたちが、Berserkerクラン外から殺到している。</string>
+		<string>Eye of Mindはシャーマンの連合である。 彼らは祖先の魂を呼び出し、物、主にアーティファクトに宿らせることを生業としている。 怪しげな所業に手を染めるシャーマンもおり、子孫に恵まれない幽霊などは、闇市場で "生ける蛇口" としての末路を迎えかねない。</string>
+		<string>Historianクランはほかとは異なり、若いオークたちを学者として育てることで、オーク社会の根幹を築いている。 彼らが書き記したオークの歴史書は、首都の図書館に保管され、誰でも閲覧可能である。</string>
+		<string>Raven Covenantは、慎み深く秘密主義の集団であり、その目的もまた闇に包まれている。 その身に刻まれた歴戦の傷跡と政治的立ち回りからして、彼らこそが陰で糸を引く黒幕なのかもしれない。</string>
+		<string>古くから繁栄の続くFishermenクランでは、漁師たちが誇りと厳しい規則を守り工芸品を作り続けてきた。 この生活様式を選ぶものは、多くの勇気を携えなければならない。 なぜならオークの沼はあらゆる戦場よりも恐ろしく、危険であるからだ。</string>
+		<string>Hawkersは一種の行商人クランとして組織されているが、中にはまだ元のクランに所属し続けているものもいる。 このクランは取引の価格、地域、利用料金を管理する。 彼らの収入の一部は課税されるが、見返りとしてさまざまなクランの中で中立的な立場を享受している。</string>
+		<string>Spirit Brewクランは料理と醸造に特化したシャーマンの集まりである。 kettleによって時々起こす奇跡が、一方で人々の不信感を招き、オーク社会から締め出されている。 そのため、彼らは森で孤立して暮らし、取引のためにだけ近くの町を訪れる。</string>
+		<string>First Scoutsクランは|幾度もオークの世界地図を描き変えるような新発見をしてきた。 探検船と、地図に関する豊富な蔵書こそが彼らの基本であり、国境線は今も、新たな発見を求め情熱を燃やすオークたちで溢れかえっている。</string>
+		<string>Backboneはいわゆるオークの木こりであり、オーク帝国の屋台骨を担うことからそう呼ばれている。 彼らの力と木材加工技術に関する知識がなければ、オークの街は今のように巨大にはなりえず、いまだ小さなテントで暮らしていただろう。</string>
       </Data>
     </Entry>
 	<Entry>
@@ -887,40 +887,40 @@
 	<Entry>
       <Name>InterfaceTooltips</Name>
       <Data>
-		<string>[color=178,153,164]Wood(木材)[/] さまざまなものをつくったり、製造時の燃料として使います。hammer-axeで木や切り株を伐採すると手に入ります。</string>
-		<string>[color=132,167,189]Stone(石材)[/] 建築材料として使います。岩を壊したりstone pitにdynamite投げ込むと手に入ります。hammer-axeのレベルにより壊せる岩が変わります。</string>
-		<string>[color=167,176,154]Iron[/] 建築材料として使います。岩を壊すと手に入るiron oresをfurnaceで熔かして作ります。</string>
-		<string>[color=167,205,203]Fiber[/] 酒場宿の装飾アイテム製作に使います。cottonを育てて収穫すると手に入ります。</string>
-		<string>[color=240,176,84]Money[/] 家具や種などのさまざまなものを購入するのに使います。ビール販売が主な収入源。もし空腹や疲労で倒れると、さらにお金を失うことになるので注意!</string>
-		<string>[color=84,240,98]Reputation[/] アップグレードに使用します。お客の好みに合ったビールを提供し、満足させられると貯まります。</string>
-		<string>[color=240,84,84]Social Rank[/] クランの満足度が一定の値を超えたときに、1ずつ上昇します。</string>
-		<string>[color=167,95,255]Hub Book[/] の表示( [scale=0.5,true,false][icon=31,98,395,48,45][/] )。お客が属するクランの情報や、アップグレードの一覧が表示されます。</string>
-		<string>[color=76,180,246]Wetness[/]表示の切り替え( [scale=0.5,true,false][icon=31,245,441,48,45][/] )。 Wetnessは水場の近くやbucketで水をまくと高まり、天気によっても変化します。</string>
-		<string>[color=236,226,112]Eutrophy[/]表示の切り替え( [scale=0.5,true,false][icon=31,294,441,48,45][/] )。 Eutrophyはコンポストでつくった肥料を dung bagでまくと高まり、天気によっても変化します。</string>
-		<string>[color=234,123,244]Windbreak[/]表示の切り替え( [scale=0.5,true,false][icon=31,343,441,48,45][/] )。 Windbreakはオブジェクトの近くで高まり、天気によっても変化します。 柵や石の壁で特定のエリアのWindbreakを調整することもできます。</string>
-		<string>[color=76,246,104]Plant Density[/]表示の切り替え( [scale=0.5,true,false][icon=31,441,441,48,45][/] )。 Plant Densityは植物の近くで高まります。 もしその植物が密集した状態を好むなら、なるべく近づけて植えましょう!</string>
-		<string>[color=170,170,170]Optimality[/]表示の切り替え( [scale=0.5,true,false][icon=31,490,441,48,45][/] )。 seed pouchを開いて種を選ぶと、それを植えるのに最適な場所がわかります。</string>
-		<string>追加情報の表示( [scale=0.5,true,false][icon=31,686,395,48,45][/] )。 ストレージに入っているアイテムの数やお客が属するクランのエンブレムなどが表示されます。</string>
-		<string>#日目の[color=75,245,211]夜明け[/]です!眠るとstaminaはゆっくり回復します。</string>
-		<string>#日目の[color=75,255,126]昼間[/]です!眠ってもstaminaはほとんど回復しません。</string>
-		<string>#日目の[color=255,150,93]夕暮れ[/]です!起きていると少し疲れますが、眠ればstaminaが回復します。</string>
-		<string>#日目の[color=75,168,255]夜[/]です!起きていると疲れますが、眠ればstaminaが素早く回復します。</string>
-		<string>[color=93,196,255]Satiation(満腹度)[/] 働くと減り、食事をとると回復します。空腹で倒れると、moneyがいくらか盗まれた状態で目覚めることになります。</string>
-		<string>[color=116,255,145]Stamina(スタミナ)[/] 働いている間だけでなく、夕暮れから夜にかけて減少します。ベッドで眠ったり、釣りなどで楽しむと回復します。過労で倒れると、moneyがいくらか盗まれた状態で目覚めることになります。</string>
-		<string>[color=255,222,108]Drunkenness(酔い心地)[/] ビールを飲むと増加し、時間が経つと減ります。ビールのフレーバーによってボーナスが付きます。同じ種類のビールを何杯も飲むと、効果が増強されます。</string>
-		<string>鳩は、空腹や疲労状態になく、sleepingbox内に入っていないとき、徐々に経験値が上がり、十分に溜まるとレベルアップします。レベルアップごとに新しいスキルを獲得します。</string>
-		<string>現在、このクラン(#人のお客)はこの酒場宿に訪れることを[color=55,244,126]許可されています[/](酒場が開店していれば)。クリックすると許可を取り消すことができます。</string>
-		<string>現在、このクラン(#人のお客)は、酒場宿に訪れることを[color=255,66,66]許可されていません[/]。クリックすると許可を与えることができます。</string>
+		<string>[color=178,153,164]Wood(木材)[/]|さまざまなものをつくったり、製造時の燃料として使います。hammer-axeで木や切り株を伐採すると手に入ります。</string>
+		<string>[color=132,167,189]Stone(石材)[/]|建築材料として使います。|岩を壊したりstone pitにdynamiteを投げ込むと|手に入ります。|hammer-axeのレベルにより壊せる岩が変わります。</string>
+		<string>[color=167,176,154]Iron[/]|建築材料として使います。岩を壊すと手に入るiron oresをfurnaceで熔かして作ります。</string>
+		<string>[color=167,205,203]Fiber[/]|酒場宿の装飾アイテム製作に使います。 cottonを育てて収穫すると手に入ります。</string>
+		<string>[color=240,176,84]Money[/]|家具や種などのさまざまなものを購入するのに使います。ビール販売が主な収入源。もし空腹や疲労で倒れると、さらにお金を失うことになるので注意!</string>
+		<string>[color=84,240,98]Reputation[/]|アップグレードに使用します。お客の好みに合ったビールを提供し、満足させられると貯まります。</string>
+		<string>[color=240,84,84]Social Rank[/]|クランの満足度が一定の値を超えたときに、1ずつ上昇します。</string>
+		<string>[color=167,95,255]Hub Book[/] の表示( [scale=0.5,true,false][icon=31,98,395,48,45][/] )|お客が属するクランの情報や、アップグレードの一覧が表示されます。</string>
+		<string>[color=76,180,246]Wetness[/]表示の切り替え( [scale=0.5,true,false][icon=31,245,441,48,45][/] )|Wetnessは水場の近くやbucketで水をまくと高まり、天気によっても変化します。</string>
+		<string>[color=236,226,112]Eutrophy[/]表示の切り替え( [scale=0.5,true,false][icon=31,294,441,48,45][/] )|Eutrophyはコンポストでつくった肥料を|dung bagでまくと高まり、|天気によっても変化します。</string>
+		<string>[color=234,123,244]Windbreak[/]表示の切り替え( [scale=0.5,true,false][icon=31,343,441,48,45][/] )|Windbreakはオブジェクトの近くで高まり、天気によっても変化します。 柵や石の壁で特定のエリアのWindbreakを調整することもできます。</string>
+		<string>[color=76,246,104]Plant Density[/]表示の切り替え( [scale=0.5,true,false][icon=31,441,441,48,45][/] )|Plant Densityは植物の近くで高まります。 もしその植物が密集した状態を好むなら、なるべく近づけて植えましょう!</string>
+		<string>[color=170,170,170]Optimality[/]表示の切り替え( [scale=0.5,true,false][icon=31,490,441,48,45][/] )|seed pouchを開いて種を選ぶと、|それを植えるのに最適な場所がわかります。</string>
+		<string>追加情報の表示( [scale=0.5,true,false][icon=31,686,395,48,45][/] )|ストレージに入っているアイテムの数やお客が属するクランのエンブレムなどが表示されます。</string>
+		<string>#日目の[color=75,245,211]夜明け[/]です!|眠るとstaminaはゆっくり回復します。</string>
+		<string>#日目の[color=75,255,126]昼間[/]です!|眠ってもstaminaはほとんど回復しません。</string>
+		<string>#日目の[color=255,150,93]夕暮れ[/]です!|起きていると少し疲れますが、眠ればstaminaが回復します。</string>
+		<string>#日目の[color=75,168,255]夜[/]です!|起きていると疲れますが、眠ればstaminaが素早く回復します。</string>
+		<string>[color=93,196,255]Satiation(満腹度)[/] [color=93,196,255]Satiation(満腹度)[/] 働くと減り、食事をとると回復します。空腹のときに無理をすると、倒れて寝込んでしまいます。</string>
+		<string>[color=116,255,145]Stamina(スタミナ)[/] [color=116,255,145]Stamina(スタミナ)[/] 働いている間だけでなく、夕暮れから夜にかけて減少します。ベッドで眠ったり、釣りなどで楽しむと回復します。疲れたときに無理をすると、倒れて寝込んでしまいます。</string>
+		<string>[color=255,222,108]Drunkenness(酔い心地)[/] ビールを飲むと増加し、時間が経つと減ります。ビールのflavorによって特殊効果が付きます。同じ種類のビールを何杯も飲むと、効果が増強されます。</string>
+		<string>ハトは満腹かつ元気な状態で活動をしているあいだ、徐々に経験値が溜まり、十分に溜まるとレベルアップします。レベルアップごとに新しいスキルを獲得します。</string>
+		<string>現在、このクランのお客(#人)の訪問を[color=55,244,126]許可[/]しています。クリックすると拒否することができます。</string>
+		<string>現在、このクランのお客(#人)の訪問を[color=255,66,66]拒否[/]しています。クリックすると許可することができます。</string>
 		<string>パイプ表示の切り替え( [scale=0.5,true,false][icon=31,98,441,48,45][/] ) |凡例:|[padding=0,0,0,3][scale=0.75,true,false][icon=8,280,813,18,18][/][/] Input Pipe|[padding=0,0,0,3][scale=0.75,true,false][icon=8,299,813,18,18][/][/] Output Pipe|[padding=0,0,0,3][scale=0.75,true,false][icon=8,318,813,18,18][/][/] Combined Pipe|[padding=0,0,0,1][scale=0.75,true,false][icon=8,337,813,24,24][/][/] Production Origin|[scale=0.75,true,false][icon=8,307,832,26,26][/] Production Target|[color=66,255,208]地中にあるパイプは色付きで表示されます。[/]</string>
-		<string>[scale=0.5,true,false][icon=31,931,395,48,45][/]を押しながらだと#1個ずつ、[scale=0.5,true,false][icon=31,0,533,48,45][/]を押しながらだと#2ずつ移動します。</string>
-		<string>レシピがセットされていません。左クリック [scale=0.5,true,false][icon=31,30,359,29,35][/] でレシピをセットできます。</string>
-		<string>[color=167,95,255]#[/]のレシピがセットされています。左クリック [scale=0.5,true,false][icon=31,30,359,29,35][/] でレシピブックを開いてレシピの変更や削除ができます。</string>
+		<string>[scale=0.5,true,false][icon=31,931,395,48,45][/]を押しながらだと#1個ずつ、[scale=0.5,true,false][icon=31,0,533,48,45][/]を押しながらだと|#2ずつ移動します。</string>
+		<string>レシピがセットされていません。|左クリック [scale=0.5,true,false][icon=31,30,359,29,35][/] でレシピをセットできます。</string>
+		<string>[color=167,95,255]#[/]のレシピがセットされています。|左クリック [scale=0.5,true,false][icon=31,30,359,29,35][/] でレシピブックを開いて|レシピの変更や削除ができます。</string>
 		<string>稼働中。素材があれば製造します。左クリック [scale=0.5,true,false][icon=31,30,359,29,35][/] で一時停止します。</string>
 		<string>一時停止中。左クリック [scale=0.5,true,false][icon=31,30,359,29,35][/] で再開します。</string>
-		<string>ビールのレシピがセットされていません。レシピをセットすると、ストレージにビールが自動供給されます。左クリック [scale=0.5,true,false][icon=31,30,359,29,35][/] でレシピをセットできます。</string>
-		<string>[color=167,95,255]#[/]レシピのビールが自動供給されています。左クリック [scale=0.5,true,false][icon=31,30,359,29,35][/] でレシピブックを開いてレシピの変更や削除ができます。</string>
-		<string>ほかの設備やパイプからの入出力が有効な状態です。左クリック [scale=0.5,true,false][icon=31,30,359,29,35][/] で自動供給を無効化します。</string>
-		<string>ほかの設備やパイプからの入出力が無効な状態です。左クリック [scale=0.5,true,false][icon=31,30,359,29,35][/] で自動供給を有効化します。</string>
+		<string>ビールのレシピがセットされていません。|レシピをセットすると、ストレージにビールが自動供給されます。左クリック [scale=0.5,true,false][icon=31,30,359,29,35][/] でレシピをセットできます。</string>
+		<string>[color=167,95,255]#[/]レシピのビールが自動供給されています。|左クリック [scale=0.5,true,false][icon=31,30,359,29,35][/] でレシピブックを開いてレシピの変更や削除ができます。</string>
+		<string>ほかの設備やパイプからの入出力が有効な状態です。|左クリック [scale=0.5,true,false][icon=31,30,359,29,35][/] で自動供給を無効化します。</string>
+		<string>ほかの設備やパイプからの入出力が無効な状態です。|左クリック [scale=0.5,true,false][icon=31,30,359,29,35][/] で自動供給を有効化します。</string>
 		<string>Click to toggle the menu.| |Time Played: [color=66,255,128]#2[/]| |[color=66,255,128]Orcish Inn #1[/] created by [color=66,255,128]Steven Colling[/] with music and sound effects by [color=66,255,128]Tilmann 'headchant' Hars[/].| |Official website and contact: [color=66,255,128]http://orcish-inn.stevencolling.com[/] [color=66,255,128]info@stevencolling.com[/]</string>
 		<string>クリックすると、キャラクターの性別を切り替えられます。</string>
 		<string>このボタンか [scale=0.5,true,false][icon=31,735,395,48,45][/] / [scale=0.5,true,false][icon=31,833,395,48,45][/] を押すと、チュートリアル画面の表示非表示が切り替わります。challengeモードでは無効です。</string>
@@ -1055,16 +1055,16 @@
 	<Entry>
       <Name>BuffTooltips</Name>
       <Data>
-        <string></string>
 		<string></string>
 		<string></string>
-		<string>Working consumes less satiation (level #l).|[color=229,157,53]#d left.[/]</string>
-		<string>Working consumes less stamina (level #l).|[color=229,157,53]#d left.[/]</string>
-		<string>Satiation is restored over time (level #l).|[color=229,157,53]#d left.[/]</string>
-		<string>Stamina is restored over time (level #l).|[color=229,157,53]#d left.[/]</string>
-		<string>Movement speed increased (level #l).|[color=229,157,53]#d left.[/]</string>
-		<string>You are over-worked. Working consumes more satiation and stamina. Put up with it or buy medicine from the hawker.|[color=229,157,53]#d left[/]</string>
-		<string>You are drunk. Add flavor (like Belladonna) to the beer to gain further bonuses!|[color=229,157,53]#d left[/]</string>
+		<string></string>
+		<string>satiationの減少が抑えられています (level #l)|[color=229,157,53]残り#d[/]</string>
+		<string>staminaの減少が抑えられています (level #l)|[color=229,157,53]残り#d[/]</string>
+		<string>Satiationが徐々に回復します (level #l)|[color=229,157,53]残り #d[/]</string>
+		<string>Staminaが徐々に回復します (level #l)|[color=229,157,53]残り #d[/]</string>
+		<string>移動速度が上昇します (level #l).|[color=229,157,53]#d left.[/]</string>
+		<string>働きすぎで倒れてしまいました!|しばらく休むか、行商人が売っている薬を飲めば、動けるようになります。|[color=229,157,53]残り #d[/]</string>
+		<string>酔っぱらっています。|flavorつきのビールを飲んだなら、特殊効果が得られます!|[color=229,157,53]残り #d[/]</string>
       </Data>
     </Entry>
 	<Entry>
