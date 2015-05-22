@@ -956,22 +956,22 @@
 	<Entry>
       <Name>HubTooltips</Name>
       <Data>
-        <string>Edit the cooking recipe's name.</string>
-		<string>The recipe's product is a beer with the properties listed below.</string>
-		<string>The beer's [color=236,235,120]taste[/]. Available are cereal crops like barley. Click to change the [color=236,235,120]taste[/].</string>
-		<string>The beer's [color=236,213,120]tint brightness[/], controlled by the amount of water in the malt box. [color=236,213,120]Perform a left click[/] [scale=0.5,true,false][icon=31,30,359,29,35][/] [color=236,213,120]to increase and a right click[/] [scale=0.5,true,false][icon=31,60,359,29,35][/] [color=236,213,120]to decrease tint brightness.[/]</string>
-		<string>The beer's [color=236,120,120]full body[/], controlled by the amount of water in the wort boiler. [color=236,120,120]Perform a left click[/] [scale=0.5,true,false][icon=31,30,359,29,35][/] [color=236,120,120]to increase and a right click[/] [scale=0.5,true,false][icon=31,60,359,29,35][/] [color=236,120,120]to decrease full body.[/.</string>
-		<string>The beer's [color=120,236,128]bitterness[/], controlled by the amount of hop in the beer brewing kettle. [color=120,236,128]Perform a left click[/] [scale=0.5,true,false][icon=31,30,359,29,35][/] [color=120,236,128]to increase and a right click[/] [scale=0.5,true,false][icon=31,60,359,29,35][/] [color=120,236,128]to decrease bitterness.[/.</string>
-		<string>The beer's [color=120,169,236]alcoholic strength[/], controlled by the amount of yeast in the beer brewing kettle. [color=120,169,236]Perform a left click[/] [scale=0.5,true,false][icon=31,30,359,29,35][/] [color=120,169,236]to increase and a right click[/] [scale=0.5,true,false][icon=31,60,359,29,35][/] [color=120,169,236]to decrease alcoholic strength.[/</string>
-		<string>The beer's optional [color=194,120,236]flavor[/]. Available are special flavor crops like Belladonna. Click to change the [color=194,120,236]flavor[/].</string>
-		<string>Hold the left mouse button [scale=0.5,true,false][icon=31,30,359,29,35][/] some seconds to delete this recipe.</string>
-		<string>Create a new recipe for this category.</string>
-		<string>Move the recipe up in the list.</string>
-		<string>Move the recipe down in the list.</string>
-		<string>This is the recipe's product.</string>
-		<string>Select a fitting recipe and click on the [icon=39,311,503,19,19] button to attach it to the object. Select the attached recipe and click the [icon=39,331,503,19,19] button to remove it.</string>
-		<string>Attach this recipe to the object.</string>
-		<string>Remove this recipe from the object.</string>
+		<string>レシピの名前を編集</string>
+		<string>このレシピで造られるビールの特徴</string>
+		<string>ビールの[color=236,235,120]taste(風味)[/]。 barleyのような穀物を使用。 クリックして変更します。</string>
+		<string>ビールの[color=236,213,120]tint brightness(色あい)[/]。 Malt Boxに入れる水の量で調節。 [color=236,213,120]増やすには左クリック[/] [scale=0.5,true,false][icon=31,30,359,29,35][/] [color=236,213,120]減らすには右クリック[/] [scale=0.5,true,false][icon=31,60,359,29,35][/] [color=236,213,120]します。[/]</string>
+		<string>ビールの[color=236,120,120]full body(コク)[/]。 wort boilerに入れる水の量で調節。 [color=236,120,120]増やすには左クリック[/] [scale=0.5,true,false][icon=31,30,359,29,35][/] [color=236,120,120]減らすには右クリック[/] [scale=0.5,true,false][icon=31,60,359,29,35][/] [color=236,120,120]します。[/]</string>
+		<string>ビールの[color=120,236,128]bitterness(苦味)[/]。 beer brewing kettleに入れるhopの量で調節。 [color=120,236,128]増やすには左クリック[/] [scale=0.5,true,false][icon=31,30,359,29,35][/] [color=120,236,128]減らすには右クリック[/] [scale=0.5,true,false][icon=31,60,359,29,35][/] [color=120,236,128]します。[/]</string>
+		<string>ビールの[color=120,169,236]alcoholic strength(アルコール度数)[/]。 beer brewing kettleに入れるyeastの量で調節。 [color=120,169,236]増やすには左クリック[/] [scale=0.5,true,false][icon=31,30,359,29,35][/] [color=120,169,236]減らすには右クリック[/] [scale=0.5,true,false][icon=31,60,359,29,35][/] [color=120,169,236]します。[/]</string>
+		<string>ビールの[color=194,120,236]flavor(香り)[/]。 belladonnaのような香りづけ素材を使用。 クリックして変更します。</string>
+		<string>マウスの左ボタン [scale=0.5,true,false][icon=31,30,359,29,35][/] を長押ししてレシピを削除</string>
+		<string>このカテゴリーにレシピを作成</string>
+		<string>レシピを上に移動</string>
+		<string>レシピを下に移動</string>
+		<string>このレシピで作られるもの</string>
+		<string>レシピを選択して [icon=39,311,503,19,19] をクリックするとレシピが設定できます。  [icon=39,331,503,19,19] をクリックすると解除できます。</string>
+		<string>レシピをセット</string>
+		<string>レシピを解除</string>
       </Data>
     </Entry>
 	<Entry>
@@ -1982,49 +1982,49 @@
 	<Entry>
       <Name>InfoTexts</Name>
       <Data>
-		<string>[color=240,176,84]SUNNY![/] The sun shines and everything is fine!</string>
-		<string>[color=84,240,187]LIGHT RAIN![/] The ground's wetness is increased and rain barrels get filled if outdoor. There are less visitors but the ones who come probably stay longer.</string>
-		<string>[color=84,240,187]MEDIUM RAIN![/] The ground's wetness is increased and rain barrels get filled if outdoor. There are less visitors but the ones who come probably stay longer.</string>
-		<string>[color=84,240,187]HEAVY RAIN![/] The ground's wetness is increased and rain barrels get filled if outdoor. There are less visitors but the ones who come probably stay longer.</string>
-		<string>[color=188,191,191]CLOUDY![/] It's getting a bit cloudy and therefore, bad weather could occur!</string>
-		<string>[color=84,172,240]LIGHT HAIL![/] It's exhausting to walk outside and the hailstones can damage objects, buildings but primarily plants. There are less visitors but the ones who come probably stay longer. The hawker will discontinue his visits.</string>
-		<string>[color=84,172,240]MEDIUM HAIL![/] It's exhausting to walk outside and the hailstones can damage objects, buildings but primarily plants. There are less visitors but the ones who come probably stay longer. The hawker will discontinue his visits.</string>
-		<string>[color=84,172,240]HEAVY HAIL![/] It's exhausting to walk outside and the hailstones can damage objects, buildings but primarily plants. Visitors will stay at home. The hawker will discontinue his visits.</string>
-		<string>[color=178,231,240]LIGHT SNOWFALL![/] The ground's wetness is increased. There are less visitors but the ones who come probably stay longer.</string>
-		<string>[color=178,231,240]MEDIUM SNOWFALL![/] The ground's wetness is increased. There are less visitors but the ones who come probably stay longer.</string>
-		<string>[color=178,231,240]HEAVY SNOWFALL![/] The ground's wetness is increased. There are less visitors but the ones who come probably stay longer.</string>
-		<string>[color=188,191,191]LIGHT STORM![/] The ground's wetness is increased and the windbreak is lowered. It's exhausting to walk outside and the storm can damage plants but primarily objects and buildings. There are less visitors but the ones who come probably stay longer. The hawker will discontinue his visits.</string>
-		<string>[color=188,191,191]MEDIUM STORM![/] The ground's wetness is increased and the windbreak is lowered. It's exhausting to walk outside and the storm can damage plants but primarily objects and buildings. Visitors will stay at home. The hawker will discontinue his visits.</string>
-		<string>[color=188,191,191]HEAVY STORM![/] The ground's wetness is increased and the windbreak is lowered. It's exhausting to walk outside and the storm can damage plants but primarily objects and buildings. Visitors will stay at home. The hawker will discontinue his visits.</string>
-		<string>[color=178,200,240]LIGHT FOG![/] The ground is getting wet. There are less visitors but the ones who come probably stay longer.</string>
-		<string>[color=178,200,240]MEDIUM FOG![/] The ground is getting wet. There are less visitors but the ones who come probably stay longer.</string>
-		<string>[color=178,200,240]HEAVY FOG![/] The ground is getting wet. There are less visitors but the ones who come probably stay longer.</string>
-		<string>[color=240,161,84]LIGHT HEAT![/] The ground's wetness and eutrophy is lowered and visitors will stay longer.</string>
-		<string>[color=240,161,84]MEDIUM HEAT![/] The ground's wetness and eutrophy is lowered and it's exhausting to walk outside. Visitors will stay longer.</string>
-		<string>[color=240,161,84]HEAVY HEAT![/] The ground's wetness and eutrophy is lowered and it's exhausting to walk outside. Visitors will stay longer.</string>
-		<string>[color=188,191,191]THUNDERSTORM![/] Oh shit! The ground's wetness is increased and the windbreak is lowered. It's exhausting to walk outside and visitors will stay at home. If a lightning strikes, it can damage plants, objects and buildings! The hawker will discontinue his visits, because hot-air balloons and lightning strikes are mostly a bad combination.</string>
-		<string>[color=84,172,240]LIGHT BLIZZARD![/] The windbreak is lowered. It's exhausting to walk outside and the storm can damage plants but primarily objects and buildings. There are less visitors but the ones who come probably stay longer. The hawker will discontinue his visits.</string>
-		<string>[color=84,172,240]MEDIUM BLIZZARD![/] The windbreak is lowered. It's exhausting to walk outside and the storm can damage plants but primarily objects and buildings. Visitors will stay at home. The hawker will discontinue his visits.</string>
-		<string>[color=84,172,240]HEAVY BLIZZARD![/] The windbreak is lowered. It's exhausting to walk outside and the storm can damage plants but primarily objects and buildings. Visitors will stay at home. The hawker will discontinue his visits.</string>
-		<string>[color=84,240,157]Congratulations![/] You increased in your social rank and a new clan heard of your efforts. The clan of #1 (#2 members) wants to visit your inn, [color=84,240,157]but you have to allow it in the hub menu[/] [scale=0.5,true,false][icon=31,147,395,48,45][/].</string>
-		<string>[color=84,240,143]SPRING[/] of year #! It's the main season for Hop [scale=0.5,0.5,true,false][icon=28,0,0,50,50][/] and Belladonna [scale=0.5,0.5,true,false][icon=28,500,0,50,50][/], therefore they can drop an extra crop on harvest. Furthermore, Hop [scale=0.5,0.5,true,false][icon=28,0,0,50,50][/], Barley [scale=0.5,0.5,true,false][icon=28,150,0,50,50][/], Belladonna [scale=0.5,0.5,true,false][icon=28,500,0,50,50][/] and Sunflowers [scale=0.5,0.5,true,false][icon=28,400,0,50,50][/] grow with their normal speed while all other crops need more time than normal to fully grow.</string>
-		<string>[color=165,240,84]SUMMER[/] of year #! It's the main season for Barley [scale=0.5,0.5,true,false][icon=28,150,0,50,50][/], Corn [scale=0.5,0.5,true,false][icon=28,50,0,50,50][/], Blueleaves [scale=0.5,0.5,true,false][icon=28,300,0,50,50][/] and Sunflowers [scale=0.5,0.5,true,false][icon=28,400,0,50,50][/], therefore they can drop an extra crop on harvest. Furthermore, Spelt [scale=0.5,0.5,true,false][icon=28,250,0,50,50][/], Corn [scale=0.5,0.5,true,false][icon=28,50,0,50,50][/], Blueleaves [scale=0.5,0.5,true,false][icon=28,300,0,50,50][/] and Dryroot [scale=0.5,0.5,true,false][icon=28,450,0,50,50][/] grow with their normal speed while all other crops need more time than normal to fully grow.</string>
-		<string>[color=240,84,84]AUTUMN[/] of year #! It's the main season for Cotton [scale=0.5,0.5,true,false][icon=28,550,300,50,50][/], Spelt [scale=0.5,0.5,true,false][icon=28,250,0,50,50][/] and Dryroot [scale=0.5,0.5,true,false][icon=28,450,0,50,50][/], therefore they can drop an extra crop on harvest. Furthermore, Cotton [scale=0.5,0.5,true,false][icon=28,550,300,50,50][/], Rye [scale=0.5,0.5,true,false][icon=28,200,0,50,50][/], Wheat [scale=0.5,0.5,true,false][icon=28,100,0,50,50][/] and Lotus [scale=0.5,0.5,true,false][icon=28,350,0,50,50][/] grow with their normal speed while all other crops need more time than normal to fully grow.</string>
-		<string>[color=178,231,240]WINTER[/] of year #! It's the main season for Rye [scale=0.5,0.5,true,false][icon=28,200,0,50,50][/], Wheat [scale=0.5,0.5,true,false][icon=28,100,0,50,50][/] and Lotus [scale=0.5,0.5,true,false][icon=28,350,0,50,50][/], therefore they can drop an extra crop on harvest. Plants and trees don't grow during winter!</string>
-		<string>[color=255,163,96]Warning![/] You decreased in your social rank, because the visiting clan # isn't satisfied anymore.</string>
-		<string>#1 stopped its production because of missing #2!</string>
-		<string># stopped its production because there isn't enough storage!</string>
-		<string>A pigeon feeding box runs out of food soon.</string>
-		<string>The pigeon #1 brought back an item (#2) from an exploration tour!</string>
-		<string>The bad weather may kill your pigeons. It's time to bring them back to the boxes!</string>
-		<string>The pigeon # died because of bad weather!</string>
-		<string>The pigeon # died because of a high age!</string>
-		<string>A new pigeon eclosed! The name of the new member is #.</string>
-		<string>The pigeon #1 reached level #2 and has new skill points to spend!</string>
-		<string>The pigeons #1 and #2 bred.</string>
-		<string>The pigeon sleeping box of # runs out of food!</string>
-		<string>[color=84,240,157]Congratulations![/] The clan #1 (#2 members) is satisfied again and will visit your inn.</string>
-		<string>[color=84,240,157]Congratulations![/] The clan #1 (#2 members) is satisfied again and will visit your inn, after [color=84,240,157]you allow them their attendance in the hub menu[/] [scale=0.5,true,false][icon=31,147,395,48,45][/].</string>
+		<string>[color=240,176,84]SUNNY![/] 太陽の光がふりそそぎ、とてもいい天気です!</string>
+		<string>[color=84,240,187]LIGHT RAIN![/] 雨で地面が濡れ、屋外のrain barrelに水が溜まります。 お客はあまり来ませんが、長居していくでしょう。</string>
+		<string>[color=84,240,187]MEDIUM RAIN![/] 大雨で地面が濡れ、屋外のrain barrelに水が溜まります。 お客はあまり来ませんが、長居していくでしょう。</string>
+		<string>[color=84,240,187]HEAVY RAIN![/] 豪雨で地面が濡れ、屋外のrain barrelに水が溜まります。 お客はあまり来ませんが、長居していくでしょう。</string>
+		<string>[color=188,191,191]CLOUDY![/] 少し曇ってきました。 悪天候になるかもしれません!</string>
+		<string>[color=84,172,240]LIGHT HAIL![/] ひょうで、外を出歩くのも一苦労です。建物やオブジェクトは被害を受けますが、最初から生えていた植物は大丈夫です。 お客はあまり来ませんが、長居していくでしょう。 行商人はやってきません。</string>
+		<string>[color=84,172,240]MEDIUM HAIL![/] 激しいひょうで、外を出歩くのも一苦労です。建物やオブジェクトは被害を受けますが、最初から生えていた植物は大丈夫です。 お客はあまり来ませんが、長居していくでしょう。 行商人はやってきません。</string>
+		<string>[color=84,172,240]HEAVY HAIL![/] 猛烈なひょうで、外を出歩くのも一苦労です。建物やオブジェクトは被害を受けますが、最初から生えていた植物は大丈夫です。 お客は自宅に籠り、行商人もやってこないでしょう。</string>
+		<string>[color=178,231,240]LIGHT SNOWFALL![/] 雪で地面が濡れています。 お客はあまり来ませんが、長居していくでしょう。</string>
+		<string>[color=178,231,240]MEDIUM SNOWFALL![/] 大雪で地面が濡れています。 お客はあまり来ませんが、長居していくでしょう。</string>
+		<string>[color=178,231,240]HEAVY SNOWFALL![/] 豪雪で地面が濡れています。 お客はあまり来ませんが、長居していくでしょう。</string>
+		<string>[color=188,191,191]MEDIUM STORM![/] 強い風雨で地面が濡れ、風が吹きつけています。外を出歩くのも一苦労です。 植物は被害を受けますが、最初から建っていた建物やオブジェクトは大丈夫です。 お客はあまり来ませんが、長居していくでしょう。 行商人もやってきません。</string>
+		<string>[color=188,191,191]MEDIUM STORM![/] 激しい嵐地面が濡れ、風が吹きつけています。外を出歩くのも一苦労です。 植物は被害を受けますが、最初から建っていた建物やオブジェクトは大丈夫です。 お客は自宅に籠り、行商人もやってこないでしょう。</string>
+		<string>[color=188,191,191]HEAVY STORM![/] 猛烈な嵐で地面が濡れ、風が吹きつけています。外を出歩くのも一苦労です。 最初に建っていたオブジェクト以外の植物が被害を受けます。 お客は自宅に籠り、行商人もやってこないでしょう。</string>
+		<string>[color=178,200,240]LIGHT FOG![/] 薄い霧で地面が湿っています。 お客はあまり来ませんが、長居していくでしょう。</string>
+		<string>[color=178,200,240]MEDIUM FOG![/] 霧で地面が湿っています。 お客はあまり来ませんが、長居していくでしょう。</string>
+		<string>[color=178,200,240]HEAVY FOG![/] 濃霧で地面が湿っています。 お客はあまり来ませんが、長居していくでしょう。</string>
+		<string>[color=240,161,84]LIGHT HEAT![/] 暑さで地面が干上がり、やせてしまいます。 お客は長居するでしょう。</string>
+		<string>[color=240,161,84]MEDIUM HEAT![/] 厳しい暑さで地面が干上がり、やせてしまいます。外を出歩くのも一苦労です。 お客は長居するでしょう。</string>
+		<string>[color=240,161,84]HEAVY HEAT![/] 猛烈な暑さで地面が干上がり、やせてしまいます。外を出歩くのも一苦労です。 お客は長居するでしょう。</string>
+		<string>[color=188,191,191]THUNDERSTORM![/] 激しい雷雨で地面が濡れ、風が吹きつけています。外を出歩くのも一苦労です。 お客は自宅に籠るでしょう。 雷が落ちれば、植物や建物などのオブジェクトが壊れてしまいます! 熱気球に雷が落ちることを恐れ、行商人はやってこないでしょう。</string>
+		<string>[color=84,172,240]LIGHT BLIZZARD![/] 吹雪で、風が吹き付けます。外を出歩くのも一苦労です。 最初に建っていたオブジェクト以外の植物が被害を受けます。 お客はあまり来ませんが、長居していくでしょう。 行商人はやってきません。</string>
+		<string>[color=84,172,240]MEDIUM BLIZZARD![/] 激しい吹雪で、風が吹き付けます。外を出歩くのも一苦労です。 植物は被害を受けますが、最初から建っていた建物やオブジェクトは大丈夫です。 お客は自宅に籠り、行商人もやってこないでしょう。</string>
+		<string>[color=84,172,240]HEAVY BLIZZARD![/] 猛烈な吹雪で、風が吹き付けます。外を出歩くのも一苦労です。 植物は被害を受けますが、最初から建っていた建物やオブジェクトは大丈夫です。 お客は自宅に籠り、行商人もやってこないでしょう。</string>
+		<string>[color=84,240,157]Congratulations![/] social rankが上がりました。評判を聞きつけた #1クラン(#2人) のお客が、酒場に訪れようとしています。 [color=84,240,157]hub menuから入店を許可できます。[/] [scale=0.5,true,false][icon=31,147,395,48,45][/].</string>
+		<string>#年目の[color=84,240,143]SPRING[/]! Hop [scale=0.5,0.5,true,false][icon=28,0,0,50,50][/] と Belladonna [scale=0.5,0.5,true,false][icon=28,500,0,50,50][/]の旬で、より多くの作物が収穫できます。 Hop [scale=0.5,0.5,true,false][icon=28,0,0,50,50][/], Barley [scale=0.5,0.5,true,false][icon=28,150,0,50,50][/], Belladonna [scale=0.5,0.5,true,false][icon=28,500,0,50,50][/], Sunflowers [scale=0.5,0.5,true,false][icon=28,400,0,50,50][/] は通常の速度で育ちますが、その他の作物は育つのに時間がかかります。</string>
+		<string>#年目の[color=165,240,84]SUMMER[/]! Barley [scale=0.5,0.5,true,false][icon=28,150,0,50,50][/], Corn [scale=0.5,0.5,true,false][icon=28,50,0,50,50][/], Blueleaves [scale=0.5,0.5,true,false][icon=28,300,0,50,50][/], Sunflowers [scale=0.5,0.5,true,false][icon=28,400,0,50,50][/]の旬で、いつもより多くの作物が収穫できます。Spelt [scale=0.5,0.5,true,false][icon=28,250,0,50,50][/], Corn [scale=0.5,0.5,true,false][icon=28,50,0,50,50][/], Blueleaves [scale=0.5,0.5,true,false][icon=28,300,0,50,50][/], Dryroot [scale=0.5,0.5,true,false][icon=28,450,0,50,50][/] は通常の速度で育ちますが、その他の作物は育つのに時間がかかります。</string>
+		<string>#年目の[color=240,84,84]AUTUMN[/]#! Cotton [scale=0.5,0.5,true,false][icon=28,550,300,50,50][/], Spelt [scale=0.5,0.5,true,false][icon=28,250,0,50,50][/], Dryroot [scale=0.5,0.5,true,false][icon=28,450,0,50,50][/]の旬で、いつもより多くの作物が収穫できます。Cotton [scale=0.5,0.5,true,false][icon=28,550,300,50,50][/], Rye [scale=0.5,0.5,true,false][icon=28,200,0,50,50][/], Wheat [scale=0.5,0.5,true,false][icon=28,100,0,50,50][/], Lotus [scale=0.5,0.5,true,false][icon=28,350,0,50,50][/] は通常の速度で育ちますが、その他の作物は育つのに時間がかかります。</string>
+		<string>#年目の[color=178,231,240]WINTER[/]! Rye [scale=0.5,0.5,true,false][icon=28,200,0,50,50][/], Wheat [scale=0.5,0.5,true,false][icon=28,100,0,50,50][/], Lotus [scale=0.5,0.5,true,false][icon=28,350,0,50,50][/] の旬で、いつもより多くの作物が収穫できます。 草や木は冬の間は育ちません!</string>
+		<string>[color=255,163,96]Warning![/] #クランの満足度が低下したため、social rankが下がりました。</string>
+		<string>#2が不足しているため、#1が製造を停止しました!</string>
+		<string>ストレージに十分な空きがないため、#が製造を停止しました。</string>
+		<string>ハトのえさ箱がそろそろ空になりそうです。</string>
+		<string>旅に出ていたハト#1が、#2を持ち帰ってきました!</string>
+		<string>悪天候のため、ハトが死んでしまうかもしれません。 ハトを巣箱に戻しましょう!</string>
+		<string>ハト#が悪天候により死んでしまいました。</string>
+		<string>ハト#が老衰により死んでしまいました。</string>
+		<string>新しいハトが生まれました! 名前は#です。</string>
+		<string>ハト#1のレベルが#2になり、新しいスキルを覚えられるようになりました!</string>
+		<string>ハト#1と#2が繁殖しました。</string>
+		<string>ハトの巣箱#の餌が空になっています。</string>
+		<string>[color=84,240,157]Congratulations![/] #1クランのお客 (#2人) は満足したので、また酒場宿に訪れることでしょう。</string>
+		<string>[color=84,240,157]Congratulations![/] #1クランのお客 (#2人) は満足したので、[color=84,240,157]入店を許可すれば[/]また酒場宿に訪れることでしょう [scale=0.5,true,false][icon=31,147,395,48,45][/].</string>
 	  </Data>
     </Entry>
 	<Entry>
