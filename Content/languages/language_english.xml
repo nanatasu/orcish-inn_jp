@@ -188,7 +188,7 @@
       <Name>SpecialTooltips</Name>
       <Data>
 		<string>[color=240,176,84]satiationを # 回復。(回復量は品質により変わる)[/]</string>
-		<string> A signature tells that this egg was designed by #.</string>
+		<string> このたまごは # によってデザインされたもののようだ。</string>
       </Data>
     </Entry>
 	<Entry>
@@ -371,19 +371,19 @@
       <Name>UnspecificProductionNames</Name>
       <Data>
         <string>Wood</string>
-		<string>Crop for Taste (e.g. Barley)</string>
-		<string>Water for Tint Brightness (via Bucket)</string>
-		<string>Malt</string>
-		<string>Wort</string>
-		<string>Hop for Bitterness</string>
-		<string>Yeast for Alcoholic Strength (from Hawker)</string>
-		<string>Optional Crop for Flavor (e.g. Belladonna)</string>
-		<string>Beer</string>
-		<string>Crop (e.g. Barley)</string>
-		<string>Dung (via Dung Bag)</string>
-		<string>Raw Material (e.g. Barley, Fish or Iron Ore)</string>
-		<string>Cooked/Molten Product</string>
-		<string>Water for Full Body (via Bucket)</string>
+		<string>作物(Barleyなど)|...Taste(風味)</string>
+		<string>水(Bucketで調節)|...Tint Brightness(色あい)</string>
+		<string>Malt(麦芽)</string>
+		<string>Wort(麦汁)</string>
+		<string>Hop|...Bitterness(苦み)</string>
+		<string>Yeast(行商人から購入)|...Alcoholic Strength(アルコール度数) </string>
+		<string>香りづけ素材(Belladonnaなど)|...Flavor(香り)</string>
+		<string>ビール</string>
+		<string>作物(Barleyなど)</string>
+		<string>肥料(Dung Bagで調整)</string>
+		<string>原料(Barley, Fish, Iron Oreなど)</string>
+		<string>調理/精錬済み</string>
+		<string>水(Bucketで調節)|...Full Body(コク)</string>
       </Data>
     </Entry>
 	<Entry>
@@ -805,7 +805,7 @@
 		<string>Coopersは、さまざまな種類の樽や箱を製造している。 彼らは最初期にギルドを立ち上げた職人集団の一つで、その財力はオーク政治における富と影響力を確実なものとした。 それにも拘らず、彼らはほかの職人ギルドに侮られることが多い。</string>
 		<string>戦争と切っても切り離せないオーク文化において、鍛冶は重要な役割を担う。 そのためBracksmithsは、とりわけ知名度が高く、広く尊敬されている職人ギルドの一つとなっている。 主要なクランの鍛冶職人は、このギルドにも所属する必要がある。</string>
 		<string>その名の通り、Spearheadは無鉄砲な戦士を最前線に送り込むクランである。 一族に伝わる習わしということも考えられるが、その高い戦死率のため、前線へ配備するオークは国外から大規模徴集している。</string>
-		<string>このクランは内戦の間、敗者に対し凄惨な尋問を行い、人々に恐怖と動揺をもたらした。 後にそれが明らかになると、自らその報いを受けることとなった。 自身を敵をひねり潰すTwisted Dragonと称するが、 人々はわが身喰らいしHydraと呼んでいる。</string>
+		<string>このクランは内戦の間、敗者に対し凄惨な尋問を行い、人々に恐怖と動揺をもたらした。 後にそれが明らかになると、自らその報いを受けることとなった。彼らは自身を敵をひねり潰すTwisted Dragonと称するが、 人々はわが身喰らいしHydraと呼んでいる。</string>
 		<string>War Chantクランは、オーク文化の音楽的側面を形成し、高めることを目的としている。 穏やかな社交の場か、血みどろの戦場であるかに関わらず、彼らの軍歌を耳にしない日はない。</string>
 		<string>Minersを構成する労働者階級の人々は、価値ある資源やさまざまな鉱物の採掘によりオークの手工業文化を支えているにも拘わらず蔑まれている。 近年、Minersのコミュニティは拡大しており、いよいよもって攻撃的で御しがたい存在となりつつある。</string>
 		<string>Berserkerクランは、オーク軍に人的資源を供給しており、現在の統治者である将軍の支配下におかれている。 変化には乏しいが安定した生活を手に入れたいオークたちが、Berserkerクラン外から殺到している。</string>
@@ -815,7 +815,7 @@
 		<string>古くから繁栄の続くFishermenクランでは、漁師たちが誇りと厳しい規則を守り工芸品を作り続けてきた。 この生活様式を選ぶものは、多くの勇気を携えなければならない。 なぜならオークの沼はあらゆる戦場よりも恐ろしく、危険であるからだ。</string>
 		<string>Hawkersは一種の行商人クランとして組織されているが、中にはまだ元のクランに所属し続けているものもいる。 このクランは取引の価格、地域、利用料金を管理する。 彼らの収入の一部は課税されるが、見返りとしてさまざまなクランの中で中立的な立場を享受している。</string>
 		<string>Spirit Brewクランは料理と醸造に特化したシャーマンの集まりである。 kettleによって時々起こす奇跡が、一方で人々の不信感を招き、オーク社会から締め出されている。 そのため、彼らは森で孤立して暮らし、取引のためにだけ近くの町を訪れる。</string>
-		<string>First Scoutsクランは|幾度もオークの世界地図を描き変えるような新発見をしてきた。 探検船と、地図に関する豊富な蔵書こそが彼らの基本であり、国境線は今も、新たな発見を求め情熱を燃やすオークたちで溢れかえっている。</string>
+		<string>First Scoutsクランは幾度もオークの世界地図を描き変えるような新発見をしてきた。 探検船と、地図に関する豊富な蔵書こそが彼らの基本であり、国境線は今も、新たな発見を求め情熱を燃やすオークたちで溢れかえっている。</string>
 		<string>Backboneはいわゆるオークの木こりであり、オーク帝国の屋台骨を担うことからそう呼ばれている。 彼らの力と木材加工技術に関する知識がなければ、オークの街は今のように巨大にはなりえず、いまだ小さなテントで暮らしていただろう。</string>
       </Data>
     </Entry>
@@ -906,7 +906,7 @@
 		<string>#日目の[color=255,150,93]夕暮れ[/]です!|起きていると少し疲れますが、眠ればstaminaが回復します。</string>
 		<string>#日目の[color=75,168,255]夜[/]です!|起きていると疲れますが、眠ればstaminaが素早く回復します。</string>
 		<string>[color=93,196,255]Satiation(満腹度)[/] [color=93,196,255]Satiation(満腹度)[/] 働くと減り、食事をとると回復します。空腹のときに無理をすると、倒れて寝込んでしまいます。</string>
-		<string>[color=116,255,145]Stamina(スタミナ)[/] [color=116,255,145]Stamina(スタミナ)[/] 働いている間だけでなく、夕暮れから夜にかけて減少します。ベッドで眠ったり、釣りなどで楽しむと回復します。疲れたときに無理をすると、倒れて寝込んでしまいます。</string>
+		<string>[color=116,255,145]Stamina(スタミナ)[/] 働いている間だけでなく、夕暮れから夜にかけて減少します。ベッドで眠ったり、釣りなどで楽しむと回復します。疲れたときに無理をすると、倒れて寝込んでしまいます。</string>
 		<string>[color=255,222,108]Drunkenness(酔い心地)[/] ビールを飲むと増加し、時間が経つと減ります。ビールのflavorによって特殊効果が付きます。同じ種類のビールを何杯も飲むと、効果が増強されます。</string>
 		<string>ハトは満腹かつ元気な状態で活動をしているあいだ、徐々に経験値が溜まり、十分に溜まるとレベルアップします。レベルアップごとに新しいスキルを獲得します。</string>
 		<string>現在、このクランのお客(#人)の訪問を[color=55,244,126]許可[/]しています。クリックすると拒否することができます。</string>
@@ -933,10 +933,10 @@
 	<Entry>
       <Name>HubPageTooltips</Name>
       <Data>
-        <string>Close the hub book.</string>
-		<string>Manage cooking recipes.</string>
-		<string>Temporary interface for the clan overview.</string>
-		<string>Temporary interface for upgrades.</string>
+		<string>hub bookを閉じる</string>
+		<string>レシピを見る</string>
+		<string>クラン情報を見る(仮の画面)</string>
+		<string>アップグレード情報を見る(仮の画面)</string>
       </Data>
     </Entry>
 	<Entry>
@@ -957,19 +957,19 @@
       <Name>HubTooltips</Name>
       <Data>
 		<string>レシピの名前を編集</string>
-		<string>このレシピで造られるビールの特徴</string>
-		<string>ビールの[color=236,235,120]taste(風味)[/]。 barleyのような穀物を使用。 クリックして変更します。</string>
-		<string>ビールの[color=236,213,120]tint brightness(色あい)[/]。 Malt Boxに入れる水の量で調節。 [color=236,213,120]増やすには左クリック[/] [scale=0.5,true,false][icon=31,30,359,29,35][/] [color=236,213,120]減らすには右クリック[/] [scale=0.5,true,false][icon=31,60,359,29,35][/] [color=236,213,120]します。[/]</string>
-		<string>ビールの[color=236,120,120]full body(コク)[/]。 wort boilerに入れる水の量で調節。 [color=236,120,120]増やすには左クリック[/] [scale=0.5,true,false][icon=31,30,359,29,35][/] [color=236,120,120]減らすには右クリック[/] [scale=0.5,true,false][icon=31,60,359,29,35][/] [color=236,120,120]します。[/]</string>
-		<string>ビールの[color=120,236,128]bitterness(苦味)[/]。 beer brewing kettleに入れるhopの量で調節。 [color=120,236,128]増やすには左クリック[/] [scale=0.5,true,false][icon=31,30,359,29,35][/] [color=120,236,128]減らすには右クリック[/] [scale=0.5,true,false][icon=31,60,359,29,35][/] [color=120,236,128]します。[/]</string>
-		<string>ビールの[color=120,169,236]alcoholic strength(アルコール度数)[/]。 beer brewing kettleに入れるyeastの量で調節。 [color=120,169,236]増やすには左クリック[/] [scale=0.5,true,false][icon=31,30,359,29,35][/] [color=120,169,236]減らすには右クリック[/] [scale=0.5,true,false][icon=31,60,359,29,35][/] [color=120,169,236]します。[/]</string>
-		<string>ビールの[color=194,120,236]flavor(香り)[/]。 belladonnaのような香りづけ素材を使用。 クリックして変更します。</string>
-		<string>マウスの左ボタン [scale=0.5,true,false][icon=31,30,359,29,35][/] を長押ししてレシピを削除</string>
-		<string>このカテゴリーにレシピを作成</string>
+		<string>ビールの種類</string>
+		<string>ビールの[color=236,235,120]taste(風味)[/]。|入れる[color=236,235,120]穀物[/](barleyなど)によって変わります。|クリックして変更。</string>
+		<string>ビールの[color=236,213,120]tint brightness(色あい)[/]。|Malt Boxに入れる[color=236,213,120]水[/]の量で調節します。|増やすには左クリック [scale=0.5,true,false][icon=31,30,359,29,35][/] 減らすには右クリック [scale=0.5,true,false][icon=31,60,359,29,35][/] 。</string>
+		<string>ビールの[color=236,120,120]full body(コク)[/]。|wort boilerに入れる[color=236,120,120]水[/]の量で調節します。|増やすには左クリック [scale=0.5,true,false][icon=31,30,359,29,35][/] 減らすには右クリック [scale=0.5,true,false][icon=31,60,359,29,35][/] 。</string>
+		<string>ビールの[color=120,236,128]bitterness(苦味)[/]。|beer brewing kettleに入れる[color=120,236,128]hop[/]の量で調節します。|増やすには左クリック [scale=0.5,true,false][icon=31,30,359,29,35][/] 減らすには右クリック [scale=0.5,true,false][icon=31,60,359,29,35][/] 。</string>
+		<string>ビールの[color=120,169,236]alcoholic strength(アルコール度数)[/]。|beer brewing kettleに入れる[color=120,169,236]yeast[/]の量で調節します。|増やすには左クリック [scale=0.5,true,false][icon=31,30,359,29,35][/] 減らすには右クリック [scale=0.5,true,false][icon=31,60,359,29,35][/] 。</string>
+		<string>ビールの[color=194,120,236]flavor(香り)[/]。|入れる[color=194,120,236]香りづけ素材[/](belladonnaなど)によって変わります。|クリックして変更。</string>
+		<string>マウスの左ボタン [scale=0.5,true,false][icon=31,30,359,29,35][/] で数秒間長押ししてレシピを削除</string>
+		<string>このカテゴリーにレシピを追加</string>
 		<string>レシピを上に移動</string>
 		<string>レシピを下に移動</string>
 		<string>このレシピで作られるもの</string>
-		<string>レシピを選択して [icon=39,311,503,19,19] をクリックするとレシピが設定できます。  [icon=39,331,503,19,19] をクリックすると解除できます。</string>
+		<string>レシピを選択して [icon=39,311,503,19,19] をクリックするとレシピが設定できます。 [icon=39,331,503,19,19] をクリックすると解除できます。</string>
 		<string>レシピをセット</string>
 		<string>レシピを解除</string>
       </Data>
@@ -2007,10 +2007,10 @@
 		<string>[color=84,172,240]MEDIUM BLIZZARD![/] 激しい吹雪で、風が吹き付けます。外を出歩くのも一苦労です。 植物は被害を受けますが、最初から建っていた建物やオブジェクトは大丈夫です。 お客は自宅に籠り、行商人もやってこないでしょう。</string>
 		<string>[color=84,172,240]HEAVY BLIZZARD![/] 猛烈な吹雪で、風が吹き付けます。外を出歩くのも一苦労です。 植物は被害を受けますが、最初から建っていた建物やオブジェクトは大丈夫です。 お客は自宅に籠り、行商人もやってこないでしょう。</string>
 		<string>[color=84,240,157]Congratulations![/] social rankが上がりました。評判を聞きつけた #1クラン(#2人) のお客が、酒場に訪れようとしています。 [color=84,240,157]hub menuから入店を許可できます。[/] [scale=0.5,true,false][icon=31,147,395,48,45][/].</string>
-		<string>#年目の[color=84,240,143]SPRING[/]! Hop [scale=0.5,0.5,true,false][icon=28,0,0,50,50][/] と Belladonna [scale=0.5,0.5,true,false][icon=28,500,0,50,50][/]の旬で、より多くの作物が収穫できます。 Hop [scale=0.5,0.5,true,false][icon=28,0,0,50,50][/], Barley [scale=0.5,0.5,true,false][icon=28,150,0,50,50][/], Belladonna [scale=0.5,0.5,true,false][icon=28,500,0,50,50][/], Sunflowers [scale=0.5,0.5,true,false][icon=28,400,0,50,50][/] は通常の速度で育ちますが、その他の作物は育つのに時間がかかります。</string>
-		<string>#年目の[color=165,240,84]SUMMER[/]! Barley [scale=0.5,0.5,true,false][icon=28,150,0,50,50][/], Corn [scale=0.5,0.5,true,false][icon=28,50,0,50,50][/], Blueleaves [scale=0.5,0.5,true,false][icon=28,300,0,50,50][/], Sunflowers [scale=0.5,0.5,true,false][icon=28,400,0,50,50][/]の旬で、いつもより多くの作物が収穫できます。Spelt [scale=0.5,0.5,true,false][icon=28,250,0,50,50][/], Corn [scale=0.5,0.5,true,false][icon=28,50,0,50,50][/], Blueleaves [scale=0.5,0.5,true,false][icon=28,300,0,50,50][/], Dryroot [scale=0.5,0.5,true,false][icon=28,450,0,50,50][/] は通常の速度で育ちますが、その他の作物は育つのに時間がかかります。</string>
-		<string>#年目の[color=240,84,84]AUTUMN[/]#! Cotton [scale=0.5,0.5,true,false][icon=28,550,300,50,50][/], Spelt [scale=0.5,0.5,true,false][icon=28,250,0,50,50][/], Dryroot [scale=0.5,0.5,true,false][icon=28,450,0,50,50][/]の旬で、いつもより多くの作物が収穫できます。Cotton [scale=0.5,0.5,true,false][icon=28,550,300,50,50][/], Rye [scale=0.5,0.5,true,false][icon=28,200,0,50,50][/], Wheat [scale=0.5,0.5,true,false][icon=28,100,0,50,50][/], Lotus [scale=0.5,0.5,true,false][icon=28,350,0,50,50][/] は通常の速度で育ちますが、その他の作物は育つのに時間がかかります。</string>
-		<string>#年目の[color=178,231,240]WINTER[/]! Rye [scale=0.5,0.5,true,false][icon=28,200,0,50,50][/], Wheat [scale=0.5,0.5,true,false][icon=28,100,0,50,50][/], Lotus [scale=0.5,0.5,true,false][icon=28,350,0,50,50][/] の旬で、いつもより多くの作物が収穫できます。 草や木は冬の間は育ちません!</string>
+		<string>#年目の[color=84,240,143]SPRING[/]!|Hop [scale=0.5,0.5,true,false][icon=28,0,0,50,50][/] と Belladonna [scale=0.5,0.5,true,false][icon=28,500,0,50,50][/]の旬で、より多くの作物が収穫できます。 Hop [scale=0.5,0.5,true,false][icon=28,0,0,50,50][/], Barley [scale=0.5,0.5,true,false][icon=28,150,0,50,50][/], Belladonna [scale=0.5,0.5,true,false][icon=28,500,0,50,50][/], Sunflowers [scale=0.5,0.5,true,false][icon=28,400,0,50,50][/] は通常の速度で育ちますが、その他の作物は育つのに時間がかかります。</string>
+		<string>#年目の[color=165,240,84]SUMMER[/]!|Barley [scale=0.5,0.5,true,false][icon=28,150,0,50,50][/], Corn [scale=0.5,0.5,true,false][icon=28,50,0,50,50][/], Blueleaves [scale=0.5,0.5,true,false][icon=28,300,0,50,50][/], Sunflowers [scale=0.5,0.5,true,false][icon=28,400,0,50,50][/]の旬で、いつもより多くの作物が収穫できます。Spelt [scale=0.5,0.5,true,false][icon=28,250,0,50,50][/], Corn [scale=0.5,0.5,true,false][icon=28,50,0,50,50][/], Blueleaves [scale=0.5,0.5,true,false][icon=28,300,0,50,50][/], Dryroot [scale=0.5,0.5,true,false][icon=28,450,0,50,50][/] は通常の速度で育ちますが、その他の作物は育つのに時間がかかります。</string>
+		<string>#年目の[color=240,84,84]AUTUMN[/]!|Cotton [scale=0.5,0.5,true,false][icon=28,550,300,50,50][/], Spelt [scale=0.5,0.5,true,false][icon=28,250,0,50,50][/], Dryroot [scale=0.5,0.5,true,false][icon=28,450,0,50,50][/]の旬で、いつもより多くの作物が収穫できます。Cotton [scale=0.5,0.5,true,false][icon=28,550,300,50,50][/], Rye [scale=0.5,0.5,true,false][icon=28,200,0,50,50][/], Wheat [scale=0.5,0.5,true,false][icon=28,100,0,50,50][/], Lotus [scale=0.5,0.5,true,false][icon=28,350,0,50,50][/] は通常の速度で育ちますが、その他の作物は育つのに時間がかかります。</string>
+		<string>#年目の[color=178,231,240]WINTER[/]!|Rye [scale=0.5,0.5,true,false][icon=28,200,0,50,50][/], Wheat [scale=0.5,0.5,true,false][icon=28,100,0,50,50][/], Lotus [scale=0.5,0.5,true,false][icon=28,350,0,50,50][/] の旬で、いつもより多くの作物が収穫できます。 草や木は冬の間は育ちません!</string>
 		<string>[color=255,163,96]Warning![/] #クランの満足度が低下したため、social rankが下がりました。</string>
 		<string>#2が不足しているため、#1が製造を停止しました!</string>
 		<string>ストレージに十分な空きがないため、#が製造を停止しました。</string>
@@ -2171,12 +2171,12 @@
 		<string>TradingSeeds</string>
 
 		<string>Trading Items</string>
-		<string>種以外のアイテムを売買することもできます。ビール造りに使うyeast [scale=0.5,true,false][icon=28,600,50,50,50][/] も売っています。 [color=66,255,128,NonIcon]行商人の近くでbasket [scale=0.5,true,false][icon=8,204,1034,50,50][/] ( [scale=0.5,true,false][icon=31,441,487,48,45][/] / [scale=0.5,true,false][icon=31,196,441,48,45][/] )を開き、yeast [scale=0.5,true,false][icon=28,600,50,50,50][/] を20個購入しましょう。[/]</string>
+		<string>種以外のアイテム、たとえばビール造りに使うyeast [scale=0.5,true,false][icon=28,600,50,50,50][/] も売っています。 [color=66,255,128,NonIcon]行商人の近くでbasket [scale=0.5,true,false][icon=8,204,1034,50,50][/] ( [scale=0.5,true,false][icon=31,441,487,48,45][/] / [scale=0.5,true,false][icon=31,196,441,48,45][/] )を開き、yeast [scale=0.5,true,false][icon=28,600,50,50,50][/] を20個購入しましょう。[/]</string>
 		<string>TRADING</string>
 		<string>TradingItems</string>
 
 		<string>Barley, Hop and Yeast</string>
-		<string>家に帰ってビール [scale=0.5,true,false][icon=28,750,50,50,50][/] を造りましょう。材料はbarley [scale=0.5,true,false][icon=28,150,0,50,50][/] hop [scale=0.5,true,false][icon=28,0,0,50,50][/] yeast [scale=0.5,true,false][icon=28,600,50,50,50][/] です。 [color=66,255,128,NonIcon]barley [scale=0.5,true,false][icon=28,150,0,50,50][/] hop [scale=0.5,true,false][icon=28,0,0,50,50][/] yeast [scale=0.5,true,false][icon=28,600,50,50,50][/] をそれぞれ5個ずつ用意しましょう。[/]</string>
+		<string>家に帰ってビール [scale=0.5,true,false][icon=28,750,50,50,50][/] を造りましょう。材料はbarley [scale=0.5,true,false][icon=28,150,0,50,50][/] hop [scale=0.5,true,false][icon=28,0,0,50,50][/] yeast [scale=0.5,true,false][icon=28,600,50,50,50][/] です。 [color=66,255,128,NonIcon]barley [scale=0.5,true,false][icon=28,150,0,50,50][/] hop [scale=0.5,true,false][icon=28,0,0,50,50][/] yeast [scale=0.5,true,false][icon=28,600,50,50,50][/] をそれぞれ5個ずつ用意します。[/]</string>
 		<string>BREWING</string>
 		<string>BarleyHopYeast</string>
 
@@ -2186,7 +2186,7 @@
 		<string>Beer</string>
 
 		<string>Clan Satisfaction</string>
-		<string>ここには、酒場のcomfort(快適度)やビールのminimal quality(品質)のほか、クランが好むビールの特徴　[color=236,213,120]tint brightness(色あい)[/] [color=236,120,120]full body(コク)[/] [color=120,236,128]bitterness(苦味)[/] [color=120,169,236]alcoholic strength(アルコール度数)[/]といった特徴が表示されます。 [color=66,255,128,NonIcon]次へ [scale=0.5,true,false][icon=8,878,706,40,40][/][/]</string>
+		<string>ここには、酒場のcomfort(快適度)やビールのminimal quality(品質)のほか、クランが好むビールのtaste(風味) [color=236,213,120]tint brightness(色あい)[/] [color=236,120,120]full body(コク)[/] [color=120,236,128]bitterness(苦味)[/] [color=120,169,236]alcoholic strength(アルコール度数)[/]といった特徴が表示されます。 [color=66,255,128,NonIcon]次へ [scale=0.5,true,false][icon=8,878,706,40,40][/][/]</string>
 		<string>SATISFACTION</string>
 		<string>ClanSatisfaction</string>
 
