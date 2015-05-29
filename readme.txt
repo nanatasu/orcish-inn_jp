@@ -1,4 +1,4 @@
-Orcish Inn 日本語化データ ver0.3
+Orcish Inn 日本語化データ 0.0.9（rev3）
 
 ■作成日
 　2015/5/24
