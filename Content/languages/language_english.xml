@@ -42,40 +42,6 @@
       </Data>
     </Entry>
     <Entry>
-      <Name>ItemTypes</Name>
-      <Data>
-        <string>Unknown</string>
-		<string>Crop</string>
-		<string>Fish</string>
-		<string>Bread</string>
-		<string>Malt</string>
-		<string>Wort</string>
-		<string>Yeast</string>
-		<string>Beer</string>
-		<string>Junk</string>
-		<string>Treasure Chest</string>
-		<string>Recipe</string>
-		<string>Wood</string>
-		<string>Fiber</string>
-		<string>Stone</string>
-		<string>Iron Ore</string>
-		<string>Iron</string>
-		<string>Dynamite</string>
-		<string>Medicine</string>
-		<string>Pigeon Meat</string>
-		<string>Pigeon Egg</string>
-		<string>Fried Egg</string>
-		<string>Winter Care Package</string>
-		<string>Mysterious Seed Bag</string>
-		<string>Valentine's Day Card</string>
-		<string>Message in a Bottle</string>
-		<string>Celestial Mirror</string>
-		<string>Astrolabe</string>
-		<string>Celestial Joy</string>
-		<string>Celestial Seed Bag</string>
-      </Data>
-    </Entry>
-    <Entry>
       <Name>SpecialItemTypes</Name>
       <Data>
         <string>Water</string>
@@ -120,93 +86,186 @@
       </Data>
     </Entry>
 	<Entry>
+      <Name>ItemNames</Name>
+      <Data>
+        <string>Hop</string>
+		<string>Barley</string>
+		<string>Spelt</string>
+		<string>Rye</string>
+		<string>Wheat</string>
+		<string>Corn</string>
+		<string>Belladonna</string>
+		<string>Blueleaves</string>
+		<string>Dryroot</string>
+		<string>Sunflower</string>
+		<string>Lotus</string>
+		<string>Scholars Fire</string>
+		<string>Fiber</string>
+		<string>Wood</string>
+		<string>Stone</string>
+		<string>Iron Ore</string>
+		<string>Iron</string>
+		<string>Yeast</string>
+		<string>Rotten Boot</string>
+		<string>Broken Mug</string>
+		<string>Skull</string>
+		<string>Treasure Chest</string>
+		<string>Furniture Recipe: #</string>
+		<string>Dynamite</string>
+		<string>Medicine</string>
+		<string>Raw Pigeon Meat</string>
+		<string>Pigeon Egg</string>
+		<string>Fried Egg</string>
+		<string>Winter Care Package</string>
+		<string>Seed Bag</string>
+		<string>Valentines Day Card</string>
+		<string>Bottle with a Message</string>
+		<string>Astro Mirror</string>
+		<string>Astrolabe</string>
+		<string>Celestial Globe</string>
+		<string>Celestial Seed Bag</string>
+		<string>Baked Pigeon Meat</string>
+		<string>Raw Small Fish</string>
+		<string>Raw Midsized Fish</string>
+		<string>Raw Big Fish</string>
+		<string>Baked Small Fish</string>
+		<string>Baked Midsized Fish</string>
+		<string>Baked Big Fish</string>
+		<string>Barley Bread</string>
+		<string>Spelt Bread</string>
+		<string>Rye Bread</string>
+		<string>Wheat Bread</string>
+		<string>Corn Bread</string>
+		<string>Barley Malt</string>
+		<string>Spelt Malt</string>
+		<string>Rye Malt</string>
+		<string>Wheat Malt</string>
+		<string>Corn Malt</string>
+		<string>Barley Wort</string>
+		<string>Spelt Wort</string>
+		<string>Rye Wort</string>
+		<string>Wheat Wort</string>
+		<string>Corn Wort</string>
+		<string>Barley Beer</string>
+		<string>Spelt Beer</string>
+		<string>Rye Beer</string>
+		<string>Wheat Beer</string>
+		<string>Corn Beer</string>
+		<string>Water</string>
+		<string>Dung</string>
+		<string>Small Bag</string>
+		<string>Midsized Bag</string>
+		<string>Big Bag</string>
+		<string>Charcoal</string>
+      </Data>
+    </Entry>
+	<Entry>
       <Name>ItemTooltips</Name>
       <Data>
-		<string></string>
-		<string></string>
-		<string>fish|オークの池で釣れるおいしい魚。</string>
-		<string>bread|# から作ったパン。</string>
-		<string>Malt(麦芽)|malt boxに穀物を入れるとできる。|wortの素材として使う。</string>
-		<string>Wort(麦汁)|wort boilerにmaltを入れるとできる。</string>
-		<string>Yeast(酵母)|ビール醸造に使う。ビールのAlcoholic Strengthを決める。</string>
-		<string>ビール|faucetでお客に売ったり、自分で飲んだりできる。</string>
-		<string>がらくた|釣りをしているとよく見つかる。</string>
-		<string>不思議なお宝|どこのものかわからない。</string>
-		<string>走り書きされた紙片|何かの役に立つかもしれない。</string>
-		<string>Wood|建築素材、または生産設備の燃料として使う。</string>
-		<string>Fiber|特別なアイテム(カーペットなど)を作るための素材として使う。</string>
-		<string>Stone|建築素材として使う。</string>
-		<string>Iron Ore|岩からとれる。furnaceで熔かすとIronになる。</string>
-		<string>Iron|生産設備を作るための素材として使う。</string>
-		<string>危険な発明品|Stone pitに投げ込むとstoneがとれる。</string>
-		<string>瓶に入った薬。病気になったら飲もう。</string>
-		<string>ハトの肉。おいしい。</string>
-		<string>ハトのたまご。巣箱に入れて育てたり、furnaceで焼いて食べるのもよい。</string>
-		<string>焼いたハトのたまご。とってもいい香り！</string>
-		<string>special care package|通常、戦争時の非常食として使用される。</string>
-		<string>種の入った袋|中身はよくわからない。</string>
-		<string>かわいいバレンタインデーのカード|ハトが持ち帰ってきたもの。</string>
-		<string>古くて黄ばんだ紙の入った瓶。</string>
-		<string>この鏡には、自分の姿ではなく、遥か彼方の空が映っている。背面には'Jason Levine Jr.'で始まる署名が記されている。</string>
-		<string>普通のオークは、宝石のかけらか何かだと思うだろう。なんて愚かな! 背面には'Jason Levine Jr.'で始まる署名が記されている。</string>
-		<string>金色の球。中は空洞になっており、何か入っているようだが、どうやって開ければいいのだろう? 底面には'Jason Levine Jr.'で始まる署名が記されている。</string>
-		<string>神秘的な装飾の施されたseed bag。底面には'Jason Levine Jr.'で始まる署名が記されている。</string>
+        <string>Hops are mainly used for brewing. They define the beer's bitterness.</string>
+		<string>Barley is a cereal crop of tier 1 and can be used for brewing but also for baking bread.</string>
+		<string>Spelt is a cereal crop of tier 2 and can be used for brewing but also for baking bread.</string>
+		<string>Rye is a cereal crop of tier 3 and can be used for brewing but also for baking bread.</string>
+		<string>Wheat is a cereal crop of tier 4 and can be used for brewing but also for baking bread.</string>
+		<string>Corn is a cereal crop of tier 5 and can be used for brewing but also for baking bread.</string>
+		<string>Belladonna is a flavor crop of tier 1 and can be used in the beer brewing process.</string>
+		<string>Blueleaves is a flavor crop of tier 2 and can be used in the beer brewing process.</string>
+		<string>Dryroot is a flavor crop of tier 3 and can be used in the beer brewing process.</string>
+		<string>Sunflower is a flavor crop of tier 4 and can be used in the beer brewing process.</string>
+		<string>Lotus is a flavor crop of tier 5 and can be used in the beer brewing process.</string>
+		<string>Scholar's Fire is a special flavor crop. If put in a beer, it can replace and satisfy any flavor wish of a clan.</string>
+		<string>Fiber is a material used in building special structures, like carpet floors.</string>
+		<string>Wood is required for building structures and fueling production machines.</string>
+		<string>A piece of heavy stone, mostly used for building structures.</string>
+		<string>Iron ores are found in stone boulders and molten to iron in furnaces.</string>
+		<string>Iron is used for building structures, especially production machines.</string>
+		<string>Yeast is necessary for brewing. It defines a beer's alcoholic strength.</string>
+		<string>It smells bad and it's only one boot. Why? Why do you want to take this with you?</string>
+		<string>It's broken and can't be used for anything.</string>
+		<string>Oh! A nice skull of an orc. Perhaps one of your family members? Who knows!</string>
+		<string>A mysterious treasure chest of unknown origins.</string>
+		<string>A piece of paper with a scrawly writing. Anyway, it could be useful.</string>
+		<string>A dangerous invention. If put in a stone pit, it can be used to generate new stones.</string>
+		<string>This bottle of medicine helps you to get rid of a sickness.</string>
+		<string>If put in a furnace, a tasty dish can be made out of it.</string>
+		<string>A pigeon egg. It can be put in a pigeon sleeping box to breed pigeons or in a furnace.</string>
+		<string>A fried pigeon egg. It smells very deliciously!</string>
+		<string>A special care package, normally used in war as a kind of emergency ration.</string>
+		<string>A seed bag with unknown content.</string>
+		<string>A lovely Valentine's Day card, brought back by a pigeon.</string>
+		<string>The bottle is old and the paper already yellowed.</string>
+		<string>Instead of a reflection, the mirror shows the sky, far beyond the clouds. It has a signature on the back, stating 'Jason Levine Jr.'.</string>
+		<string>Common orcs think that this is a piece of jewelry. What fools! It has a signature on the back, stating 'Jason Levine Jr.'.</string>
+		<string>A golden globe. It seems to be hollow and containing things. Perhaps it can be opened? It has a signature on the bottom, stating 'Jason Levine Jr.'.</string>
+		<string>A special seed bag with mystical ornaments on it. It has a signature on the bottom, stating 'Jason Levine Jr.'.</string>
+		<string>A piece of tasty pigeon meat.</string>
+		<string>A very small fish from the orcish swamps. Was it worth the work? Surely not.</string>
+		<string>A raw fish with a typical size, common in the local waters.</string>
+		<string>Wow! What a monster!</string>
+		<string>A tiny piece of baked fish.</string>
+		<string>A baked fish. What a good meal!</string>
+		<string>It such a big, tasty and good smelling fish. Oh dear!</string>
+		<string>A bread made out of barley.</string>
+		<string>A bread made out of spelt.</string>
+		<string>A bread made out of rye.</string>
+		<string>A bread made out of wheat.</string>
+		<string>A bread made out of corn.</string>
+		<string>Malt made out of barley. It can be used in a wort boiler to produce barley wort.</string>
+		<string>Malt made out of spelt. It can be used in a wort boiler to produce spelt wort.</string>
+		<string>Malt made out of rye. It can be used in a wort boiler to produce rye wort.</string>
+		<string>Malt made out of wheat. It can be used in a wort boiler to produce wheat wort.</string>
+		<string>Malt made out of corn. It can be used in a wort boiler to produce corn wort.</string>
+		<string>Wort made out of barley. It's the basic requirement for brewing a barley beer.</string>
+		<string>Wort made out of spelt. It's the basic requirement for brewing a spelt beer.</string>
+		<string>Wort made out of rye. It's the basic requirement for brewing a rye beer.</string>
+		<string>Wort made out of wheat. It's the basic requirement for brewing a wheat beer.</string>
+		<string>Wort made out of corn. It's the basic requirement for brewing a corn beer.</string>
+		<string>This barley beer can be sold to visitors via faucets or drunk by yourself.</string>
+		<string>This spelt beer can be sold to visitors via faucets or drunk by yourself.</string>
+		<string>This rye beer can be sold to visitors via faucets or drunk by yourself.</string>
+		<string>This wheat beer can be sold to visitors via faucets or drunk by yourself.</string>
+		<string>This corn beer can be sold to visitors via faucets or drunk by yourself.</string>
+		<string>A unit of water, mainly used for producing beer. It can be placed on land with the help of the water bucket to increase wetness temporarily.</string>
+		<string>A unit of dung. It can be placed on land with the help of the dung bag to increase eutrophy temporarily.</string>
+		<string>A small bag. If carried in the inventory, the best bag increases the inventory's weight limit.</string>
+		<string>A midsized bag. If carried in the inventory, the best bag increases the inventory's weight limit.</string>
+		<string>A big bag. If carried in the inventory, the best bag increases the inventory's weight limit.</string>
+		<string>Charcoal is mainly used for fueling production machines and furnaces.</string>
       </Data>
     </Entry>
 	<Entry>
-      <Name>CropTooltips</Name>
+      <Name>ItemTooltipsSpecial</Name>
       <Data>
-		<string>Hop(ホップ)|ビール醸造に使う。ビールのbitterness（苦味）を決める。</string>
-		<string>Corn(コーン)|Tier5の穀物。ビール醸造や、パンの素材として使う。</string>
-		<string>Wheat(小麦)|Tier4の穀物。ビール醸造や、パンの素材として使う。</string>
-		<string>Barley(大麦)|Tier1の穀物。ビール醸造や、パンの素材として使う。</string>
-		<string>Rye(ライ麦)|Tier3の穀物。ビール醸造や、パンの素材として使う。</string>
-		<string>Spelt(古代麦)|Tier2の穀物。ビール醸造や、パンの素材として使う。</string>
-		<string>Blueleaves|Tier2の香りづけ素材。ビールのflavorを決める。</string>
-		<string>Belladonna|Tier1の香りづけ素材。ビールのflavorを決める。</string>
-		<string>Dryroot|Tier3の香りづけ素材。ビールのflavorを決める。</string>
-		<string>Lotus|Tier5の香りづけ素材。ビールのflavorを決める。</string>
-		<string>Sunflowers|Tier4の香りづけ素材。ビールのflavorを決める。</string>
-		<string></string>
-		<string>Scholer's Fire|特別な香りづけ素材。これを入れれば、どのクランが好むflavorにも対応できる。</string>
+        <string>Restores # satiation (scales with quality).</string>
+		<string>Restores # stamina (scales with quality).</string>
+		<string>Restores #1 satiation and #2 stamina (scales with quality).</string>
+		<string>A signature tells that this egg was designed by #.</string>
+		<string>[color=240,176,84]Add a flavor to the brewing process and the beer will have benefits on drinking.[/]</string>
+		<string>[color=240,176,84]Belladonna Buff (Level #): working drains less satiation.[/]</string>
+		<string>[color=240,176,84]Blueleaves Buff (Level #): working drains less stamina.[/]</string>
+		<string>[color=240,176,84]Dryroot Buff (Level #): regenerates stamina over time.[/]</string>
+		<string>[color=240,176,84]Sunflower Buff (Level #): regenerates satiation over time.[/]</string>
+		<string>[color=240,176,84]Lotus Buff (Level #): faster walking.[/]</string>
+		<string>[color=240,176,84]Scholar's Fire Buff (Level #): faster walking.[/]</string>
+		<string>[color=232,143,108]Can decay with a chance of #.[/]</string>
+		<string>This type of bag increases the weight limit by #1 per quality star, therefore [color=240,176,84]#2 in total[/], given the selected quality level.</string>
+		<string>[color=232,143,108]Can get depleted during burning processes with a chance of #.[/]</string>
       </Data>
     </Entry>
 	<Entry>
-      <Name>BeerBuffTooltips</Name>
+      <Name>ItemInteractionTexts</Name>
       <Data>
-		<string>[color=240,176,84]醸造工程でflavorを加えたビールは、飲むと特別な効果が得られます。[/]</string>
-		<string>[color=240,176,84]Blueleaves Buff (Level #): 労働によるstaminaの消費を抑えます。[/]</string>
-		<string>[color=240,176,84]Belladonna Buff (Level #): 労働によるsatiationの消費を抑えます。[/]</string>
-		<string>[color=240,176,84]Dryroot Buff (Level #): staminaが徐々に回復します。[/]</string>
-		<string>[color=240,176,84]Lotus Buff (Level #): 歩くスピードが速くなります。[/]</string>
-		<string>[color=240,176,84]Sunflower Buff (Level #): satiationが徐々に回復します。[/]</string>
-		<string></string>
-		<string>[color=240,176,84]Scholar's Fire Buff (Level #): 歩くスピードが速くなります。[/]</string>
-      </Data>
-    </Entry>
-	<Entry>
-      <Name>SpecialTooltips</Name>
-      <Data>
-		<string>[color=240,176,84]satiationを # 回復。(回復量は品質により変わる)[/]</string>
-		<string> このたまごは # によってデザインされたもののようだ。</string>
+        <string>EAT</string>
+		<string>DRINK</string>
+		<string>OPEN</string>
+		<string>INVESTIGATE</string>
+		<string>READ</string>
       </Data>
     </Entry>
 	<Entry>
       <Name>Empty</Name>
       <Data>
         <string>EMPTY!</string>
-      </Data>
-    </Entry>
-	<Entry>
-      <Name>CompostOnlyCrops</Name>
-      <Data>
-        <string>Only Crops Allowed!</string>
-      </Data>
-    </Entry>
-	<Entry>
-      <Name>Quality</Name>
-      <Data>
-        <string>Quality</string>
       </Data>
     </Entry>
 	<Entry>
@@ -245,175 +304,34 @@
       </Data>
     </Entry>
 	<Entry>
-      <Name>Qualities</Name>
-      <Data>
-        <string>Disgusting</string>
-		<string>Bad</string>
-		<string>Mediocre</string>
-		<string>Good</string>
-		<string>Very Good</string>
-		<string>Fantastic</string>
-		<string>Perfect</string>
-      </Data>
-    </Entry>
-	<Entry>
-      <Name>Tints</Name>
-      <Data>
-		<string>Crazy</string>
-        <string>Extremely Pale</string>
-		<string>Very Pale</string>
-		<string>Pale</string>
-		<string>Brown</string>
-		<string>Very Brown</string>
-		<string>Extremely Brown</string>
-      </Data>
-    </Entry>
-	<Entry>
-      <Name>FullBodies</Name>
-      <Data>
-		<string>Crazy</string>
-        <string>Extremely Weak</string>
-		<string>Very Weak</string>
-		<string>Weak</string>
-		<string>Strong</string>
-		<string>Very Strong</string>
-		<string>Extremely Strong</string>
-      </Data>
-    </Entry>
-	<Entry>
-      <Name>Acerbities</Name>
-      <Data>
-		<string>Crazy</string>
-        <string>Extremely Smooth</string>
-		<string>Very Smooth</string>
-		<string>Smooth</string>
-		<string>Acerbic</string>
-		<string>Very Acerbic</string>
-		<string>Extremely Acerbic</string>
-      </Data>
-    </Entry>
-	<Entry>
-      <Name>Tastes</Name>
-      <Data>
-        <string>Corn</string>
-		<string>Wheat</string>
-		<string>Barley</string>
-		<string>Rye</string>
-		<string>Spelt</string>
-      </Data>
-    </Entry>
-	<Entry>
       <Name>Flavors</Name>
       <Data>
 		<string>None</string>
-        <string>Blueleaves</string>
-		<string>Belladonna</string>
+        <string>Belladonna</string>
+		<string>Blueleaves</string>
 		<string>Dryroot</string>
-		<string>Lotus</string>
 		<string>Sunflower</string>
-		<string></string>
+		<string>Lotus</string>
 		<string>Scholar's Fire</string>
-      </Data>
-    </Entry>
-	<Entry>
-      <Name>AlcoholicStrengths</Name>
-      <Data>
-		<string>Crazy</string>
-        <string>Extremely Weak</string>
-		<string>Very Weak</string>
-		<string>Weak</string>
-		<string>Strong</string>
-		<string>Very Strong</string>
-		<string>Extremely Strong</string>
-      </Data>
-    </Entry>
-	<Entry>
-      <Name>BreadTypes</Name>
-      <Data>
-        <string>Corn Bread</string>
-		<string>Wheat Bread</string>
-		<string>Barley Bread</string>
-		<string>Rye Bread</string>
-		<string>Spelt Bread</string>
-      </Data>
-    </Entry>
-	<Entry>
-      <Name>MaltTypes</Name>
-      <Data>
-        <string>Corn Malt</string>
-		<string>Wheat Malt</string>
-		<string>Barley Malt</string>
-		<string>Rye Malt</string>
-		<string>Spelt Malt</string>
-      </Data>
-    </Entry>
-	<Entry>
-      <Name>WortTypes</Name>
-      <Data>
-        <string>Corn Wort</string>
-		<string>Wheat Wort</string>
-		<string>Barley Wort</string>
-		<string>Rye Wort</string>
-		<string>Spelt Wort</string>
-      </Data>
-    </Entry>
-	<Entry>
-      <Name>BeerTypes</Name>
-      <Data>
-        <string>Corn Beer</string>
-		<string>Wheat Beer</string>
-		<string>Barley Beer</string>
-		<string>Rye Beer</string>
-		<string>Spelt Beer</string>
       </Data>
     </Entry>
 	<Entry>
       <Name>UnspecificProductionNames</Name>
       <Data>
-        <string>Wood</string>
-		<string>作物(Barleyなど)|...Taste(風味)</string>
-		<string>水(Bucketで調節)|...Tint Brightness(色あい)</string>
-		<string>Malt(麦芽)</string>
-		<string>Wort(麦汁)</string>
-		<string>Hop|...Bitterness(苦み)</string>
-		<string>Yeast(行商人から購入)|...Alcoholic Strength(アルコール度数) </string>
-		<string>香りづけ素材(Belladonnaなど)|...Flavor(香り)</string>
-		<string>ビール</string>
-		<string>作物(Barleyなど)</string>
-		<string>肥料(Dung Bagで調整)</string>
-		<string>原料(Barley, Fish, Iron Oreなど)</string>
-		<string>調理/精錬済み</string>
-		<string>水(Bucketで調節)|...Full Body(コク)</string>
-      </Data>
-    </Entry>
-	<Entry>
-      <Name>Malt</Name>
-      <Data>
-        <string>Malt</string>
-      </Data>
-    </Entry>
-	<Entry>
-      <Name>Wort</Name>
-      <Data>
-        <string>Wort</string>
-      </Data>
-    </Entry>
-	<Entry>
-      <Name>Beer</Name>
-      <Data>
-        <string>Beer</string>
-      </Data>
-    </Entry>
-	<Entry>
-      <Name>Yeast</Name>
-      <Data>
-        <string>Yeast</string>
-      </Data>
-    </Entry>
-	<Entry>
-      <Name>Filled</Name>
-      <Data>
-        <string>Filled</string>
+        <string>Fuel</string>
+		<string>Crop for Taste (e.g. Barley)</string>
+		<string>Water for Tint Brightness (via Bucket)</string>
+		<string>Malt</string>
+		<string>Wort</string>
+		<string>Hop for Bitterness</string>
+		<string>Yeast for Alcoholic Strength (from Hawker)</string>
+		<string>Optional Crop for Flavor (e.g. Belladonna)</string>
+		<string>Beer</string>
+		<string>Crop (e.g. Barley)</string>
+		<string>Dung (via Dung Bag)</string>
+		<string>Raw Material (e.g. Barley, Fish or Iron Ore)</string>
+		<string>Cooked/Molten Product</string>
+		<string>Water for Full Body (via Bucket)</string>
       </Data>
     </Entry>
 	<Entry>
@@ -426,62 +344,6 @@
       <Name>NotEnoughMoney</Name>
       <Data>
         <string>Not Enough Resources!</string>
-      </Data>
-    </Entry>
-	<Entry>
-      <Name>TooTired</Name>
-      <Data>
-        <string>Too Tired! Sleep!</string>
-      </Data>
-    </Entry>
-	<Entry>
-      <Name>TooHungry</Name>
-      <Data>
-        <string>Too Hungry! Eat!</string>
-      </Data>
-    </Entry>
-	<Entry>
-      <Name>IsEmpty</Name>
-      <Data>
-        <string>Empty</string>
-      </Data>
-    </Entry>
-	<Entry>
-      <Name>IsFull</Name>
-      <Data>
-        <string>Full</string>
-      </Data>
-    </Entry>
-	<Entry>
-      <Name>IsNotPossible</Name>
-      <Data>
-        <string>Not Possible</string>
-      </Data>
-    </Entry>
-	<Entry>
-      <Name>FishTypes</Name>
-      <Data>
-        <string>Small Fish</string>
-		<string>Midsized Fish</string>
-		<string>Big Fish</string>
-		<string>Baked Small Fish</string>
-		<string>Baked Midsized Fish</string>
-		<string>Baked Big Fish</string>
-      </Data>
-    </Entry>
-	<Entry>
-      <Name>PigeonMeatTypes</Name>
-      <Data>
-        <string>Raw Pigeon Meat</string>
-		<string>Baked Pigeon Meat</string>
-      </Data>
-    </Entry>
-	<Entry>
-      <Name>JunkTypes</Name>
-      <Data>
-        <string>Broken Mug</string>
-		<string>Rotten Boots</string>
-		<string>Orcish Skull</string>
       </Data>
     </Entry>
 	<Entry>
@@ -586,6 +448,12 @@
 		<string>Scholar's Fire Plant</string>
 		<string>Sign</string>
 		<string>Player Spawn</string>
+		<string>Wood Yard</string>
+		<string>Stone Yard</string>
+		<string>Ore Yard</string>
+		<string>Ingot Yard</string>
+		<string>Silo</string>
+		<string>Cupboard</string>
       </Data>
     </Entry>
 	<Entry>
@@ -661,6 +529,12 @@
 		<string>The Scholar's Fire Plant</string>
 		<string>The Sign</string>
 		<string>The Player Spawn</string>
+		<string>The Wood Yard</string>
+		<string>The Stone Yard</string>
+		<string>The Ore Yard</string>
+		<string>The Ingot Yard</string>
+		<string>The Silo</string>
+		<string>The Cupboard</string>
       </Data>
     </Entry>
 	<Entry>
@@ -756,18 +630,18 @@
 	<Entry>
       <Name>UpgradeDescriptions</Name>
       <Data>
-		<string>オブジェクトの設置費用が下がります。</string>
-		<string>オブジェクト撤去時の返金額が増えます。さらに硬い岩（緑や赤）が破壊可能になり、stone pitsからは貴重な石材が採掘できます。</string>
-		<string>植物の成長速度が早まります。Lv4までは行商人が新しい種を売るようになります。</string>
-		<string>bucketや雨水タンクに溜められる水の量が増え、干上がるまでの時間が延長されます。</string>
-		<string>dung bugに入れられる肥料の量が増え、肥料の効果時間が延長されます。また、コンポストの容量と肥料の生産時間が減少します。</string>
-		<string>より良い魚やアイテムが釣れる確率が上がります。</string>
-		<string>旬の植物から、より多くの種や作物が取れるようになります。</string>
-		<string>furnaceでの生産時間が減少します。</string>
-		<string>malt box、wort boiler、beer brewing kettleでの生産時間が減少し、生産量が増加します。</string>
-		<string>箱と樽の容量が増えます。</string>
-		<string>行商人と取引する際の費用が下がり、利益が増えます。</string>
-		<string>木の成長速度が上がり、早く質の良いwoodが手に入るようになります。また、stone pitから取れるstoneの量も増えます。</string>
+        <string>Decreases costs for buying structures.</string>
+		<string>Increases revenues for selling structures, allows to destroy solider stones and stone pits eject rarer stones.</string>
+		<string>Increases growth speed of plants. Up to level 4, the hawker will sell new plant seeds.</string>
+		<string>Increases the time tiles stay wet.</string>
+		<string>Increases the time tiles stay dunged and the production time and storage capacities of compost boxes.</string>
+		<string>Increases the chance to find better fish and loot.</string>
+		<string>Increases the chance that plants drop more seeds if let alone and more crops during the plant's main season.</string>
+		<string>Decreases production time of furnaces.</string>
+		<string>Increases capacity and descreases production time of malt boxes, wort boilers and beer brewing kettles.</string>
+		<string>Increases storage capacity of the inventory and storage objects like chests.</string>
+		<string>Decreases costs and increases revenues for trading with the hawker and increases the chance of better random offers.</string>
+		<string>Trees grow faster, their wood increases faster in quality and stone pits eject more stones</string>
       </Data>
     </Entry>
 	<Entry>
@@ -801,22 +675,22 @@
 	<Entry>
       <Name>ClanDescriptions</Name>
       <Data>
-		<string>その昔、Ghoulsは尊敬されたクランの一つであり、大オーク戦争にてしんがりを任されていた。 オーク軍内での地位が高まるにつれ、かつての英雄たちは名前通り'悪鬼'と成り下がり、価値ある盗品を求めて敵の死体を漁るばかりとなった。 現在、Ghoulsは唾棄すべき屑の集まりである。</string>
-		<string>Coopersは、さまざまな種類の樽や箱を製造している。 彼らは最初期にギルドを立ち上げた職人集団の一つで、その財力はオーク政治における富と影響力を確実なものとした。 それにも拘らず、彼らはほかの職人ギルドに侮られることが多い。</string>
-		<string>戦争と切っても切り離せないオーク文化において、鍛冶は重要な役割を担う。 そのためBracksmithsは、とりわけ知名度が高く、広く尊敬されている職人ギルドの一つとなっている。 主要なクランの鍛冶職人は、このギルドにも所属する必要がある。</string>
-		<string>その名の通り、Spearheadは無鉄砲な戦士を最前線に送り込むクランである。 一族に伝わる習わしということも考えられるが、その高い戦死率のため、前線へ配備するオークは国外から大規模徴集している。</string>
-		<string>このクランは内戦の間、敗者に対し凄惨な尋問を行い、人々に恐怖と動揺をもたらした。 後にそれが明らかになると、自らその報いを受けることとなった。彼らは自身を敵をひねり潰すTwisted Dragonと称するが、 人々はわが身喰らいしHydraと呼んでいる。</string>
-		<string>War Chantクランは、オーク文化の音楽的側面を形成し、高めることを目的としている。 穏やかな社交の場か、血みどろの戦場であるかに関わらず、彼らの軍歌を耳にしない日はない。</string>
-		<string>Minersを構成する労働者階級の人々は、価値ある資源やさまざまな鉱物の採掘によりオークの手工業文化を支えているにも拘わらず蔑まれている。 近年、Minersのコミュニティは拡大しており、いよいよもって攻撃的で御しがたい存在となりつつある。</string>
-		<string>Berserkerクランは、オーク軍に人的資源を供給しており、現在の統治者である将軍の支配下におかれている。 変化には乏しいが安定した生活を手に入れたいオークたちが、Berserkerクラン外から殺到している。</string>
-		<string>Eye of Mindはシャーマンの連合である。 彼らは祖先の魂を呼び出し、物、主にアーティファクトに宿らせることを生業としている。 怪しげな所業に手を染めるシャーマンもおり、子孫に恵まれない幽霊などは、闇市場で "生ける蛇口" としての末路を迎えかねない。</string>
-		<string>Historianクランはほかとは異なり、若いオークたちを学者として育てることで、オーク社会の根幹を築いている。 彼らが書き記したオークの歴史書は、首都の図書館に保管され、誰でも閲覧可能である。</string>
-		<string>Raven Covenantは、慎み深く秘密主義の集団であり、その目的もまた闇に包まれている。 その身に刻まれた歴戦の傷跡と政治的立ち回りからして、彼らこそが陰で糸を引く黒幕なのかもしれない。</string>
-		<string>古くから繁栄の続くFishermenクランでは、漁師たちが誇りと厳しい規則を守り工芸品を作り続けてきた。 この生活様式を選ぶものは、多くの勇気を携えなければならない。 なぜならオークの沼はあらゆる戦場よりも恐ろしく、危険であるからだ。</string>
-		<string>Hawkersは一種の行商人クランとして組織されているが、中にはまだ元のクランに所属し続けているものもいる。 このクランは取引の価格、地域、利用料金を管理する。 彼らの収入の一部は課税されるが、見返りとしてさまざまなクランの中で中立的な立場を享受している。</string>
-		<string>Spirit Brewクランは料理と醸造に特化したシャーマンの集まりである。 kettleによって時々起こす奇跡が、一方で人々の不信感を招き、オーク社会から締め出されている。 そのため、彼らは森で孤立して暮らし、取引のためにだけ近くの町を訪れる。</string>
-		<string>First Scoutsクランは幾度もオークの世界地図を描き変えるような新発見をしてきた。 探検船と、地図に関する豊富な蔵書こそが彼らの基本であり、国境線は今も、新たな発見を求め情熱を燃やすオークたちで溢れかえっている。</string>
-		<string>Backboneはいわゆるオークの木こりであり、オーク帝国の屋台骨を担うことからそう呼ばれている。 彼らの力と木材加工技術に関する知識がなければ、オークの街は今のように巨大にはなりえず、いまだ小さなテントで暮らしていただろう。</string>
+        <string>Long ago, the members of the Ghouls were part of respected clans, forming the rearguard in the vast orcish wars. As success and glory grew within the orcish army, the once respected latecomers degenerated to ghouls, searching the enemies' corpses for valuable loot. Now, the Ghouls are a disgusting pack of vermin.</string>
+		<string>The Coopers craft barrels and chests of all kind. They are one of the first craftsmen forming a guild. Their financial power ensured wealth and influence in the orcish politics. Anyway, they are often underestimated by the other craft guilds.</string>
+		<string>Beyond the other crafts, the guild of blacksmiths is one of the most known and respected craftsmen guilds in the lands. Especially, because smithery plays a major role in the orcish culture which is a synonym for war. Across the major clans, every smith has to be part of this guild.</string>
+		<string>Like the name let one assume, the Spearhead is a clan which provides foolhardy warriors for the front line. They could have something like family related tradition, but because of the low expectancy of life, they recruit foreign orcs in tremendous dimensions.</string>
+		<string>This clan spread fear and trepidation during the civil war. They performed a bloody inquisition against the defeated, and after they were smoked out, against themselves. They call themselves the twisted dragon who clasps his enemies. The people just call them the hydra who bites off her own heads.</string>
+		<string>The War Chant clan's purpose is to shape and exercise the orcish musical side. Their war songs are famous and played a lot, whether it is a calm social gathering or on the bloody battlegrounds.</string>
+		<string>The Miners are from a despised caste of workers. They dig for valuable resources and unearth the minerals the whole orcish crafting culture relies on. In the recent years, the big community of miners has been getting more and more restive and aggressive.</string>
+		<string>The Berserker clan provides the manpower for the orcish forces. They are under the control of the current ruling warlord. Orcs, who strive for a simple life with an assured income normally overrun to this clan, if they were not already born in it.</string>
+		<string>Eye of Mind is a coalition of shamans across the country. Their main purpose is to call old ghosts and to bind them to objects, mainly artifacts. Some of the shamans partake in dubious practices and if a descendant didn't liked his parents that much, the deceased father or mother could end as a living faucet on the black market.</string>
+		<string>Like no other clan, the Historian clan forms the building staff of the orcish society, tutoring young orcs to scholars. Beyond that, they write down the orcish history. These chronicles are stored and are public available in the capital's library.</string>
+		<string>The Raven Covenant is a discreet and secretive organizations which main purpose is kept in the dark, too. Battle-scarred and political motivated, they may be the puppet masters behind the curtain.</string>
+		<string>As an old and stable clan, the Fishermen can look back on a long and flourish tradition. The fishers' handcraft is pursued with a lot of proud and tight regulations. Devotees of this lifestyle have to come along with a lot of courage: the orcish swamps can be scarier and more dangerous then every battleground out there.</string>
+		<string>Yes, the hawkers are organized in a kind of Hawker clan, while still partially belonging to their original clans. The clan regulates prices, trading zones and tolls. Part of their income is taxed and in return, they enjoy a certain degree of neutrality among the clans.</string>
+		<string>The Spirit Brew clan is a shaman circle which specialized on brewing and cooking. While they work wonders in their kettles from time to time, they are often mistrusted and excluded from the overall social life. As a result, they often live isolated in the woods and visit nearby towns only for trading.</string>
+		<string>The First Scouts clan shakes the boundaries of the orcish world over and over again. Expedition ships and a rich and extensive library of maps are their fundamentals and their lines are filled with enthusiastic orcs.</string>
+		<string>The Backbone clan is a colloquial label of the orcish lumberjacks out there, because they are metaphorical the backbone of the orcish empire. Without their strength and knowledge of building wood chopping machines, the orcs would still live in thin tents instead of huge orcish cities.</string>
       </Data>
     </Entry>
 	<Entry>
@@ -836,6 +710,15 @@
       <Name>SocialState</Name>
       <Data>
         <string>Social Rank</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>Infos</Name>
+      <Data>
+        <string>WATERED LAND (#)</string>
+		<string>TOOK WATER (#)</string>
+		<string>DUNG LAND (#)</string>
+		<string>TOOK DUNG (#)</string>
       </Data>
     </Entry>
 	<Entry>
@@ -879,64 +762,81 @@
 		<string>Save and Exit</string>
 		<string>Back to Game</string>
 		<string>TUTORIAL</string>
-		<string>[color=66,255,128]tutorialモード[/] 始めてプレイする場合はこちら。固定マップで、豊富な資源と、基本的な酒場施設が設置してあります。 [color=66,255,128]プレイ済みの場合は、セーブデータが上書きされます![/]</string>
+		<string>An [color=66,255,128]introductional scenario[/] with a pre-defined map, a basic tavern setup, a tutorial and many resources. Choose this if it's your first time playing Orcish Inn. [color=66,255,128]Existing tutorial save games get overwritten![/]</string>
 		<string>CHALLENGE</string>
-		<string>[color=66,255,128]challengingモード[/] マップが半自動生成される、経験者向けのモード。資源は少なく、初期施設もありません。今後のアップデートで、新たな資源や要素が追加されます。 [color=66,255,128]プレイ済みの場合は、セーブデータが上書きされます![/]</string>
+		<string>A [color=66,255,128]challenging scenario[/] for experienced Orcish Inn players with a semi-randomized map generation, no tavern setup, no tutorial and little resources. More basic layouts and random elements will come in the future! [color=66,255,128]Existing challenge save games get overwritten![/]</string>
       </Data>
     </Entry>
 	<Entry>
       <Name>InterfaceTooltips</Name>
       <Data>
-		<string>[color=178,153,164]Wood(木材)[/]|さまざまなものをつくったり、製造時の燃料として使います。hammer-axeで木や切り株を伐採すると手に入ります。</string>
-		<string>[color=132,167,189]Stone(石材)[/]|建築材料として使います。|岩を壊したりstone pitにdynamiteを投げ込むと|手に入ります。|hammer-axeのレベルにより壊せる岩が変わります。</string>
-		<string>[color=167,176,154]Iron[/]|建築材料として使います。岩を壊すと手に入るiron oresをfurnaceで熔かして作ります。</string>
-		<string>[color=167,205,203]Fiber[/]|酒場宿の装飾アイテム製作に使います。 cottonを育てて収穫すると手に入ります。</string>
-		<string>[color=240,176,84]Money[/]|家具や種などのさまざまなものを購入するのに使います。ビール販売が主な収入源。もし空腹や疲労で倒れると、さらにお金を失うことになるので注意!</string>
-		<string>[color=84,240,98]Reputation[/]|アップグレードに使用します。お客の好みに合ったビールを提供し、満足させられると貯まります。</string>
-		<string>[color=240,84,84]Social Rank[/]|クランの満足度が一定の値を超えたときに、1ずつ上昇します。</string>
-		<string>[color=167,95,255]Hub Book[/] の表示( [scale=0.5,true,false][icon=31,98,395,48,45][/] )|お客が属するクランの情報や、アップグレードの一覧が表示されます。</string>
-		<string>[color=76,180,246]Wetness[/]表示の切り替え( [scale=0.5,true,false][icon=31,245,441,48,45][/] )|Wetnessは水場の近くやbucketで水をまくと高まり、天気によっても変化します。</string>
-		<string>[color=236,226,112]Eutrophy[/]表示の切り替え( [scale=0.5,true,false][icon=31,294,441,48,45][/] )|Eutrophyはコンポストでつくった肥料を|dung bagでまくと高まり、|天気によっても変化します。</string>
-		<string>[color=234,123,244]Windbreak[/]表示の切り替え( [scale=0.5,true,false][icon=31,343,441,48,45][/] )|Windbreakはオブジェクトの近くで高まり、天気によっても変化します。 柵や石の壁で特定のエリアのWindbreakを調整することもできます。</string>
-		<string>[color=76,246,104]Plant Density[/]表示の切り替え( [scale=0.5,true,false][icon=31,441,441,48,45][/] )|Plant Densityは植物の近くで高まります。 もしその植物が密集した状態を好むなら、なるべく近づけて植えましょう!</string>
-		<string>[color=170,170,170]Optimality[/]表示の切り替え( [scale=0.5,true,false][icon=31,490,441,48,45][/] )|seed pouchを開いて種を選ぶと、|それを植えるのに最適な場所がわかります。</string>
-		<string>追加情報の表示( [scale=0.5,true,false][icon=31,686,395,48,45][/] )|ストレージに入っているアイテムの数やお客が属するクランのエンブレムなどが表示されます。</string>
-		<string>#日目の[color=75,245,211]夜明け[/]です!|眠るとstaminaはゆっくり回復します。</string>
-		<string>#日目の[color=75,255,126]昼間[/]です!|眠ってもstaminaはほとんど回復しません。</string>
-		<string>#日目の[color=255,150,93]夕暮れ[/]です!|起きていると少し疲れますが、眠ればstaminaが回復します。</string>
-		<string>#日目の[color=75,168,255]夜[/]です!|起きていると疲れますが、眠ればstaminaが素早く回復します。</string>
-		<string>[color=93,196,255]Satiation(満腹度)[/] [color=93,196,255]Satiation(満腹度)[/] 働くと減り、食事をとると回復します。空腹のときに無理をすると、倒れて寝込んでしまいます。</string>
-		<string>[color=116,255,145]Stamina(スタミナ)[/] 働いている間だけでなく、夕暮れから夜にかけて減少します。ベッドで眠ったり、釣りなどで楽しむと回復します。疲れたときに無理をすると、倒れて寝込んでしまいます。</string>
-		<string>[color=255,222,108]Drunkenness(酔い心地)[/] ビールを飲むと増加し、時間が経つと減ります。ビールのflavorによって特殊効果が付きます。同じ種類のビールを何杯も飲むと、効果が増強されます。</string>
-		<string>ハトは満腹かつ元気な状態で活動をしているあいだ、徐々に経験値が溜まり、十分に溜まるとレベルアップします。レベルアップごとに新しいスキルを獲得します。</string>
-		<string>現在、このクランのお客(#人)の訪問を[color=55,244,126]許可[/]しています。クリックすると拒否することができます。</string>
-		<string>現在、このクランのお客(#人)の訪問を[color=255,66,66]拒否[/]しています。クリックすると許可することができます。</string>
-		<string>パイプ表示の切り替え( [scale=0.5,true,false][icon=31,98,441,48,45][/] ) |凡例:|[padding=0,0,0,3][scale=0.75,true,false][icon=8,280,813,18,18][/][/] Input Pipe|[padding=0,0,0,3][scale=0.75,true,false][icon=8,299,813,18,18][/][/] Output Pipe|[padding=0,0,0,3][scale=0.75,true,false][icon=8,318,813,18,18][/][/] Combined Pipe|[padding=0,0,0,1][scale=0.75,true,false][icon=8,337,813,24,24][/][/] Production Origin|[scale=0.75,true,false][icon=8,307,832,26,26][/] Production Target|[color=66,255,208]地中にあるパイプは色付きで表示されます。[/]</string>
-		<string>[scale=0.5,true,false][icon=31,931,395,48,45][/]を押しながらだと#1個ずつ、[scale=0.5,true,false][icon=31,0,533,48,45][/]を押しながらだと|#2ずつ移動します。</string>
-		<string>レシピがセットされていません。|左クリック [scale=0.5,true,false][icon=31,30,359,29,35][/] でレシピをセットできます。</string>
-		<string>[color=167,95,255]#[/]のレシピがセットされています。|左クリック [scale=0.5,true,false][icon=31,30,359,29,35][/] でレシピブックを開いて|レシピの変更や削除ができます。</string>
-		<string>稼働中。素材があれば製造します。左クリック [scale=0.5,true,false][icon=31,30,359,29,35][/] で一時停止します。</string>
-		<string>一時停止中。左クリック [scale=0.5,true,false][icon=31,30,359,29,35][/] で再開します。</string>
-		<string>ビールのレシピがセットされていません。|レシピをセットすると、ストレージにビールが自動供給されます。左クリック [scale=0.5,true,false][icon=31,30,359,29,35][/] でレシピをセットできます。</string>
-		<string>[color=167,95,255]#[/]レシピのビールが自動供給されています。|左クリック [scale=0.5,true,false][icon=31,30,359,29,35][/] でレシピブックを開いてレシピの変更や削除ができます。</string>
-		<string>ほかの設備やパイプからの入出力が有効な状態です。|左クリック [scale=0.5,true,false][icon=31,30,359,29,35][/] で自動供給を無効化します。</string>
-		<string>ほかの設備やパイプからの入出力が無効な状態です。|左クリック [scale=0.5,true,false][icon=31,30,359,29,35][/] で自動供給を有効化します。</string>
+		<string>[color=178,153,164]Wood[/] is required for building all kind of stuff and fueling production. Chop down grown trees and stumps with your hammer-axe to get wood.</string>
+		<string>[color=132,167,189]Stone[/] is used for building and obtained through smashing stones. If you run out of stones to smash, buy dynamite from the hawker and throw it into the stone pit. If a stone can be smashed depends on the level of your hammer-axe.</string>
+		<string>[color=167,176,154]Iron[/] is used for building and made out of iron ores obtained from smashed stones and melted in a furnace.</string>
+		<string>[color=167,205,203]Fiber[/] is used for decorating your inn and gathered by planting and harvesting cotton.</string>
+		<string>[color=240,176,84]Money[/] is used to buy all sorts of things, from interior up to seeds. Your main income is selling beer to your guests. But be aware: if you collapse due to starvation or exhaustion, you lose further money!</string>
+		<string>[color=84,240,98]Reputation[/] is gained by satisfying the incoming guests with beer which met their tastes. You can spend the reputation on upgrades.</string>
+		<string>[color=240,84,84]Social Rank[/] is increased by one for every clan if they reach a certain amount of satisfaction</string>
+		<string>Open the [color=167,95,255]Hub Book[/] by clicking here or pressing [scale=0.5,true,false][icon=31,98,395,48,45][/] . It shows the clans visiting your inn and their tastes as well as the upgrades you can perform.</string>
+		<string>Click or press [scale=0.5,true,false][icon=31,245,441,48,45][/] to toggle the [color=76,180,246]Wetness[/] map on or off. Wetness is high near water and can be modified by the weather and increased by using the water bucket.</string>
+		<string>Click or press [scale=0.5,true,false][icon=31,294,441,48,45][/] to toggle the [color=236,226,112]Eutrophy[/] map on or off. Eutrophy is modified by the weather and increased by using the dung bag after producing dung with a compost.</string>
+		<string>Click or press [scale=0.5,true,false][icon=31,343,441,48,45][/] to toggle the [color=234,123,244]Windbreak[/] map on or off. Windbreak is high near objects and modified by weather. Place fences or stone walls to modify the windbreak of a certain area.</string>
+		<string>Click or press [scale=0.5,true,false][icon=31,441,441,48,45][/] to toggle the [color=76,246,104]Plant Density[/] map on or off. Plant Density is high near plants. If seeds like a high plant density, put them together!</string>
+		<string>Click or press [scale=0.5,true,false][icon=31,490,441,48,45][/] to toggle the [color=170,170,170]Optimality[/] map on or off. Having the seed pouch equipped and a seed selected, this map shows the optimal places for this plant.</string>
+		<string>Click or hold [scale=0.5,true,false][icon=31,686,395,48,45][/] to toggle the [color=170,170,170]Additional Interface[/] map on or off, like the current filling level of storages or the visitors' clan emblems.</string>
+		<string>[color=75,245,211]Dawn[/] of day #! Sleeping during dawn refills your stamina only slowly.</string>
+		<string>[color=75,255,126]Midday[/] of day #! Sleeping during midday refills your stamina extremely slowly.</string>
+		<string>[color=255,150,93]Dusk[/] of day #! You are getting a bit exhausted over time, but sleeping during dusk refills your stamina.</string>
+		<string>[color=75,168,255]Night[/] of day #! You are getting exhausted over time, but sleeping during night refills your stamina extremely fast.</string>
+		<string>[color=93,196,255]Satiation[/] drops with every use of your tools but can be refilled by eating. If you starve, you wake up in your bed with some of your money stolen.</string>
+		<string>[color=116,255,145]Stamina[/] drops over time during dusk and night as well as with every use of your tools. Sleeping in a bed refills it as well as participating in amusing activities like fishing. If you are totally exhausted, you wake up in your bed with some of your money stolen.</string>
+		<string>[color=255,222,108]Drunkenness[/] is refilled by drinking beer and drops over time, often granting a bonus dependent on the beer's flavor. If you drink multiple beers of the same type, the duration is combined and the strongest effect applied.</string>
+		<string>The pigeon gains experience over time if not hungry, not tired and not locked in the sleeping box. With enough experience, it increases in level. For each level up, you can improve the pigeon's skills.</string>
+		<string>Currently this clan (with # visitors) is [color=55,244,126]allowed[/] to visit the inn (if the tavern is opened). Click to recall the permission.</string>
+		<string>Currently this clan (with # visitors) [color=255,66,66]isn't allowed[/] to visit your inn. Click to grant them the permission.</string>
+		<string>Click or press [scale=0.5,true,false][icon=31,98,441,48,45][/] to switch through the different pipe system visualizations, including "hidden, "pipes only" and "pipes and production". Legend:|[padding=0,0,0,3][scale=0.75,true,false][icon=8,280,813,18,18][/][/] Input Pipe|[padding=0,0,0,3][scale=0.75,true,false][icon=8,299,813,18,18][/][/] Output Pipe|[padding=0,0,0,3][scale=0.75,true,false][icon=8,318,813,18,18][/][/] Combined Pipe|[padding=0,0,0,1][scale=0.75,true,false][icon=8,337,813,24,24][/][/] Production Origin|[scale=0.75,true,false][icon=8,307,832,26,26][/] Production Target|[color=66,255,208]Colored symbols stand for underground pipes.[/]</string>
+		<string>Hold [scale=0.5,true,false][icon=31,931,395,48,45][/] to transfer #1x or [scale=0.5,true,false][icon=31,0,533,48,45][/] to transfer #2x.</string>
+		<string>This production doesn't have a cooking recipe for which it trys to produce for. Click with the left mouse button [scale=0.5,true,false][icon=31,30,359,29,35][/] to set a recipe.</string>
+		<string>This production currently trys to create products for the selected cooking recipe called [color=167,95,255]#[/]. Click with the left mouse button [scale=0.5,true,false][icon=31,30,359,29,35][/] to open the cooking recipe book and select another recipe or close it immediately to remove the recipe.</string>
+		<string>The production is currently active and will produce, if the materials are available. Click with the left mouse button [scale=0.5,true,false][icon=31,30,359,29,35][/] to pause.</string>
+		<string>The production is currently paused. Click with the left mouse button [scale=0.5,true,false][icon=31,30,359,29,35][/] to unpause.</string>
+		<string>This object hasn't a beer recipe attached. If you attach a beer recipe, this storage does get only filled automatically with beer specified by the recipe. Click with the left mouse button [scale=0.5,true,false][icon=31,30,359,29,35][/] to set a recipe.</string>
+		<string>This object does get only filled automatically with beer specified by the [color=167,95,255]#[/] recipe. Click with the left mouse button [scale=0.5,true,false][icon=31,30,359,29,35][/] to open the cooking recipe book and select another recipe or close it immediately to remove the recipe</string>
+		<string>The object is open for input and output from productions and pipes. Click with the left mouse button [scale=0.5,true,false][icon=31,30,359,29,35][/] to disable automatic inputs.</string>
+		<string>The object is closed for input and output via productions and pipes. Click with the left mouse button [scale=0.5,true,false][icon=31,30,359,29,35][/] to enable automatic inputs.</string>
 		<string>Click to toggle the menu.| |Time Played: [color=66,255,128]#2[/]| |[color=66,255,128]Orcish Inn #1[/] created by [color=66,255,128]Steven Colling[/] with music and sound effects by [color=66,255,128]Tilmann 'headchant' Hars[/].| |Official website and contact: [color=66,255,128]http://orcish-inn.stevencolling.com[/] [color=66,255,128]info@stevencolling.com[/]</string>
-		<string>クリックすると、キャラクターの性別を切り替えられます。</string>
-		<string>このボタンか [scale=0.5,true,false][icon=31,735,395,48,45][/] / [scale=0.5,true,false][icon=31,833,395,48,45][/] を押すと、チュートリアル画面の表示非表示が切り替わります。challengeモードでは無効です。</string>
+		<string>Click to swap the gender of your character.</string>
+		<string>Click here or press [scale=0.5,true,false][icon=31,735,395,48,45][/] or [scale=0.5,true,false][icon=31,833,395,48,45][/] to show respectively hide the tutorial. This is not available in the challenge scenario.</string>
 		<string>The following people support me financially via Patreon: [color=66,255,128]FotoN[/], [color=66,255,128]Tabisama[/], [color=66,255,128]Simon Barth[/], [color=66,255,128]The Sandbox Games DataBase[/], [color=66,255,128]Rusty Gear[/], [color=66,255,128]MissLily[/], [color=66,255,128]Pandafro[/], [color=66,255,128]Edward Truscott[/], [color=66,255,128]Cddarain[/], [color=66,255,128]Tuomo Lassila[/], [color=66,255,128]Xenorexian[/], [color=66,255,128]Lewis McReu[/] and [color=66,255,128]jessicabalu[/].</string>
 		<string></string>
 		<string>Click to visit a new region until you found one where your want to settle down. This one gets discarded. Loading can take some seconds.</string>
 		<string>Click to settle down in this region. You can't change it afterwards.</string>
+		<string>Items decay after every night depending on the item's decay chance multiplied by the inventory's respectively storage's decay chance in which the item is stored. Decaying reduces the item's quality by one until it reached a quality of zero.|[color=232,143,108]Next decay: #.[/]</string>
+		<string>The count of items this storage can take.</string>
+		<string>The count of items you can carry with you. If it exceeds the limit, you have to cope with negative effects like a descreased walking speed.</string>
+		<string>The decay chance of this storage. An item's chance of decay consists of the item's decay chance multiplied with the storage's decay chance.</string>
+		<string>The decay chance of your inventory. An item's chance of decay consists of the item's decay chance multiplied with the inventory's decay chance.</string>
+		<string>Hold [scale=0.5,true,false][icon=31,686,395,48,45][/] and click [scale=0.5,true,false][icon=31,30,359,29,35][/] to throw this item away. It can't be picked up again.</string>
+		<string>Click or press [scale=0.5,true,false][icon=31,833,441,48,45][/] to eat #.</string>
 	  </Data>
+    </Entry>
+	<Entry>
+      <Name>IconBubbleTooltips</Name>
+      <Data>
+        <string>This visitor didn't found any faucets to get beer from!</string>
+		<string>This visitor didn't get any beer from a faucet!</string>
+		<string>This visitor didn't found any chair to sit on.</string>
+		<string>This visitor didn't found any table with a chair.</string>
+		<string>This object has to be placed in a room, surrounded by walls (or doors) and with an indoor floor.</string>
+      </Data>
     </Entry>
 	<Entry>
       <Name>HubPageTooltips</Name>
       <Data>
-		<string>hub bookを閉じる</string>
-		<string>レシピを見る</string>
-		<string>クラン情報を見る(仮の画面)</string>
-		<string>アップグレード情報を見る(仮の画面)</string>
+        <string>Close the hub book and go back to the game.</string>
+		<string>Manage cooking recipes for production machines.</string>
+		<string>Manage clans and check how satisfied they are with your inn.</string>
+		<string>Temporary interface for upgrades. It will be replaced in the future!</string>
       </Data>
     </Entry>
 	<Entry>
@@ -944,6 +844,7 @@
       <Data>
         <string>Manage Cooking Recipes</string>
 		<string>Edit #</string>
+		<string>Clan Management</string>
       </Data>
     </Entry>
 	<Entry>
@@ -956,22 +857,22 @@
 	<Entry>
       <Name>HubTooltips</Name>
       <Data>
-		<string>レシピの名前を編集</string>
-		<string>ビールの種類</string>
-		<string>ビールの[color=236,235,120]taste(風味)[/]。|入れる[color=236,235,120]穀物[/](barleyなど)によって変わります。|クリックして変更。</string>
-		<string>ビールの[color=236,213,120]tint brightness(色あい)[/]。|Malt Boxに入れる[color=236,213,120]水[/]の量で調節します。|増やすには左クリック [scale=0.5,true,false][icon=31,30,359,29,35][/] 減らすには右クリック [scale=0.5,true,false][icon=31,60,359,29,35][/] 。</string>
-		<string>ビールの[color=236,120,120]full body(コク)[/]。|wort boilerに入れる[color=236,120,120]水[/]の量で調節します。|増やすには左クリック [scale=0.5,true,false][icon=31,30,359,29,35][/] 減らすには右クリック [scale=0.5,true,false][icon=31,60,359,29,35][/] 。</string>
-		<string>ビールの[color=120,236,128]bitterness(苦味)[/]。|beer brewing kettleに入れる[color=120,236,128]hop[/]の量で調節します。|増やすには左クリック [scale=0.5,true,false][icon=31,30,359,29,35][/] 減らすには右クリック [scale=0.5,true,false][icon=31,60,359,29,35][/] 。</string>
-		<string>ビールの[color=120,169,236]alcoholic strength(アルコール度数)[/]。|beer brewing kettleに入れる[color=120,169,236]yeast[/]の量で調節します。|増やすには左クリック [scale=0.5,true,false][icon=31,30,359,29,35][/] 減らすには右クリック [scale=0.5,true,false][icon=31,60,359,29,35][/] 。</string>
-		<string>ビールの[color=194,120,236]flavor(香り)[/]。|入れる[color=194,120,236]香りづけ素材[/](belladonnaなど)によって変わります。|クリックして変更。</string>
-		<string>マウスの左ボタン [scale=0.5,true,false][icon=31,30,359,29,35][/] で数秒間長押ししてレシピを削除</string>
-		<string>このカテゴリーにレシピを追加</string>
-		<string>レシピを上に移動</string>
-		<string>レシピを下に移動</string>
-		<string>このレシピで作られるもの</string>
-		<string>レシピを選択して [icon=39,311,503,19,19] をクリックするとレシピが設定できます。 [icon=39,331,503,19,19] をクリックすると解除できます。</string>
-		<string>レシピをセット</string>
-		<string>レシピを解除</string>
+        <string>Edit the cooking recipe's name.</string>
+		<string>The recipe's product is a beer with the properties listed below.</string>
+		<string>The beer's [color=236,235,120]taste[/]. Available are cereal crops like barley. Click to change the [color=236,235,120]taste[/].</string>
+		<string>The beer's [color=236,213,120]tint brightness[/], controlled by the amount of water in the malt box. [color=236,213,120]Perform a left click[/] [scale=0.5,true,false][icon=31,30,359,29,35][/] [color=236,213,120]to increase and a right click[/] [scale=0.5,true,false][icon=31,60,359,29,35][/] [color=236,213,120]to decrease tint brightness.[/]</string>
+		<string>The beer's [color=236,120,120]full body[/], controlled by the amount of water in the wort boiler. [color=236,120,120]Perform a left click[/] [scale=0.5,true,false][icon=31,30,359,29,35][/] [color=236,120,120]to increase and a right click[/] [scale=0.5,true,false][icon=31,60,359,29,35][/] [color=236,120,120]to decrease full body.[/.</string>
+		<string>The beer's [color=120,236,128]bitterness[/], controlled by the amount of hop in the beer brewing kettle. [color=120,236,128]Perform a left click[/] [scale=0.5,true,false][icon=31,30,359,29,35][/] [color=120,236,128]to increase and a right click[/] [scale=0.5,true,false][icon=31,60,359,29,35][/] [color=120,236,128]to decrease bitterness.[/.</string>
+		<string>The beer's [color=120,169,236]alcoholic strength[/], controlled by the amount of yeast in the beer brewing kettle. [color=120,169,236]Perform a left click[/] [scale=0.5,true,false][icon=31,30,359,29,35][/] [color=120,169,236]to increase and a right click[/] [scale=0.5,true,false][icon=31,60,359,29,35][/] [color=120,169,236]to decrease alcoholic strength.[/</string>
+		<string>The beer's optional [color=194,120,236]flavor[/]. Available are special flavor crops like Belladonna. Click to change the [color=194,120,236]flavor[/].</string>
+		<string>Hold the left mouse button [scale=0.5,true,false][icon=31,30,359,29,35][/] some seconds to delete this recipe.</string>
+		<string>Create a new recipe for this category.</string>
+		<string>Move the recipe up in the list.</string>
+		<string>Move the recipe down in the list.</string>
+		<string>This is the recipe's product.</string>
+		<string>Select a fitting recipe and click on the [icon=39,311,503,19,19] button to attach it to the object. Select the attached recipe and click the [icon=39,331,503,19,19] button to remove it.</string>
+		<string>Attach this recipe to the object.</string>
+		<string>Remove this recipe from the object.</string>
       </Data>
     </Entry>
 	<Entry>
@@ -1055,16 +956,21 @@
 	<Entry>
       <Name>BuffTooltips</Name>
       <Data>
+        <string></string>
 		<string></string>
 		<string></string>
-		<string></string>
-		<string>satiationの減少が抑えられています (level #l)|[color=229,157,53]残り#d[/]</string>
-		<string>staminaの減少が抑えられています (level #l)|[color=229,157,53]残り#d[/]</string>
-		<string>Satiationが徐々に回復します (level #l)|[color=229,157,53]残り #d[/]</string>
-		<string>Staminaが徐々に回復します (level #l)|[color=229,157,53]残り #d[/]</string>
-		<string>移動速度が上昇します (level #l).|[color=229,157,53]#d left.[/]</string>
-		<string>働きすぎで倒れてしまいました!|しばらく休むか、行商人が売っている薬を飲めば、動けるようになります。|[color=229,157,53]残り #d[/]</string>
-		<string>酔っぱらっています。|flavorつきのビールを飲んだなら、特殊効果が得られます!|[color=229,157,53]残り #d[/]</string>
+		<string>Working consumes less satiation (level #l).|[color=229,157,53]#d left.[/]</string>
+		<string>Working consumes less stamina (level #l).|[color=229,157,53]#d left.[/]</string>
+		<string>Satiation is restored over time (level #l).|[color=229,157,53]#d left.[/]</string>
+		<string>Stamina is restored over time (level #l).|[color=229,157,53]#d left.[/]</string>
+		<string>Movement speed increased (level #l).|[color=229,157,53]#d left.[/]</string>
+		<string>You are over-worked. Working consumes more satiation and stamina. Put up with it or buy medicine from the hawker.|[color=229,157,53]#d left[/]</string>
+		<string>You are drunk. Add flavor (like Belladonna) to the beer to gain further bonuses!|[color=229,157,53]#d left[/]</string>
+		<string>You carry too many items with you, so your walking speed is decreased by #1 in total. Every #2 overweight increases the effect.</string>
+		<string>You sleep and therefore stamina increases and satiation decreases over time. Sleeping is very effective during night and very ineffective during midday.</string>
+		<string>You are amused: your stamina increases over time.|[color=229,157,53]#d left.[/]</string>
+		<string>You are euphoric: your stamina increases a lot over time.|[color=229,157,53]#d left.[/]</string>
+		<string>Because of the bad weather, your stamina drops over time if you are not in a room.</string>
       </Data>
     </Entry>
 	<Entry>
@@ -1082,10 +988,12 @@
 		<string>OPEN</string>
 		<string>SELL</string>
 		<string>BUY</string>
-		<string>STORAGE</string>
-		<string>FULL STORAGE</string>
+		<string></string>
+		<string></string>
 		<string># SELECT</string>
 		<string>INSPECT</string>
+		<string></string>
+		<string>THROW AWAY</string>
       </Data>
     </Entry>
 	<Entry>
@@ -1104,6 +1012,10 @@
 		<string></string>
 		<string></string>
 		<string></string>
+		<string>press # to water land</string>
+		<string>press # to pick up water</string>
+		<string>press # to dung land</string>
+		<string>press # to pick up dung</string>
       </Data>
     </Entry>
 	<Entry>
@@ -1982,54 +1894,55 @@
 	<Entry>
       <Name>InfoTexts</Name>
       <Data>
-		<string>[color=240,176,84]SUNNY![/] 太陽の光がふりそそぎ、とてもいい天気です!</string>
-		<string>[color=84,240,187]LIGHT RAIN![/] 雨で地面が濡れ、屋外のrain barrelに水が溜まります。 お客はあまり来ませんが、長居していくでしょう。</string>
-		<string>[color=84,240,187]MEDIUM RAIN![/] 大雨で地面が濡れ、屋外のrain barrelに水が溜まります。 お客はあまり来ませんが、長居していくでしょう。</string>
-		<string>[color=84,240,187]HEAVY RAIN![/] 豪雨で地面が濡れ、屋外のrain barrelに水が溜まります。 お客はあまり来ませんが、長居していくでしょう。</string>
-		<string>[color=188,191,191]CLOUDY![/] 少し曇ってきました。 悪天候になるかもしれません!</string>
-		<string>[color=84,172,240]LIGHT HAIL![/] ひょうで、外を出歩くのも一苦労です。建物やオブジェクトは被害を受けますが、最初から生えていた植物は大丈夫です。 お客はあまり来ませんが、長居していくでしょう。 行商人はやってきません。</string>
-		<string>[color=84,172,240]MEDIUM HAIL![/] 激しいひょうで、外を出歩くのも一苦労です。建物やオブジェクトは被害を受けますが、最初から生えていた植物は大丈夫です。 お客はあまり来ませんが、長居していくでしょう。 行商人はやってきません。</string>
-		<string>[color=84,172,240]HEAVY HAIL![/] 猛烈なひょうで、外を出歩くのも一苦労です。建物やオブジェクトは被害を受けますが、最初から生えていた植物は大丈夫です。 お客は自宅に籠り、行商人もやってこないでしょう。</string>
-		<string>[color=178,231,240]LIGHT SNOWFALL![/] 雪で地面が濡れています。 お客はあまり来ませんが、長居していくでしょう。</string>
-		<string>[color=178,231,240]MEDIUM SNOWFALL![/] 大雪で地面が濡れています。 お客はあまり来ませんが、長居していくでしょう。</string>
-		<string>[color=178,231,240]HEAVY SNOWFALL![/] 豪雪で地面が濡れています。 お客はあまり来ませんが、長居していくでしょう。</string>
-		<string>[color=188,191,191]MEDIUM STORM![/] 強い風雨で地面が濡れ、風が吹きつけています。外を出歩くのも一苦労です。 植物は被害を受けますが、最初から建っていた建物やオブジェクトは大丈夫です。 お客はあまり来ませんが、長居していくでしょう。 行商人もやってきません。</string>
-		<string>[color=188,191,191]MEDIUM STORM![/] 激しい嵐地面が濡れ、風が吹きつけています。外を出歩くのも一苦労です。 植物は被害を受けますが、最初から建っていた建物やオブジェクトは大丈夫です。 お客は自宅に籠り、行商人もやってこないでしょう。</string>
-		<string>[color=188,191,191]HEAVY STORM![/] 猛烈な嵐で地面が濡れ、風が吹きつけています。外を出歩くのも一苦労です。 最初に建っていたオブジェクト以外の植物が被害を受けます。 お客は自宅に籠り、行商人もやってこないでしょう。</string>
-		<string>[color=178,200,240]LIGHT FOG![/] 薄い霧で地面が湿っています。 お客はあまり来ませんが、長居していくでしょう。</string>
-		<string>[color=178,200,240]MEDIUM FOG![/] 霧で地面が湿っています。 お客はあまり来ませんが、長居していくでしょう。</string>
-		<string>[color=178,200,240]HEAVY FOG![/] 濃霧で地面が湿っています。 お客はあまり来ませんが、長居していくでしょう。</string>
-		<string>[color=240,161,84]LIGHT HEAT![/] 暑さで地面が干上がり、やせてしまいます。 お客は長居するでしょう。</string>
-		<string>[color=240,161,84]MEDIUM HEAT![/] 厳しい暑さで地面が干上がり、やせてしまいます。外を出歩くのも一苦労です。 お客は長居するでしょう。</string>
-		<string>[color=240,161,84]HEAVY HEAT![/] 猛烈な暑さで地面が干上がり、やせてしまいます。外を出歩くのも一苦労です。 お客は長居するでしょう。</string>
-		<string>[color=188,191,191]THUNDERSTORM![/] 激しい雷雨で地面が濡れ、風が吹きつけています。外を出歩くのも一苦労です。 お客は自宅に籠るでしょう。 雷が落ちれば、植物や建物などのオブジェクトが壊れてしまいます! 熱気球に雷が落ちることを恐れ、行商人はやってこないでしょう。</string>
-		<string>[color=84,172,240]LIGHT BLIZZARD![/] 吹雪で、風が吹き付けます。外を出歩くのも一苦労です。 最初に建っていたオブジェクト以外の植物が被害を受けます。 お客はあまり来ませんが、長居していくでしょう。 行商人はやってきません。</string>
-		<string>[color=84,172,240]MEDIUM BLIZZARD![/] 激しい吹雪で、風が吹き付けます。外を出歩くのも一苦労です。 植物は被害を受けますが、最初から建っていた建物やオブジェクトは大丈夫です。 お客は自宅に籠り、行商人もやってこないでしょう。</string>
-		<string>[color=84,172,240]HEAVY BLIZZARD![/] 猛烈な吹雪で、風が吹き付けます。外を出歩くのも一苦労です。 植物は被害を受けますが、最初から建っていた建物やオブジェクトは大丈夫です。 お客は自宅に籠り、行商人もやってこないでしょう。</string>
-		<string>[color=84,240,157]Congratulations![/] social rankが上がりました。評判を聞きつけた #1クラン(#2人) のお客が、酒場に訪れようとしています。 [color=84,240,157]hub menuから入店を許可できます。[/] [scale=0.5,true,false][icon=31,147,395,48,45][/].</string>
-		<string>#年目の[color=84,240,143]SPRING[/]!|Hop [scale=0.5,0.5,true,false][icon=28,0,0,50,50][/] と Belladonna [scale=0.5,0.5,true,false][icon=28,500,0,50,50][/]の旬で、より多くの作物が収穫できます。 Hop [scale=0.5,0.5,true,false][icon=28,0,0,50,50][/], Barley [scale=0.5,0.5,true,false][icon=28,150,0,50,50][/], Belladonna [scale=0.5,0.5,true,false][icon=28,500,0,50,50][/], Sunflowers [scale=0.5,0.5,true,false][icon=28,400,0,50,50][/] は通常の速度で育ちますが、その他の作物は育つのに時間がかかります。</string>
-		<string>#年目の[color=165,240,84]SUMMER[/]!|Barley [scale=0.5,0.5,true,false][icon=28,150,0,50,50][/], Corn [scale=0.5,0.5,true,false][icon=28,50,0,50,50][/], Blueleaves [scale=0.5,0.5,true,false][icon=28,300,0,50,50][/], Sunflowers [scale=0.5,0.5,true,false][icon=28,400,0,50,50][/]の旬で、いつもより多くの作物が収穫できます。Spelt [scale=0.5,0.5,true,false][icon=28,250,0,50,50][/], Corn [scale=0.5,0.5,true,false][icon=28,50,0,50,50][/], Blueleaves [scale=0.5,0.5,true,false][icon=28,300,0,50,50][/], Dryroot [scale=0.5,0.5,true,false][icon=28,450,0,50,50][/] は通常の速度で育ちますが、その他の作物は育つのに時間がかかります。</string>
-		<string>#年目の[color=240,84,84]AUTUMN[/]!|Cotton [scale=0.5,0.5,true,false][icon=28,550,300,50,50][/], Spelt [scale=0.5,0.5,true,false][icon=28,250,0,50,50][/], Dryroot [scale=0.5,0.5,true,false][icon=28,450,0,50,50][/]の旬で、いつもより多くの作物が収穫できます。Cotton [scale=0.5,0.5,true,false][icon=28,550,300,50,50][/], Rye [scale=0.5,0.5,true,false][icon=28,200,0,50,50][/], Wheat [scale=0.5,0.5,true,false][icon=28,100,0,50,50][/], Lotus [scale=0.5,0.5,true,false][icon=28,350,0,50,50][/] は通常の速度で育ちますが、その他の作物は育つのに時間がかかります。</string>
-		<string>#年目の[color=178,231,240]WINTER[/]!|Rye [scale=0.5,0.5,true,false][icon=28,200,0,50,50][/], Wheat [scale=0.5,0.5,true,false][icon=28,100,0,50,50][/], Lotus [scale=0.5,0.5,true,false][icon=28,350,0,50,50][/] の旬で、いつもより多くの作物が収穫できます。 草や木は冬の間は育ちません!</string>
-		<string>[color=255,163,96]Warning![/] #クランの満足度が低下したため、social rankが下がりました。</string>
-		<string>#2が不足しているため、#1が製造を停止しました!</string>
-		<string>ストレージに十分な空きがないため、#が製造を停止しました。</string>
-		<string>ハトのえさ箱がそろそろ空になりそうです。</string>
-		<string>旅に出ていたハト#1が、#2を持ち帰ってきました!</string>
-		<string>悪天候のため、ハトが死んでしまうかもしれません。 ハトを巣箱に戻しましょう!</string>
-		<string>ハト#が悪天候により死んでしまいました。</string>
-		<string>ハト#が老衰により死んでしまいました。</string>
-		<string>新しいハトが生まれました! 名前は#です。</string>
-		<string>ハト#1のレベルが#2になり、新しいスキルを覚えられるようになりました!</string>
-		<string>ハト#1と#2が繁殖しました。</string>
-		<string>ハトの巣箱#の餌が空になっています。</string>
-		<string>[color=84,240,157]Congratulations![/] #1クランのお客 (#2人) は満足したので、また酒場宿に訪れることでしょう。</string>
-		<string>[color=84,240,157]Congratulations![/] #1クランのお客 (#2人) は満足したので、[color=84,240,157]入店を許可すれば[/]また酒場宿に訪れることでしょう [scale=0.5,true,false][icon=31,147,395,48,45][/].</string>
+		<string>[color=240,176,84]SUNNY![/] The sun shines and everything is fine!</string>
+		<string>[color=84,240,187]LIGHT RAIN![/] The ground's wetness is increased and rain barrels get filled if outdoor. There are less visitors but the ones who come probably stay longer.</string>
+		<string>[color=84,240,187]MEDIUM RAIN![/] The ground's wetness is increased and rain barrels get filled if outdoor. There are less visitors but the ones who come probably stay longer.</string>
+		<string>[color=84,240,187]HEAVY RAIN![/] The ground's wetness is increased and rain barrels get filled if outdoor. There are less visitors but the ones who come probably stay longer.</string>
+		<string>[color=188,191,191]CLOUDY![/] It's getting a bit cloudy and therefore, bad weather could occur!</string>
+		<string>[color=84,172,240]LIGHT HAIL![/] It's exhausting to walk outside and the hailstones can damage objects, buildings but primarily plants. There are less visitors but the ones who come probably stay longer. The hawker will discontinue his visits.</string>
+		<string>[color=84,172,240]MEDIUM HAIL![/] It's exhausting to walk outside and the hailstones can damage objects, buildings but primarily plants. There are less visitors but the ones who come probably stay longer. The hawker will discontinue his visits.</string>
+		<string>[color=84,172,240]HEAVY HAIL![/] It's exhausting to walk outside and the hailstones can damage objects, buildings but primarily plants. Visitors will stay at home. The hawker will discontinue his visits.</string>
+		<string>[color=178,231,240]LIGHT SNOWFALL![/] The ground's wetness is increased. There are less visitors but the ones who come probably stay longer.</string>
+		<string>[color=178,231,240]MEDIUM SNOWFALL![/] The ground's wetness is increased. There are less visitors but the ones who come probably stay longer.</string>
+		<string>[color=178,231,240]HEAVY SNOWFALL![/] The ground's wetness is increased. There are less visitors but the ones who come probably stay longer.</string>
+		<string>[color=188,191,191]LIGHT STORM![/] The ground's wetness is increased and the windbreak is lowered. It's exhausting to walk outside and the storm can damage plants but primarily objects and buildings. There are less visitors but the ones who come probably stay longer. The hawker will discontinue his visits.</string>
+		<string>[color=188,191,191]MEDIUM STORM![/] The ground's wetness is increased and the windbreak is lowered. It's exhausting to walk outside and the storm can damage plants but primarily objects and buildings. Visitors will stay at home. The hawker will discontinue his visits.</string>
+		<string>[color=188,191,191]HEAVY STORM![/] The ground's wetness is increased and the windbreak is lowered. It's exhausting to walk outside and the storm can damage plants but primarily objects and buildings. Visitors will stay at home. The hawker will discontinue his visits.</string>
+		<string>[color=178,200,240]LIGHT FOG![/] The ground is getting wet. There are less visitors but the ones who come probably stay longer.</string>
+		<string>[color=178,200,240]MEDIUM FOG![/] The ground is getting wet. There are less visitors but the ones who come probably stay longer.</string>
+		<string>[color=178,200,240]HEAVY FOG![/] The ground is getting wet. There are less visitors but the ones who come probably stay longer.</string>
+		<string>[color=240,161,84]LIGHT HEAT![/] The ground's wetness and eutrophy is lowered and visitors will stay longer.</string>
+		<string>[color=240,161,84]MEDIUM HEAT![/] The ground's wetness and eutrophy is lowered and it's exhausting to walk outside. Visitors will stay longer.</string>
+		<string>[color=240,161,84]HEAVY HEAT![/] The ground's wetness and eutrophy is lowered and it's exhausting to walk outside. Visitors will stay longer.</string>
+		<string>[color=188,191,191]THUNDERSTORM![/] Oh shit! The ground's wetness is increased and the windbreak is lowered. It's exhausting to walk outside and visitors will stay at home. If a lightning strikes, it can damage plants, objects and buildings! The hawker will discontinue his visits, because hot-air balloons and lightning strikes are mostly a bad combination.</string>
+		<string>[color=84,172,240]LIGHT BLIZZARD![/] The windbreak is lowered. It's exhausting to walk outside and the storm can damage plants but primarily objects and buildings. There are less visitors but the ones who come probably stay longer. The hawker will discontinue his visits.</string>
+		<string>[color=84,172,240]MEDIUM BLIZZARD![/] The windbreak is lowered. It's exhausting to walk outside and the storm can damage plants but primarily objects and buildings. Visitors will stay at home. The hawker will discontinue his visits.</string>
+		<string>[color=84,172,240]HEAVY BLIZZARD![/] The windbreak is lowered. It's exhausting to walk outside and the storm can damage plants but primarily objects and buildings. Visitors will stay at home. The hawker will discontinue his visits.</string>
+		<string>[color=84,240,157]Congratulations![/] You increased in your social rank and a new clan heard of your efforts. The clan of #1 (#2 members) wants to visit your inn, [color=84,240,157]but you have to allow it in the hub menu[/] [scale=0.5,true,false][icon=31,147,395,48,45][/].</string>
+		<string>[color=84,240,143]SPRING[/] of year #! It's the main season for Hop [scale=0.5,0.5,true,false][icon=28,0,0,50,50][/] and Belladonna [scale=0.5,0.5,true,false][icon=28,500,0,50,50][/], therefore they can drop an extra crop on harvest. Furthermore, Hop [scale=0.5,0.5,true,false][icon=28,0,0,50,50][/], Barley [scale=0.5,0.5,true,false][icon=28,150,0,50,50][/], Belladonna [scale=0.5,0.5,true,false][icon=28,500,0,50,50][/] and Sunflowers [scale=0.5,0.5,true,false][icon=28,400,0,50,50][/] grow with their normal speed while all other crops need more time than normal to fully grow.</string>
+		<string>[color=165,240,84]SUMMER[/] of year #! It's the main season for Barley [scale=0.5,0.5,true,false][icon=28,150,0,50,50][/], Corn [scale=0.5,0.5,true,false][icon=28,50,0,50,50][/], Blueleaves [scale=0.5,0.5,true,false][icon=28,300,0,50,50][/] and Sunflowers [scale=0.5,0.5,true,false][icon=28,400,0,50,50][/], therefore they can drop an extra crop on harvest. Furthermore, Spelt [scale=0.5,0.5,true,false][icon=28,250,0,50,50][/], Corn [scale=0.5,0.5,true,false][icon=28,50,0,50,50][/], Blueleaves [scale=0.5,0.5,true,false][icon=28,300,0,50,50][/] and Dryroot [scale=0.5,0.5,true,false][icon=28,450,0,50,50][/] grow with their normal speed while all other crops need more time than normal to fully grow.</string>
+		<string>[color=240,84,84]AUTUMN[/] of year #! It's the main season for Cotton [scale=0.5,0.5,true,false][icon=28,550,300,50,50][/], Spelt [scale=0.5,0.5,true,false][icon=28,250,0,50,50][/] and Dryroot [scale=0.5,0.5,true,false][icon=28,450,0,50,50][/], therefore they can drop an extra crop on harvest. Furthermore, Cotton [scale=0.5,0.5,true,false][icon=28,550,300,50,50][/], Rye [scale=0.5,0.5,true,false][icon=28,200,0,50,50][/], Wheat [scale=0.5,0.5,true,false][icon=28,100,0,50,50][/] and Lotus [scale=0.5,0.5,true,false][icon=28,350,0,50,50][/] grow with their normal speed while all other crops need more time than normal to fully grow.</string>
+		<string>[color=178,231,240]WINTER[/] of year #! It's the main season for Rye [scale=0.5,0.5,true,false][icon=28,200,0,50,50][/], Wheat [scale=0.5,0.5,true,false][icon=28,100,0,50,50][/] and Lotus [scale=0.5,0.5,true,false][icon=28,350,0,50,50][/], therefore they can drop an extra crop on harvest. Plants and trees don't grow during winter!</string>
+		<string>[color=255,163,96]Warning![/] You decreased in your social rank, because the visiting clan # isn't satisfied anymore.</string>
+		<string>#1 stopped its production because of missing #2!</string>
+		<string># stopped its production because there isn't enough storage!</string>
+		<string>A pigeon feeding box runs out of food soon.</string>
+		<string>The pigeon #1 brought back an item (#2) from an exploration tour!</string>
+		<string>The bad weather may kill your pigeons. It's time to bring them back to the boxes!</string>
+		<string>The pigeon # died because of bad weather!</string>
+		<string>The pigeon # died because of a high age!</string>
+		<string>A new pigeon eclosed! The name of the new member is #.</string>
+		<string>The pigeon #1 reached level #2 and has new skill points to spend!</string>
+		<string>The pigeons #1 and #2 bred.</string>
+		<string>The pigeon sleeping box of # runs out of food!</string>
+		<string>[color=84,240,157]Congratulations![/] The clan #1 (#2 members) is satisfied again and will visit your inn.</string>
+		<string>[color=84,240,157]Congratulations![/] The clan #1 (#2 members) is satisfied again and will visit your inn, after [color=84,240,157]you allow them their attendance in the hub menu[/] [scale=0.5,true,false][icon=31,147,395,48,45][/].</string>
+		<string>[color=232,143,108]Item Decay![/] # items across inventory and storages decayed this night and got lowered by one quality level. An item's decay chance consists of an item's specific and the inventory's respectively storage's overall decay chance.</string>
 	  </Data>
     </Entry>
 	<Entry>
-      <Name>Tutorial</Name>
-      <Data>
+	<Name>Tutorial</Name>
+	<Data>
 		<string>Welcome to Orcish Inn</string>
 		<string>[color=66,255,128,NonIcon] [scale=0.5,true,false][icon=31,1078,441,48,45][/] [scale=0.5,true,false][icon=31,0,441,48,45][/] [scale=0.5,true,false][icon=31,882,441,48,45][/] [scale=0.5,true,false][icon=31,147,441,48,45][/] (もしくはテンキー)で移動ができます。 [scale=0.5,true,false][icon=8,878,706,40,40][/] ボタンか [scale=0.5,true,false][icon=31,784,395,48,45][/] キーを押すと次のページに進みます。[/]</string>
 		<string>TUTORIAL</string>
@@ -2299,8 +2212,8 @@
 		<string>チュートリアルお疲れさまでした!右上の [scale=0.75,true,false][icon=8,691,756,34,34][/] ボタンを押すと、このウィンドウを非表示にできます。 New Game [scale=0.75,true,false][icon=8,691,721,34,34][/] から、Challengeモードも試してみてください。 まずは[color=66,255,128,NonIcon]social rank [scale=1,true,false][icon=8,1259,368,18,18][/] 1を目指そう![/]</string>
 		<string>FINALLY</string>
 		<string>TutorialCompleted</string>
-	  </Data>
-    </Entry>
+	</Data>
+	</Entry>
 	<Entry>
       <Name>BottleMessages</Name>
       <Data>
