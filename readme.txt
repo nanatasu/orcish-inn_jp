@@ -1,9 +1,9 @@
-Orcish Inn 日本語化データ 0.0.9（rev3）
+Orcish Inn 日本語化データ 0.0.10（rev1）
 
 ■作成日
-　2015/5/24
+　2015/5/31
 ■対応バージョン
-　Orcish Inn 0.0.9
+　Orcish Inn 0.0.10
 
 ■使い方
 ・ \Content\languages\language_english.xml を置き換え
