@@ -157,6 +157,27 @@
 		<string>Midsized Bag</string>
 		<string>Big Bag</string>
 		<string>Charcoal</string>
+		<string>Straw Linen</string>
+		<string>Ragged Linen</string>
+		<string>Fiber Linen</string>
+		<string>Sunflower Linen</string>
+		<string>Parfumed Linen</string>
+		<string>Scratchy Linen</string>
+		<string>Heavy Linen</string>
+		<string>Pigeon Feather</string>
+		<string>Wet Straw Linen</string>
+		<string>Wet Ragged Linen</string>
+		<string>Wet Fiber Linen</string>
+		<string>Wet Sunflower Linen</string>
+		<string>Wet Parfumed Linen</string>
+		<string>Wet Scratchy Linen</string>
+		<string>Wet Heavy Linen</string>
+		<string>Belladonna Soap</string>
+		<string>Blueleave Soap</string>
+		<string>Dryroot Soap</string>
+		<string>Sunflower Soap</string>
+		<string>Lotus Soap</string>
+		<string>Wallet</string>
       </Data>
     </Entry>
 	<Entry>
@@ -180,36 +201,36 @@
 		<string>Iron Ore|岩からとれる。furnaceで熔かすとIronになる。</string>
 		<string>Iron|生産設備を作るための素材として使う。</string>
 		<string>Yeast(酵母)|ビール醸造に使う。ビールのAlcoholic Strengthを決める。</string>
-		<string>It smells bad and it's only one boot. Why? Why do you want to take this with you?</string>
-		<string>It's broken and can't be used for anything.</string>
-		<string>Oh! A nice skull of an orc. Perhaps one of your family members? Who knows!</string>
+		<string>ひどい臭いのする片足のブーツ。|え? どうしてそれを持ち帰ろうとするの?</string>
+		<string>壊れていて使い道のないがらくた。</string>
+		<string>いい感じのオークの頭骨|どこかのクランのオークだとは思うが、誰かはわからない。</string>
 		<string>不思議なお宝|どこのものかわからない。</string>
 		<string>走り書きされた紙片|何かの役に立つかもしれない。</string>
 		<string>危険な発明品|Stone pitに投げ込むとstoneがとれる。</string>
 		<string>瓶に入った薬。病気になったら飲もう。</string>
-		<string>If put in a furnace, a tasty dish can be made out of it.</string>
+		<string>furnaceに入れると、美味しい料理ができる。</string>
 		<string>ハトのたまご。巣箱に入れて育てたり、furnaceで焼いて食べるのもよい。</string>
 		<string>焼いたハトのたまご。とってもいい香り！</string>
-		<string>special care package|通常、戦争時の非常食として使用される。</string>
+		<string>特別救援物資|戦時の非常食として支給されるもの。</string>
 		<string>種の入った袋|中身はよくわからない。</string>
 		<string>かわいいバレンタインデーのカード|ハトが持ち帰ってきたもの。</string>
 		<string>古くて黄ばんだ紙の入った瓶。</string>
 		<string>この鏡には、自分の姿ではなく、遥か彼方の空が映っている。背面には'Jason Levine Jr.'で始まる署名が記されている。</string>
-		<string>普通のオークは、宝石のかけらか何かだと思うだろう。なんて愚かな! 背面には'Jason Levine Jr.'で始まる署名が記されている。</string>
+		<string>普通のオークは、宝石のかけらか何かだと思うだろう。無知とは恐ろしいものだ! 背面には'Jason Levine Jr.'で始まる署名が記されている。</string>
 		<string>金色の球。中は空洞になっており、何か入っているようだが、どうやって開ければいいのだろう? 底面には'Jason Levine Jr.'で始まる署名が記されている。</string>
 		<string>神秘的な装飾の施されたseed bag。底面には'Jason Levine Jr.'で始まる署名が記されている。</string>
 		<string>ハトの肉。おいしい。</string>
-		<string>A very small fish from the orcish swamps. Was it worth the work? Surely not.</string>
-		<string>A raw fish with a typical size, common in the local waters.</string>
-		<string>Wow! What a monster!</string>
-		<string>A tiny piece of baked fish.</string>
-		<string>A baked fish. What a good meal!</string>
-		<string>It such a big, tasty and good smelling fish. Oh dear!</string>
-		<string>A bread made out of barley.</string>
-		<string>A bread made out of spelt.</string>
-		<string>A bread made out of rye.</string>
-		<string>A bread made out of wheat.</string>
-		<string>A bread made out of corn.</string>
+		<string>オークの沼でとれたとても小さな魚。|何か使い道があるかって? もちろんない。</string>
+		<string>このあたりで釣れる、標準的なサイズの魚。</string>
+		<string>うわあ! モンスターだ!</string>
+		<string>焼き魚の一切れ。</string>
+		<string>焼き魚。すばらしい食事だ!</string>
+		<string>まあ! なんて大きくていい香りがする、美味しそうな魚でしょう!</string>
+		<string>barleyから作ったパン。</string>
+		<string>speltから作ったパン。</string>
+		<string>ryeから作ったパン。</string>
+		<string>wheatから作ったパン。</string>
+		<string>cornから作ったパン。</string>
 		<string>Malt made out of barley. It can be used in a wort boiler to produce barley wort.</string>
 		<string>Malt made out of spelt. It can be used in a wort boiler to produce spelt wort.</string>
 		<string>Malt made out of rye. It can be used in a wort boiler to produce rye wort.</string>
@@ -231,6 +252,27 @@
 		<string>A midsized bag. If carried in the inventory, the best bag increases the inventory's weight limit.</string>
 		<string>A big bag. If carried in the inventory, the best bag increases the inventory's weight limit.</string>
 		<string>Charcoal is mainly used for fueling production machines and furnaces.</string>
+		<string>A linen made out of straw.</string>
+		<string>A ragged and shabby linen. It really doesn't look that comfortable.</string>
+		<string>A very basic sheet made out of fiber.</string>
+		<string>A special and very smooth linen.</string>
+		<string>The linen is parfumed and probably doesn't leave much to desire.</string>
+		<string>The linen is very scratchy, which likely won't result in a restorative night.</string>
+		<string>This linen comes up with a chain and definitely has its charm.</string>
+		<string>A fluffy pigeon feather. It's from a pigeon. And fluffy.</string>
+		<string>A linen made out of straw.</string>
+		<string>A ragged and shabby linen. It really doesn't look that comfortable.</string>
+		<string>A very basic sheet made out of fiber.</string>
+		<string>A special and very smooth linen.</string>
+		<string>The linen is parfumed and probably doesn't leave much to desire.</string>
+		<string>The linen is very scratchy, which likely won't result in a restorative night.</string>
+		<string>This linen comes up with a chain and definitely has its charm.</string>
+		<string>A soap with a belladonna addition, used to wash linen in a washing trough.</string>
+		<string>A soap with a blueleaves addition, used to wash linen in a washing trough.</string>
+		<string>A soap with a dryroot addition, used to wash linen in a washing trough.</string>
+		<string>A soap with a sunflower addition, used to wash linen in a washing trough.</string>
+		<string>A soap with a lotus addition, used to wash linen in a washing trough.</string>
+		<string>A small leather pocket with some money in it.</string>
       </Data>
     </Entry>
 	<Entry>
@@ -250,6 +292,12 @@
 		<string>[color=232,143,108]Can decay with a chance of #.[/]</string>
 		<string>This type of bag increases the weight limit by #1 per quality star, therefore [color=240,176,84]#2 in total[/], given the selected quality level.</string>
 		<string>[color=232,143,108]Can get depleted during burning processes with a chance of #.[/]</string>
+		<string>If put in a bed, it has a bed comfort of [color=88,233,255]#[/], given the selected quality. The bed comfort affects the player's stamina restoration.</string>
+		<string>[color=88,233,255]Visitors pay # more money for staying a night.[/]</string>
+		<string>[color=88,233,255]Visitors have an increased chance of # to forget items in the inn.[/]</string>
+		<string>[color=88,233,255]Visitors have an increased chance of # to not wake up while their items are stolen.[/]</string>
+		<string>[color=232,143,108]Can get depleted during washing processes with a chance of #.[/]</string>
+		<string>[color=232,143,108]The linen is wet and its comfort is reduced by # until it's dry.[/]</string>
       </Data>
     </Entry>
 	<Entry>
@@ -266,6 +314,15 @@
       <Name>Empty</Name>
       <Data>
         <string>EMPTY!</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>Satisfactions</Name>
+      <Data>
+        <string>Tavern Comf.</string>
+		<string>Dorm Comf.</string>
+		<string>Bed Count</string>
+		<string>Bed Comf.</string>
       </Data>
     </Entry>
 	<Entry>
@@ -289,7 +346,7 @@
       <Name>BeerPropertiesShort</Name>
       <Data>
         <string>Taste</string>
-		<string>Tint Darkn.</string>
+		<string>Tint Brightn.</string>
 		<string>Full Body</string>
 		<string>Bitterness</string>
 		<string>Alc. Strength</string>
@@ -299,8 +356,10 @@
 	<Entry>
       <Name>Comfort</Name>
       <Data>
-        <string>Comfort</string>
-		<string>Comfort Points</string>
+        <string>Tavern Comfort</string>
+		<string>Tavern Comfort Points</string>
+		<string>Dorm Comfort</string>
+		<string>Dorm Comfort Points</string>
       </Data>
     </Entry>
 	<Entry>
@@ -318,20 +377,31 @@
 	<Entry>
       <Name>UnspecificProductionNames</Name>
       <Data>
-		<string>Fuel</string>
-		<string>作物(Barleyなど)|...Taste(風味)</string>
-		<string>水(Bucketで調節)|...Tint Brightness(色あい)</string>
-		<string>Malt(麦芽)</string>
-		<string>Wort(麦汁)</string>
-		<string>Hop|...Bitterness(苦み)</string>
-		<string>Yeast(行商人から購入)|...Alcoholic Strength(アルコール度数) </string>
-		<string>香りづけ素材(Belladonnaなど)|...Flavor(香り)</string>
-		<string>ビール</string>
-		<string>作物(Barleyなど)</string>
-		<string>肥料(Dung Bagで調整)</string>
-		<string>原料(Barley, Fish, Iron Oreなど)</string>
-		<string>調理/精錬済み</string>
-		<string>水(Bucketで調節)|...Full Body(コク)</string>
+        <string>Fuel</string>
+		<string>Crop for Taste (e.g. Barley)</string>
+		<string>Water for Tint Brightness (via Bucket)</string>
+		<string>Malt</string>
+		<string>Wort</string>
+		<string>Hop for Bitterness</string>
+		<string>Yeast for Alcoholic Strength (from Hawker)</string>
+		<string>Optional Crop for Flavor (e.g. Belladonna)</string>
+		<string>Beer</string>
+		<string>Crop (e.g. Barley)</string>
+		<string>Dung (via Dung Bag)</string>
+		<string>Raw Material (e.g. Barley, Fish or Iron Ore)</string>
+		<string>Cooked/Molten Product</string>
+		<string>Water for Full Body (via Bucket)</string>
+		<string>Wood</string>
+		<string>Charcoal</string>
+		<string>Fiber</string>
+		<string>Addition</string>
+		<string>Linen</string>
+		<string>Soap</string>
+		<string>Water</string>
+		<string>Dirty Linen</string>
+		<string>Clean Linen</string>
+		<string>Wet Linen</string>
+		<string>Dry Linen</string>
       </Data>
     </Entry>
 	<Entry>
@@ -454,6 +524,12 @@
 		<string>Ingot Yard</string>
 		<string>Silo</string>
 		<string>Cupboard</string>
+		<string>Charcoal Pile</string>
+		<string>Loom</string>
+		<string>Washing Trough</string>
+		<string>Clothes Dryer</string>
+		<string>Nightstand</string>
+		<string>Staff-Only Door</string>
       </Data>
     </Entry>
 	<Entry>
@@ -535,6 +611,12 @@
 		<string>The Ingot Yard</string>
 		<string>The Silo</string>
 		<string>The Cupboard</string>
+		<string>The Charcoal Pile</string>
+		<string>The Loom</string>
+		<string>The Washing Trough</string>
+		<string>The Clothes Dryer</string>
+		<string>The Nightstand</string>
+		<string>The Staff-Only Door</string>
       </Data>
     </Entry>
 	<Entry>
@@ -647,50 +729,27 @@
 	<Entry>
       <Name>Clan</Name>
       <Data>
-        <string>Clan</string>
-		<string>The</string>
+        <string>The # Clan</string>
       </Data>
     </Entry>
 	<Entry>
       <Name>ClanNames</Name>
       <Data>
-        <string>Ghouls</string>
-		<string>Coopers</string>
-		<string>Blacksmiths</string>
-		<string>Spearheads</string>
-		<string>Twisted Dragon</string>
-		<string>War Chant</string>
-		<string>Miners</string>
-		<string>Berserkers</string>
-		<string>Eye of Mind</string>
-		<string>Historians</string>
-		<string>Raven Covenant</string>
-		<string>Fishermen</string>
-		<string>Hawkers</string>
-		<string>Spirit Brew</string>
-		<string>First Scouts</string>
-		<string>Backbone</string>
+        <string>Agricult</string>
+		<string>Mogrim's Herd</string>
+		<string>Ghouls</string>
+		<string>Prospectors</string>
+		<string>Rootbound</string>
       </Data>
     </Entry>
 	<Entry>
       <Name>ClanDescriptions</Name>
       <Data>
+		<string>The Agricult is a cult about farming and agriculture. Their members may seem very superstitious at a first glance, but they are also responsible for major advances in the today's farming technologies. Nonetheless, they were never able to cut their religious roots. Since the beginning, they pray to a earth goddess well known in the orcish culture.</string>
+		<string>Mogrim is a traveling, warm-hearted blacksmith and vet. He started to follow the orcish army and set up his shop always right behind the base camp. As the war ended, he kept traveling and over the years, he clustered a bunch of loyal compagnions of all colors around him. This friendly group is well-known as Mogrim's Herd.</string>
 		<string>その昔、Ghoulsは尊敬されたクランの一つであり、大オーク戦争にてしんがりを任されていた。 オーク軍内での地位が高まるにつれ、かつての英雄たちは名前通り'悪鬼'と成り下がり、価値ある盗品を求めて敵の死体を漁るばかりとなった。 現在、Ghoulsは唾棄すべき屑の集まりである。</string>
-		<string>Coopersは、さまざまな種類の樽や箱を製造している。 彼らは最初期にギルドを立ち上げた職人集団の一つで、その財力はオーク政治における富と影響力を確実なものとした。 それにも拘らず、彼らはほかの職人ギルドに侮られることが多い。</string>
-		<string>戦争と切っても切り離せないオーク文化において、鍛冶は重要な役割を担う。 そのためBracksmithsは、とりわけ知名度が高く、広く尊敬されている職人ギルドの一つとなっている。 主要なクランの鍛冶職人は、このギルドにも所属する必要がある。</string>
-		<string>その名の通り、Spearheadは無鉄砲な戦士を最前線に送り込むクランである。 一族に伝わる習わしということも考えられるが、その高い戦死率のため、前線へ配備するオークは国外から大規模徴集している。</string>
-		<string>このクランは内戦の間、敗者に対し凄惨な尋問を行い、人々に恐怖と動揺をもたらした。 後にそれが明らかになると、自らその報いを受けることとなった。彼らは自身を敵をひねり潰すTwisted Dragonと称するが、 人々はわが身喰らいしHydraと呼んでいる。</string>
-		<string>War Chantクランは、オーク文化の音楽的側面を形成し、高めることを目的としている。 穏やかな社交の場か、血みどろの戦場であるかに関わらず、彼らの軍歌を耳にしない日はない。</string>
-		<string>Minersを構成する労働者階級の人々は、価値ある資源やさまざまな鉱物の採掘によりオークの手工業文化を支えているにも拘わらず蔑まれている。 近年、Minersのコミュニティは拡大しており、いよいよもって攻撃的で御しがたい存在となりつつある。</string>
-		<string>Berserkerクランは、オーク軍に人的資源を供給しており、現在の統治者である将軍の支配下におかれている。 変化には乏しいが安定した生活を手に入れたいオークたちが、Berserkerクラン外から殺到している。</string>
-		<string>Eye of Mindはシャーマンの連合である。 彼らは祖先の魂を呼び出し、物、主にアーティファクトに宿らせることを生業としている。 怪しげな所業に手を染めるシャーマンもおり、子孫に恵まれない幽霊などは、闇市場で "生ける蛇口" としての末路を迎えかねない。</string>
-		<string>Historianクランはほかとは異なり、若いオークたちを学者として育てることで、オーク社会の根幹を築いている。 彼らが書き記したオークの歴史書は、首都の図書館に保管され、誰でも閲覧可能である。</string>
-		<string>Raven Covenantは、慎み深く秘密主義の集団であり、その目的もまた闇に包まれている。 その身に刻まれた歴戦の傷跡と政治的立ち回りからして、彼らこそが陰で糸を引く黒幕なのかもしれない。</string>
-		<string>古くから繁栄の続くFishermenクランでは、漁師たちが誇りと厳しい規則を守り工芸品を作り続けてきた。 この生活様式を選ぶものは、多くの勇気を携えなければならない。 なぜならオークの沼はあらゆる戦場よりも恐ろしく、危険であるからだ。</string>
-		<string>Hawkersは一種の行商人クランとして組織されているが、中にはまだ元のクランに所属し続けているものもいる。 このクランは取引の価格、地域、利用料金を管理する。 彼らの収入の一部は課税されるが、見返りとしてさまざまなクランの中で中立的な立場を享受している。</string>
-		<string>Spirit Brewクランは料理と醸造に特化したシャーマンの集まりである。 kettleによって時々起こす奇跡が、一方で人々の不信感を招き、オーク社会から締め出されている。 そのため、彼らは森で孤立して暮らし、取引のためにだけ近くの町を訪れる。</string>
-		<string>First Scoutsクランは幾度もオークの世界地図を描き変えるような新発見をしてきた。 探検船と、地図に関する豊富な蔵書こそが彼らの基本であり、国境線は今も、新たな発見を求め情熱を燃やすオークたちで溢れかえっている。</string>
-		<string>Backboneはいわゆるオークの木こりであり、オーク帝国の屋台骨を担うことからそう呼ばれている。 彼らの力と木材加工技術に関する知識がなければ、オークの街は今のように巨大にはなりえず、いまだ小さなテントで暮らしていただろう。</string>
+		<string>The Prospector clan is a well-structured organization which gets entrusted with uncovering new resources, like mines or fertile lands, and making them accessible. They earn good money and are often referred to gold diggers for that reason.</string>
+		<string>Rootbound is an orcish shaman clan living in a secret grove in the southern forests. They pray to the earth goddess and sacrifice living people in the hope that their blood feeds the ground and ensures the rich agriculture the orcs depend on so much.</string>
       </Data>
     </Entry>
 	<Entry>
@@ -828,14 +887,17 @@
 		<string>This visitor didn't found any chair to sit on.</string>
 		<string>This visitor didn't found any table with a chair.</string>
 		<string>This object has to be placed in a room, surrounded by walls (or doors) and with an indoor floor.</string>
+		<string>This visitor wanted to stay overnight but didn't found a bed.</string>
+		<string>This visitor saw that you stole his goods.</string>
+		<string>This visitor lost his goods in your inn.</string>
       </Data>
     </Entry>
 	<Entry>
       <Name>HubPageTooltips</Name>
       <Data>
 		<string>hub bookを閉じ、ゲームに戻る</string>
-		<string>生産機器にセットするレシピを確認する</string>
-		<string>クラン情報と満足度を確認する</string>
+		<string>クラン情報を確認する</string>
+		<string>レシピを確認する</string>
 		<string>アップグレード情報を確認する(仮の画面)</string>
       </Data>
     </Entry>
@@ -843,8 +905,11 @@
       <Name>HubHeadings</Name>
       <Data>
 		<string>レシピを見る</string>
-		<string># を編集する</string>
+		<string># レシピを編集する</string>
+		<string>クランの管理</string>
 		<string>クラン情報</string>
+		<string>クランの満足度</string>
+		<string>クランの統計</string>
       </Data>
     </Entry>
 	<Entry>
@@ -857,7 +922,7 @@
 	<Entry>
       <Name>HubTooltips</Name>
       <Data>
-		<string>レシピの名前を編集</string>
+		<string>レシピ名を編集</string>
 		<string>ビールの種類</string>
 		<string>ビールの[color=236,235,120]taste(風味)[/]。|入れる[color=236,235,120]穀物[/](barleyなど)によって変わります。|クリックして変更。</string>
 		<string>ビールの[color=236,213,120]tint brightness(色あい)[/]。|Malt Boxに入れる[color=236,213,120]水[/]の量で調節します。|増やすには左クリック [scale=0.5,true,false][icon=31,30,359,29,35][/] 減らすには右クリック [scale=0.5,true,false][icon=31,60,359,29,35][/] 。</string>
@@ -873,7 +938,51 @@
 		<string>レシピを選択して [icon=39,311,503,19,19] をクリックするとレシピが設定できます。 [icon=39,331,503,19,19] をクリックすると解除できます。</string>
 		<string>レシピをセット</string>
 		<string>レシピを解除</string>
-		<string>Remove this recipe from the object.</string>
+		<string>Currently this clan is [color=55,244,126]allowed[/] to visit the inn (if the tavern is opened). Click to recall the permission.</string>
+		<string>Currently this clan [color=255,75,75]isn't allowed[/] to visit your inn. Click to grant them the permission.</string>
+		<string>Clan Information</string>
+		<string>Clan Satisfaction</string>
+		<string>In a future version, clan-related statistics like beer drunk or reputation generated are shown here.</string>
+		<string>In a future version, clan-related upgrades will be available here!</string>
+		<string>The current satisfaction of this clan. Try to satisfy them to increase in social rank [scale=1,true,false][icon=8,1259,368,18,18][/] and to get to more reputation [scale=1,true,false][icon=8,1240,368,18,18][/].</string>
+		<string>How many visitors of this clan are going to visit your inn. The number of visitors can change, for example depending on the current weather or on an increased social rank [scale=1,true,false][icon=8,1259,368,18,18][/].</string>
+		<string>Show the previous clan.</string>
+		<string>Show the next clan.</string>
+		<string>Show more of the clans above.</string>
+		<string>Show more of the clans below.</string>
+		<string>The current satisfaction: it has to be # or higher to satisfy this clan and to increase in your social rank [scale=1,true,false][icon=8,1259,368,18,18][/].</string>
+		<string>[color=251,213,81]Beer:[/] The desire for a good beer is satisfied by [color=251,213,81]#1[/]. A beer desire of 100% would add #2 to the overall satisfaction. Brew a beer they like to increase satisfaction.</string>
+		<string>[color=177,119,255]Tavern Comfort:[/] The desire for a well furnished tavern is satisfied by [color=177,119,255]#1[/]. A comfort desire of 100% would add #2 to the overall satisfaction. Place furniture with high tavern comfort points into the room they are drinking in.</string>
+		<string>[color=98,183,255]Rest:[/] The desire for a comfortable night is satisfied by [color=98,183,255]#1[/]. A rest desire of 100% would add #2 to the overall satisfaction. Build rooms with beds of the requested quality and add furniture with high dorm room comfort points. Drunken orcs are more likely to stay.</string>
+		<string>[color=108,255,174]Entertainment:[/] The desire for fun games is satisfied by [color=108,255,174]#1[/]. A entertainment desire of 100% would add #2 to the overall satisfaction.</string>
+		<string>[color=255,133,142]Heating:[/] The desire for a well heated tavern room is satisfied by [color=255,133,142]#1[/]. A heating desire of 100% would add #2 to the overall satisfaction.</string>
+		<string>[color=255,164,124]Food:[/] The desire for a good meal is satisfied by [color=255,164,124]#1[/]. A food desire of 100% would add #2 to the overall satisfaction.</string>
+		<string>The current [color=251,213,81]beer satisfaction[/] adds [color=251,213,81]#[/] to the overall satisfaction.</string>
+		<string>The current [color=177,119,255]tavern comfort satisfaction[/] adds [color=177,119,255]#[/] to the overall satisfaction.</string>
+		<string>The current [color=98,183,255]rest satisfaction[/] adds [color=98,183,255]#[/] to the overall satisfaction.</string>
+		<string>The current [color=108,255,174]entertainment satisfaction[/] adds [color=108,255,174]#[/] to the overall satisfaction.</string>
+		<string>The current [color=255,133,142]heating satisfaction[/] adds [color=255,133,142]#[/] to the overall satisfaction.</string>
+		<string>The current [color=255,164,124]food satisfaction[/] adds [color=255,164,124]#[/] to the overall satisfaction.</string>
+		<string>The currently [color=251,213,81]unfulfilled beer satisfaction[/] would add another [color=251,213,81]#[/] to the overall satisfaction.</string>
+		<string>The currently [color=177,119,255]unfulfilled tavern comfort satisfaction[/] would add another [color=177,119,255]#[/] to the overall satisfaction.</string>
+		<string>The currently [color=98,183,255]unfulfilled rest satisfaction[/] would add another [color=98,183,255]#[/] to the overall satisfaction.</string>
+		<string>The currently [color=108,255,174]unfulfilled entertainment satisfaction[/] would add another [color=108,255,174]#[/] to the overall satisfaction.</string>
+		<string>The currently [color=255,133,142]unfulfilled heating satisfaction[/] would add another [color=255,133,142]#[/] to the overall satisfaction.</string>
+		<string>The currently [color=255,164,124]unfulfilled food satisfaction[/] would add another [color=255,164,124]#[/] to the overall satisfaction.</string>
+		<string>The overall satisfaction of that clan is #.</string>
+		<string>The overall satisfaction required to satisfy this clan is #.</string>
+		<string>The desire for a [color=236,235,120]#1 taste[/] is satisfied with [color=236,235,120]#2[/]. Taste satisfaction increases only with #1 as taste.</string>
+		<string>The desire for a [color=236,213,120]tint brightness of #1[/] is satisfied with [color=236,213,120]#2[/]. A differing tint brightness leads to a slower satisfaction increase, depending on the distance to the one they wish for.</string>
+		<string>The desire for a [color=236,120,120]full body of #1[/] is satisfied with [color=236,120,120]#2[/]. A differing full body leads to a slower satisfaction increase, depending on the distance to the one they wish for.</string>
+		<string>The desire for a [color=120,236,128]bitterness of #1[/] is satisfied with [color=120,236,128]#2[/]. A differing bitterness leads to a slower satisfaction increase, depending on the distance to the one they wish for.</string>
+		<string>The desire for a [color=120,169,236]alcoholic strength of #1[/] is satisfied with [color=120,169,236]#2[/]. A differing alcoholic strength leads to a slower satisfaction increase, depending on the distance to the one they wish for.</string>
+		<string>The desire for a [color=194,120,236]#1 flavor[/] is satisfied with [color=194,120,236]#2[/]. Flavor satisfaction increases only with #1 as taste.</string>
+		<string>The clan doesn't want any flavor, so having none or adding a flavor doesn't change anything regarding the clan's satisfaction.</string>
+		<string>The desire for a [color=155,131,231]comfortable tavern room[/] is satisfied with [color=155,131,231]#1[/]. The satisfaction increases if the tavern's comfort is near the requested #2, for example slightly below or above. To increase the tavern comfort in a room, place furniture with a high tavern comfort value.</string>
+		<string>This specific desire of the clan is satisfied with #.</string>
+		<string>The desire for a [color=88,233,255]comfortable dorm room[/] is satisfied with [color=88,233,255]#1[/]. The satisfaction increases if the dorm room's comfort is near the requested #2, for example slightly below or above. To increase the dorm room comfort in a room, place furniture with a high dorm room comfort value.</string>
+		<string>The desire for a [color=88,233,255]specific dorm room size[/] is satisfied with [color=88,233,255]#1[/]. The satisfaction increases if there are about #2 beds in the room the guest is sleeping in.</string>
+		<string>The desire for a [color=88,233,255]comfortable bed[/] is satisfied with [color=88,233,255]#1[/]. The satisfaction increases if you use bed linen for the bed with a comfort near the requested one.</string>
       </Data>
     </Entry>
 	<Entry>
@@ -881,6 +990,24 @@
       <Data>
         <string>Beer Brewing</string>
 		<string>Cooking (Furnace)</string>
+		<string>Weaving (Loom)</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>RoomInterface</Name>
+      <Data>
+        <string>Tavern Comfort</string>
+		<string>Visitors want a specific tavern comfort regarding their [color=155,131,231]Comfort[/] satisfaction. Place furniture with tavern comfort points to increase the room's tavern comfort value.</string>
+		<string>Dorm Comfort</string>
+		<string>Visitors want a specific dorm comfort regarding their [color=88,233,255]Rest[/] satisfaction. Place furniture with dorm comfort points to increase the room's dorm comfort value.</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>UnitInterface</Name>
+      <Data>
+        <string>[color=95,223,255]Drunkenness:[/] This visitor gets drunk over time, depending on the amount of beer drunk and its [color=120,169,236]alcoholic strength[/]. Drunk orcs are more likely to stay a night.</string>
+		<string>[color=255,108,108]Aggression:[/] This feature isn't implemented yet, but later on, this visitor can get angry and start a tavern brawl!</string>
+		<string>This visitor is part of the #1 clan which has currently an overall satisfaction of #2.</string>
       </Data>
     </Entry>
 	<Entry>
@@ -892,12 +1019,12 @@
 		<string>[color=59,243,237]Perseverance:[/] Decreases the time until the pigeon has to go to sleep.</string>
 		<string>[color=59,243,237]Curiosity:[/] Decreases the time until the pigeon starts another exploration tour.</string>
 		<string>[color=59,243,237]Libido:[/] Decreases the time until the pigeon is ready for breeding.</string>
-		<string>[color=59,243,237]Happiness:[/] Increases the happiness the pigeon gains over time.</string>
+		<string>[color=59,243,237]Happiness:[/] Increases the happiness the pigeon gains over time and the chance to drop a feather per minute.</string>
 		<string>[color=59,243,237]Fountain of Youth:[/] Increases the time the pigeon lives.</string>
 		<string>[color=59,243,237]Cognitive Capacities:[/] Increases the amount of experience the pigeon gains over time.</string>
 		<string>[color=59,243,237]Gatherer:[/] Increases the chance that the pigeon finds rare loot on exploration tours.</string>
 		<string>[color=59,243,237]Super Genotype:[/] Increases the chance that the pigeon's offsprings get high skill values at their birth.</string>
-		<string>[color=59,243,237]High Quality:[/] Increases the chance that the pigeon leaves high quality eggs and meat.</string>
+		<string>[color=59,243,237]High Quality:[/] Increases the chance that the pigeon leaves high quality products.</string>
 		<string>[color=59,243,237]Resistance:[/] Increases the chance of the pigeon to survive bad weather.</string>
       </Data>
     </Entry>
@@ -957,7 +1084,6 @@
 	<Entry>
       <Name>BuffTooltips</Name>
       <Data>
-        <string></string>
 		<string></string>
 		<string></string>
 		<string></string>
@@ -1001,7 +1127,7 @@
 	<Entry>
       <Name>ControlHintsMouse</Name>
       <Data>
-        <string>hold # to sleep</string>
+        <string>walk on to sleep</string>
 		<string></string>
 		<string></string>
 		<string>press # for hub</string>
@@ -1057,12 +1183,7 @@
       </Data>
     </Entry>
 	<Entry>
-      <Name>ExhaustionPenalty</Name>
-      <Data>
-        <string>10% of your money was stolen!</string>
-      </Data>
-    </Entry>
-	<Entry>
+
       <Name>Calendar</Name>
       <Data>
         <string>Calendar</string>
@@ -1437,6 +1558,37 @@
       </Data>
     </Entry>
 	<Entry>
+      <Name>ChatterVisitorUnhappyNoBed</Name>
+      <Data>
+        <string>I wanted to stay a night but where are the beds?</string>
+		<string>I thought this was an inn but I didn't find any beds.</string>
+		<string>If you would add beds to your inn, you probably could make some more money.</string>
+		<string>No beds here. Walking home drunk is not always a good idea...</string>
+		<string>Where are the beds!?</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>ChatterVisitorUnhappyInkeeperIsThief</Name>
+      <Data>
+        <string>You gone too far!</string>
+		<string>What a bad behavior...</string>
+		<string>I never thought you would steal things from your guests.</string>
+		<string>How low can you go?</string>
+		<string>Thief!</string>
+		<string>Caught!</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>ChatterVisitorUnhappyItemsStolen</Name>
+      <Data>
+        <string>I was sure that I put my things here. Hm...</string>
+		<string>Where is my stuff?</string>
+		<string>You should know that there is a thief here... somewhere.</string>
+		<string>I lost my goods, damn.</string>
+		<string>Someone stole my goods.</string>
+      </Data>
+    </Entry>
+	<Entry>
       <Name>ChatterVisitorComingMoodLow</Name>
       <Data>
         <string>Let's see if the inn got better.</string>
@@ -1589,6 +1741,16 @@
 		<string>Can I have a beer?</string>
 		<string>A beer.</string>
 		<string>One, please.</string>
+      </Data>
+    </Entry>
+	<Entry>
+      <Name>ChatterVisitorWakingUp</Name>
+      <Data>
+        <string>Lets see what the day brings.</string>
+		<string>It's time to go to work. I guess.</string>
+		<string>A new day, a new chance.</string>
+		<string>Good morning!</string>
+		<string>I'm still a bit sleepy.</string>
       </Data>
     </Entry>
 	<Entry>
@@ -1863,8 +2025,10 @@
 		<string>Quests Completed</string>
 		<string># Placed</string>
 		<string># Placed</string>
-		<string>Maximal Comfort</string>
-		<string>Total Comfort</string>
+		<string>Maximal Tavern Comfort</string>
+		<string>Total Tavern Comfort</string>
+		<string>Maximal Dorm Comfort</string>
+		<string>Total Dorm Comfort</string>
 		<string>Satisfaction of the Clan</string>
 		<string>#</string>
 		<string>#</string>
@@ -1891,6 +2055,17 @@
 		<string>General Visiting</string>
 		<string>Currently Visiting</string>
 		<string>Stone Pit Used</string>
+		<string># hatched</string>
+		<string># killed</string>
+		<string># died</string>
+		<string># died</string>
+		<string># tours</string>
+		<string># seconds</string>
+		<string># fed</string>
+		<string># fed</string>
+		<string># bred</string>
+		<string># level(s)</string>
+		<string># point(s) spent</string>
       </Data>
     </Entry>
 	<Entry>
@@ -1940,6 +2115,9 @@
 		<string>[color=84,240,157]Congratulations![/] #1クランのお客 (#2人) は満足したので、また酒場宿に訪れることでしょう。</string>
 		<string>[color=84,240,157]Congratulations![/] #1クランのお客 (#2人) は満足したので、[color=84,240,157]入店を許可すれば[/]また酒場宿に訪れることでしょう [scale=0.5,true,false][icon=31,147,395,48,45][/].</string>
 		<string>[color=232,143,108]Item Decay![/] # items across inventory and storages decayed this night and got lowered by one quality level. An item's decay chance consists of an item's specific and the inventory's respectively storage's overall decay chance.</string>
+		<string>[color=255,163,96]A visitor forget an item: #1.[/] Visitors normally forget an item with a chance of #2, scaled by their remaining drunkenness.</string>
+		<string>[color=255,163,96]A visitor caught you while stealing his item![/] Visitors wake up while stealing their items with a chance of #1, scaled by their remaining drunkenness. The clan of which the visitor is a member of is angry: their satisfaction gets lowered by #2.</string>
+		<string>[color=255,163,96]A visitor misses his goods![/] Perhaps they got stolen? The clan of which the visitor is a member of is angry: their satisfaction gets lowered by #.</string>
 	  </Data>
     </Entry>
 	<Entry>
@@ -1951,7 +2129,7 @@
 		<string>Welcome</string>
 
 		<string>Stamina</string>
-		<string>夜 [scale=0.5,true,false][icon=8,429,1054,40,40][/] になると stamina(スタミナ) [scale=0.75,true,false][icon=8,1172,368,24,24][/] が減っていきます。staminaがないときに無理をすると、頭痛で倒れて寝込んでしまいます! [color=66,255,128,NonIcon]ベッド [scale=1.0,true,false][icon=28,160,159,30,30][/] を長押し [scale=0.5,true,false][icon=31,30,359,29,35][/] して、睡眠をとりましょう。[/]</string>
+		<string>夜 [scale=0.5,true,false][icon=8,429,1054,40,40][/] になると stamina(スタミナ) [scale=0.75,true,false][icon=8,1172,368,24,24][/] が減っていきます。staminaがないときに無理をすると、頭痛で倒れてしまいます! [color=66,255,128,NonIcon]ベッド [scale=1.0,true,false][icon=28,160,159,30,30][/] のところまで行って、睡眠をとりましょう。[/]</string>
 		<string>STATUSES</string>
 		<string>Stamina</string>
 
@@ -2096,22 +2274,27 @@
 		<string>BarleyHopYeast</string>
 
 		<string>The Right Beer</string>
-		<string>酒場宿を繁盛させるには、客層に合ったビールを造る必要があります。お客が所属する"クラン"がどういった風味を好むか確認しましょう。 [color=66,255,128,NonIcon] [scale=0.5,true,false][icon=31,147,395,48,45][/] を押してクラン画面(仮)を表示します。[/]</string>
+		<string>酒場宿を繁盛させるには、客層に合ったビールを造る必要があります。お客が所属する"クラン"がどういった風味を好むか確認しましょう。 [color=66,255,128,NonIcon] [scale=0.6,true,false][icon=8,691,670,50,50][/] をクリックするか、[scale=0.5,true,false][icon=31,98,395,48,45][/] を押してhub bookを開きます。[/]</string>
 		<string>SATISFACTION</string>
 		<string>Beer</string>
-
+		
+		<string>Select Clan Satisfaction</string>
+		<string>hub bookの左側にこのクランの基本情報が表示されます。 [color=66,255,128,NonIcon] satisfactionボタン [scale=0.75,true,false][icon=39,229,1221,31,31][/] をクリックすると、beer satisfaction[scale=1.0,true,false][icon=8,1297,368,18,18][/] のところにどんなビールを好むかが表示されます。[/]</string>
+		<string>SATISFACTION</string>
+		<string>ClanSatisfactionSelect</string>
+		
 		<string>Clan Satisfaction</string>
 		<string>ここには、酒場のcomfort(快適度)やビールのminimal quality(品質)のほか、クランが好むビールのtaste(風味) [color=236,213,120]tint brightness(色あい)[/] [color=236,120,120]full body(コク)[/] [color=120,236,128]bitterness(苦味)[/] [color=120,169,236]alcoholic strength(アルコール度数)[/]といった特徴が表示されます。 [color=66,255,128,NonIcon]次へ [scale=0.5,true,false][icon=8,878,706,40,40][/][/]</string>
 		<string>SATISFACTION</string>
 		<string>ClanSatisfaction</string>
 
 		<string>Cooking Recipes</string>
-		<string>レシピを開いて、クランの好みにあうビールを造ってみましょう。 [color=66,255,128,NonIcon]クラン情報画面を閉じ [scale=0.5,true,false][icon=31,147,395,48,45][/] 、画面中央の [scale=0.6,true,false][icon=8,691,670,50,50][/] ボタンか [scale=0.5,true,false][icon=31,98,395,48,45][/] キーを押してhub bookを開きます。[/]</string>
+		<string>レシピを開いて、クランの好みにあうビールを造ってみましょう。 [color=66,255,128,NonIcon]hub book [scale=0.5,true,false][icon=39,115,439,36,36][/]の右側のタブからレシピページを開きます。[/]</string>
 		<string>SATISFACTION</string>
 		<string>CookingRecipes</string>
 
 		<string>Beer Brewing Recipe</string>
-		<string>おっと! クラン向けのレシピがすでに用意されていますね。 [color=66,255,128,NonIcon]beer brewingカテゴリーをクリックして開き、 クラン名のレシピを選択しましょう。[/]</string>
+		<string>おっと! クラン向けのレシピがすでに用意されていますね。自分の好きなレシピを追加することもできます。 [color=66,255,128,NonIcon] [scale=0.5,true,false][icon=8,878,706,40,40][/] をクリックします。[/]</string>
 		<string>SATISFACTION</string>
 		<string>BeerBrewingRecipe</string>
 
@@ -2131,7 +2314,7 @@
 		<string>MaltProduction1</string>
 
 		<string>Malt Production</string>
-		<string>maltのtasteは入れる作物(今回はbarley [scale=0.5,true,false][icon=28,150,0,50,50][/] )によって決まり、[color=236,213,120]tint brightness[/] は水の量で決まります。 barleyと水は、セットしたレシピの分量が自動で補給されるので [color=66,255,128,NonIcon]malt [scale=0.5,true,false][icon=28,300,50,50,50][/] ができ上がるのを待ちましょう。[/]</string>
+		<string>maltの[color=236,235,120]taste[/]は入れる作物(今回はbarley [scale=0.5,true,false][icon=28,150,0,50,50][/] )によって決まり、[color=236,213,120]tint brightness[/] は水の量で決まります。 barleyと水は、セットしたレシピの分量が自動で補給されるので [color=66,255,128,NonIcon]malt [scale=0.5,true,false][icon=28,300,50,50,50][/] ができ上がるのを待ちましょう。[/]</string>
 		<string>BREWING</string>
 		<string>MaltProduction2</string>
 
@@ -2141,7 +2324,7 @@
 		<string>MaltProduction3</string>
 
 		<string>Wort Production</string>
-		<string>次にwort boiler [scale=0.75,true,false][icon=28,361,164,25,27][/] でmalt [scale=0.5,true,false][icon=28,300,50,50,50][/] をwort [scale=0.5,true,false][icon=28,350,50,50,50][/]にします。 tasteと[color=236,213,120]tint brightness[/]は、素材となるmalt [scale=0.5,true,false][icon=28,300,50,50,50][/] の値を引き継ぎます。 [color=66,255,128,NonIcon]wort boilerにレシピをセットしてください。[/]</string>
+		<string>次にwort boiler [scale=0.75,true,false][icon=28,361,164,25,27][/] でmalt [scale=0.5,true,false][icon=28,300,50,50,50][/] をwort [scale=0.5,true,false][icon=28,350,50,50,50][/]にします。 [color=236,235,120]Taste[/]と[color=236,213,120]tint brightness[/]は、素材となるmalt [scale=0.5,true,false][icon=28,300,50,50,50][/] の値を引き継ぎます。 [color=66,255,128,NonIcon]wort boilerにレシピをセットしてください。[/]</string>
 		<string>BREWING</string>
 		<string>WortProduction0</string>
 
@@ -2151,7 +2334,7 @@
 		<string>WortProduction1</string>
 
 		<string>Beer Production</string>
-		<string>beer brewing kettle [scale=0.5,true,false][icon=28,412,151,24,46][/] にwort [scale=0.5,true,false][icon=28,350,50,50,50][/] hop [scale=0.5,true,false][icon=28,0,0,50,50][/] yeast [scale=0.5,true,false][icon=28,600,50,50,50][/]を入れて醸造するとビール [scale=0.5,true,false][icon=28,750,50,50,50][/] ができます。taste, [color=236,213,120]tint brightness[/], [color=236,120,120]full body[/] は、素材となるwort [scale=0.5,true,false][icon=28,350,50,50,50][/] の値を引き継ぎます。 [color=66,255,128,NonIcon]次へ [scale=0.5,true,false][icon=8,878,706,40,40][/][/]</string>
+		<string>beer brewing kettle [scale=0.5,true,false][icon=28,412,151,24,46][/] にwort [scale=0.5,true,false][icon=28,350,50,50,50][/] hop [scale=0.5,true,false][icon=28,0,0,50,50][/] yeast [scale=0.5,true,false][icon=28,600,50,50,50][/]を入れて醸造するとビール [scale=0.5,true,false][icon=28,750,50,50,50][/] ができます。[color=236,235,120]Taste[/], [color=236,213,120]tint brightness[/], [color=236,120,120]full body[/] は、素材となるwort [scale=0.5,true,false][icon=28,350,50,50,50][/] の値を引き継ぎます。 [color=66,255,128,NonIcon]次へ [scale=0.5,true,false][icon=8,878,706,40,40][/][/]</string>
 		<string>BREWING</string>
 		<string>BeerProduction0</string>
 
@@ -2161,7 +2344,7 @@
 		<string>BeerProduction1</string>
 
 		<string>Beer Production</string>
-		<string>近くの箱 [scale=1.0,true,false][icon=28,213,163,23,23][/] に素材を入れておけば、kettle [scale=0.5,true,false][icon=28,412,151,24,46][/] に自動で補給されます。 [color=66,255,128,NonIcon]yeast [scale=0.5,true,false][icon=28,600,50,50,50][/] とhop [scale=0.5,true,false][icon=28,0,0,50,50][/] をいくつか、近くの箱に入れましょう。[/]</string>
+		<string>近くの箱 [scale=1.0,true,false][icon=28,213,163,23,23][/] に素材を入れておけば、kettle [scale=0.5,true,false][icon=28,412,151,24,46][/] に自動で補給されます。 [color=66,255,128,NonIcon]yeast [scale=0.5,true,false][icon=28,600,50,50,50][/] とhop [scale=0.5,true,false][icon=28,0,0,50,50][/] を10個程度、近くの箱に入れましょう。[/]</string>
 		<string>BREWING</string>
 		<string>BeerProduction2</string>
 
@@ -2186,17 +2369,17 @@
 		<string>Visitors</string>
 
 		<string>Reputation</string>
-		<string>お客を満足させると、そのクランのreputation（評価） [scale=1,true,false][icon=8,1240,368,18,18][/]が徐々に増えていきます。 [color=66,255,128,NonIcon] [scale=0.5,true,false][icon=31,147,395,48,45][/] キーを押してクラン情報画面を開き、棒グラフを確認しましょう。次へ [scale=0.5,true,false][icon=8,878,706,40,40][/][/]</string>
+		<string>お客を満足させると、そのクランのreputation（評価） [scale=1,true,false][icon=8,1240,368,18,18][/]が徐々に増えていきます。 [color=66,255,128,NonIcon] [scale=0.6,true,false][icon=8,691,670,50,50][/] キーを押してhub bookを開き、現在の満足度を確認しましょう。次へ [scale=0.5,true,false][icon=8,878,706,40,40][/][/]</string>
 		<string>CLANS</string>
 		<string>Reputation</string>
 
 		<string>Social Rank</string>
-		<string>overall satisfactionが70%を超えると、social rank [scale=1,true,false][icon=8,1259,368,18,18][/] が上がって、新たなクランが酒場を訪れるようになります。 [color=66,255,128,NonIcon]次へ [scale=0.5,true,false][icon=8,878,706,40,40][/][/]</string>
+		<string>overall satisfactionが一定の値を超えると、social rank [scale=1,true,false][icon=8,1259,368,18,18][/] が上がって、新たなクランが酒場を訪れるようになります。 [color=66,255,128,NonIcon]次へ [scale=0.5,true,false][icon=8,878,706,40,40][/][/]</string>
 		<string>CLANS</string>
 		<string>SocialRank</string>
 
 		<string>Upgrades</string>
-		<string>social rank [scale=1,true,false][icon=8,1259,368,18,18][/] が上がるとreputation [scale=1,true,false][icon=8,1240,368,18,18][/] を使ってアップグレードができるようになります。 [color=66,255,128,NonIcon] [scale=0.5,true,false][icon=8,126,415,49,57][/] ボタンをクリックしてアップグレード画面を開きます。[/]</string>
+		<string>social rank [scale=1,true,false][icon=8,1259,368,18,18][/] が上がるとreputation [scale=1,true,false][icon=8,1240,368,18,18][/] を使ってアップグレードができるようになります。 [color=66,255,128,NonIcon]hub bookを閉じ、 [scale=0.5,true,false][icon=8,126,415,49,57][/] ボタンをクリックしてアップグレード画面を開きます。[/]</string>
 		<string>CLANS</string>
 		<string>Upgrades</string>
 
@@ -2214,6 +2397,7 @@
 		<string>チュートリアルお疲れさまでした!右上の [scale=0.75,true,false][icon=8,691,756,34,34][/] ボタンを押すと、このウィンドウを非表示にできます。 New Game [scale=0.75,true,false][icon=8,691,721,34,34][/] から、Challengeモードも試してみてください。 まずは[color=66,255,128,NonIcon]social rank [scale=1,true,false][icon=8,1259,368,18,18][/] 1を目指そう![/]</string>
 		<string>FINALLY</string>
 		<string>TutorialCompleted</string>
+
 	</Data>
 	</Entry>
 	<Entry>
