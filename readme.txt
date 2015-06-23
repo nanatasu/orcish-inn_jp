@@ -1,9 +1,9 @@
-Orcish Inn 日本語化データ 0.0.10（rev1）
+Orcish Inn 日本語化データ 0.0.11（rev1）
 
 ■作成日
-　2015/5/31
+　2015/06/23
 ■対応バージョン
-　Orcish Inn 0.0.10
+　Orcish Inn 0.0.11
 
 ■使い方
 ・ \Content\languages\language_english.xml を置き換え
@@ -16,7 +16,6 @@ Orcish Inn 日本語化データ 0.0.10（rev1）
 ・チュートリアル
 ・各種tooltip
 　（UI、hub book、作物、アイテム、ビールなど）
-・クラン説明文
 ・アップデート説明文
 ・天気、季節情報
 
